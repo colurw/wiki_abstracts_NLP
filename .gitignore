@@ -64,3 +64,4 @@ test4.py
 testr.py
 test5.py
 raw_data/enwiki-latest-abstract27.xml
+__pycache__

@@ -1,0 +1,96 @@
+28633
+
+DOLICHOVESPULA MACULATA
+ Dolichovespula maculata is a species of wasp in the genus Dolichovespula and a member of the
+eusocial, cosmopolitan family Vespidae.  It is known by many colloquial names, primarily bald-faced
+hornet, but also including bald-faced aerial yellowjacket, bald-faced wasp, bald hornet, white-faced
+hornet, blackjacket, white-tailed hornet, spruce wasp, and bull wasp.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['wasps', 'wasp', 'hornet', 'species', 'vespa']
+>>>> H-Cluster Keywords:   ['bald faced', 'cicada killer', 'applied species']
+>>>> Hierarchical Cluster Size:   30
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Wasps & Parasites.
+
+DOLICHOVESPULA OMISSA
+Dolichovespula omissa is a species of wasp in the family of Vespidae.  It lives as a social parasite
+by letting colonies of Dolichovespula sylvestris raise their young.
+[score: 0.821] 
+
+DOLICHOVESPULA ARENARIA
+Dolichovespula arenaria, also known as the common aerial yellowjacket, sandhills hornet, and common
+yellow hornet, is a species of wasp within the genus Dolichovespula widely distributed in the North
+American continent.
+[score: 0.790] 
+
+DOLICHOVESPULA SAXONICA
+Dolichovespula saxonica, also known as the Saxon wasp, is a common social wasp found in the
+Palearctic region, specifically in large parts of Europe and in northern and central Asia.  Although
+originally from continental Europe, D.
+[score: 0.766] 
+
+DOLICHOGENIDEA
+Dolichogenidea is a genus of parasitoid wasps in the family Braconidae.  There are more than 360
+described species in Dolichogenidea, found throughout the world.
+[score: 0.722] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Wasp species.
+
+DOLICHOVESPULA ARENARIA
+ Dolichovespula arenaria, also known as the common aerial yellowjacket, sandhills hornet, and common
+yellow hornet, is a species of wasp within the genus Dolichovespula widely distributed in the North
+American continent.
+[semantic similarity: 0.838] 
+
+PARAVESPULA
+ Paravespula is a small subgenus of yellowjacket wasps, including some of the best-known wasp
+species in the world: the German wasp, Vespula germanica; the eastern yellowjacket Vespula
+maculifrons; the western yellowjacket Vespula pensylvanica; and the common wasp, Vespula vulgaris.
+It is occasionally treated as a separate genus, but this is not widely accepted.
+[semantic similarity: 0.796] 
+
+SCELIPHRON CURVATUM
+ Sceliphron curvatum, also known as the Asian mud-dauber wasp, is an insect in the genus Sceliphron
+of the wasp family Sphecidae.  Like all wasps of this genus, it is a solitary species and builds
+nests out of mud.
+[semantic similarity: 0.794] 
+
+TIPHIA FEMORATA
+ Tiphia femorata, often known as a beetle-killing wasp or common tiphiid wasp, is a species of wasp
+belonging to the family Tiphiidae, subfamily Tiphiinae.
+[semantic similarity: 0.785] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+BORRELIA MAYONII
+ Borrelia mayonii is a Gram-negative, host-associated spirochete that is capable of causing Lyme
+disease.  This organism can infect various vertebrate and invertebrate hosts such as humans and
+ticks, primarily Ixodes scapularis.
+[score: 0.646] 
+
+RUSSULA DELICA
+ Russula delica is a mushroom that goes by the common name of milk-white brittlegill, and is a
+member of the genus Russula, all of which are collectively known as brittlegills.  It is mostly
+white, with ochraceous or brownish cap markings, and a short robust stem.
+[score: 0.622] 
+
+MEGARHYSSA ATRATA
+ Megarhyssa atrata, also known as the black giant ichneumonid wasp, is a species of large ichneumon
+wasp.  It is known from North America,Megarhyssa atrata at www.
+[score: 0.619] 
+
+TRISSOLCUS BASALIS
+ Trissolcus basalis, or the green vegetable bug egg parasitoid, is a parasitoid wasp in the family
+Platygastridae known primarily for parasitising the horticultural pest Nezara viridula, the green
+vegetable bug.
+[score: 0.609] 
+
+
+>>>> Time taken (SBERT): 4.7 sec
+>>>> Time taken (USE): 31.8 sec
+>>>> Time taken (D2V): 1.4 sec

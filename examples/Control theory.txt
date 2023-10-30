@@ -1,0 +1,102 @@
+995
+
+CONTROL THEORY
+ Control theory is a field of control engineering and applied mathematics that deals with the
+control of dynamical systems in engineered processes and machines.  The objective is to develop a
+model or algorithm governing the application of system inputs to drive the system to a desired
+state, while minimizing any delay, overshoot, or steady-state error and ensuring a level of control
+stability; often with the aim to achieve a degree of optimality.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Control Theory.
+
+OPTIMAL CONTROL
+Optimal control theory is a branch of mathematical optimization that deals with finding a control
+for a dynamical system over a period of time such that an objective function is optimized.  It has
+numerous applications in science, engineering and operations research.
+[score: 0.780] 
+
+CONTROL (OPTIMAL CONTROL THEORY)
+In optimal control theory, a control is a variable chosen by the controller or agent to manipulate
+state variables, similar to an actual control valve.  Unlike the state variable, it does not have a
+predetermined equation of motion.
+[score: 0.676] 
+
+CONTROL ENGINEERING
+Control engineering or control systems engineering is an engineering discipline that deals with
+control systems, applying control theory to design equipment and systems with desired behaviors in
+control environments.  Electrical Engineering and Computer Science
+[score: 0.673] 
+
+DUAL CONTROL THEORY
+Dual control theory is a branch of control theory that deals with the control of systems whose
+characteristics are initially unknown.  It is called dual because in controlling such a system the
+controller's objectives are twofold:
+[score: 0.638] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Control theory techniques.
+
+OPTIMAL CONTROL
+ Optimal control theory is a branch of mathematical optimization that deals with finding a control
+for a dynamical system over a period of time such that an objective function is optimized.  It has
+numerous applications in science, engineering and operations research.
+[semantic similarity: 0.688] 
+
+ACKERMANN'S FORMULA
+ In control theory, Ackermann's formula is a control system design method for solving the pole
+allocation problem for invariant-time systems by Jurgen Ackermann.  One of the primary problems in
+control system design is the creation of controllers that will change the dynamics of a system by
+changing the eigenvalues of the matrix representing the dynamics of the closed-loop system.
+[semantic similarity: 0.650] 
+
+GAIN SCHEDULING
+ In control theory, gain scheduling is an approach to control of nonlinear systems that uses a
+family of linear controllers, each of which provides satisfactory control for a different operating
+point of the system.
+[semantic similarity: 0.644] 
+
+SELF-ORGANIZED CRITICALITY CONTROL
+ In applied physics, the concept of controlling self-organized criticality refers to the control of
+processes by which a self-organized system dissipates energy.  The objective of the control is to
+reduce the probability of occurrence of and size of energy dissipation bursts, often called
+avalanches, of self-organized systems.
+[semantic similarity: 0.640] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+SELF-TUNING
+ In control theory a self-tuning system is capable of optimizing its own internal running parameters
+in order to maximize or minimize the fulfilment of an objective function; typically the maximization
+of efficiency or error minimization.
+[score: 0.632] 
+
+IMPLEMENTATION
+ Implementation is the realization of an application, execution of a plan, idea, model, design,
+specification, standard, algorithm, policy, or the administration or management of a process or
+objective.
+[score: 0.623] 
+
+BOWYER-WATSON ALGORITHM
+ In computational geometry, the Bowyer-Watson algorithm is a method for computing the Delaunay
+triangulation of a finite set of points in any number of dimensions.  The algorithm can be also used
+to obtain a Voronoi diagram of the points, which is the dual graph of the Delaunay triangulation.
+[score: 0.586] 
+
+VARICAP
+ In electronics, a varicap diode, varactor diode, variable capacitance diode, variable reactance
+diode or tuning diode is a type of diode designed to exploit the voltage-dependent capacitance of a
+reverse-biased p-n junction.
+[score: 0.581] 
+
+
+>>>> Time taken (SBERT): 2.9 sec
+>>>> Time taken (USE): 22.8 sec
+>>>> Time taken (D2V): 1.6 sec

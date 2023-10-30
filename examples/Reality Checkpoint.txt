@@ -1,0 +1,97 @@
+55084
+
+REALITY CHECKPOINT
+ Reality Checkpoint is a large cast-iron lamppost in the middle of Parker's Piece, Cambridge,
+England, at the intersection of the park's diagonal paths.Cambridge News - Lighting trialled on
+Parker's Piece amid safety fears  "...
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Landmarks and buildings
+
+PARKER'S PIECE
+Parker's Piece is a  flat and roughly square green common located near the centre of Cambridge,
+England, regarded by some as the birthplace of the rules of association football.  The two main
+walking and cycling paths across it run diagonally, and the single lamp-post at the junction is
+colloquially known as Reality Checkpoint.
+[score: 0.724] 
+
+OBSERVER BUILDING, HASTINGS
+The Observer BuildingHastings Forum: Henry Ward, Architect - Hastings Forum , accessdate: 27
+November 2019 is a building on Cambridge Road, Hastings, England.  It was originally occupied by the
+print works and editorial offices of the Hastings & St.
+[score: 0.449] 
+
+SKY MIRROR
+Sky Mirror is a public sculpture by artist Anish Kapoor.  Commissioned by the Nottingham Playhouse,
+it is installed outside the theatre in Wellington Circus, Nottingham, England.
+[score: 0.441] 
+
+HARLEY AIRCRAFT LANDING LAMPS
+Harley Aircraft Landing Lamps was an aircraft landing light company based near St Neots in
+Cambridgeshire.  Their products were fitted to British aircraft between World War II and the 1960s.
+[score: 0.439] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Green spaces in England
+
+PARKER'S PIECE
+ Parker's Piece is a  flat and roughly square green common located near the centre of Cambridge,
+England, regarded by some as the birthplace of the rules of association football.  The two main
+walking and cycling paths across it run diagonally, and the single lamp-post at the junction is
+colloquially known as Reality Checkpoint.
+[semantic similarity: 0.600] 
+
+A TRUE WIDOW
+ A True Widow is a 1678 comedy play by the English writer Thomas Shadwell.  It was first staged by
+the Duke's Company at the Dorset Garden Theatre in London.
+[semantic similarity: 0.492] 
+
+HYDE PARK CORNER
+ Hyde Park Corner is between Knightsbridge, Belgravia and Mayfair in London, England.  It primarily
+refers to a major road junction at the southeastern corner of Hyde Park, that was originally planned
+by architect Decimus Burton.
+[semantic similarity: 0.486] 
+
+THE BACKS
+ The Backs is a picturesque area to the east of Queen's Road in the city of Cambridge, England,
+where several colleges of the University of Cambridge back on to the River Cam with their grounds
+covering both banks of the river.
+[semantic similarity: 0.476] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+RIDGEWOOD PARK (BASEBALL GROUND)
+ Ridgewood Park, also known as Wallace's Ridgewood Park or the Wallace Grounds, and frequently
+confused with Grauer's Ridgewood Park, was a baseball ground in Ridgewood, Queens, New York.  Both
+Wallace's and Grauer's are shown in Belcher Hyde's Map of Newtown in 1915.
+[score: 0.366] 
+
+JO BUNTING
+ Jo Bunting is a BAFTA award-winning producer and writer, currently series producer on Have I Got
+News For You and executive producer and writer of Channel 4's The Great British Bake Off: An Extra
+Slice.IMDB
+[score: 0.317] 
+
+MEDICAL DEVICES PARK, HYDERABAD
+ Medical Devices Park, Hyderabad is a medical devices industrial estate located in Hyderabad,
+Telangana, India.Nation's biggest medical devices park gets rolling
+[score: 0.316] 
+
+VISIONS BEFORE MIDNIGHT
+ Visions Before Midnight is a selection of the television criticism written by Clive James during
+his first four years (1972-1976) as The Observers weekly television critic.  The selection begins
+with a piece on the 1972 Summer Olympics in Munich, and ends with a piece on the 1976 Summer
+Olympics in Montreal.
+[score: 0.308] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 20.8 sec
+>>>> Time taken (D2V): 1.4 sec

@@ -1,0 +1,93 @@
+11608
+
+CIHUACOATL
+ In Aztec mythology, Cihuacoatl  ("snake woman"; also Cihuacoatl) was one of a number of motherhood
+and fertility goddesses.See also Ilamatecuhtli, Teteoinnan, Tlazolteotl, and Toci.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['aztec', 'mythology', 'goddess', 'god', 'deity']
+>>>> H-Cluster Keywords:   ['aztec mythology', 'moon god', 'pre columbian']
+>>>> Hierarchical Cluster Size:   35
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Aztec Deities.
+
+MALINALXOCHITL
+In Aztec mythology, Malinalxochitl, or Malinalxoch, (, from Nahuatl malinalli "grass" and xochitl
+"flower") was a sorceress and goddess of snakes, scorpions, and insects of the desert.  She claimed
+the title Cihuacoatl, meaning "Woman Serpent" or "Snake Woman".
+[score: 0.763] 
+
+CHICOMECOATL
+In Aztec mythology, Chicomecoatl  "Seven Serpent", was the Aztec goddess of agriculture during the
+Middle Culture period.  She is sometimes called "goddess of nourishment", a goddess of plenty and
+the female aspect of maize.
+[score: 0.744] 
+
+CIHUATETEO
+In Aztec mythology, the Cihuateteo (; , in singular ) or "Divine Women", were the spirits of women
+who died in childbirth.  They were likened to the spirits of male warriors who died in violent
+conflict, because childbirth was conceptually equivalent to battle in Aztec culture.
+[score: 0.732] 
+
+CIHUACOATL (POSITION)
+The cihuacoatl (, for "female twin"), was a supreme leader under the Tlatoani (Aztec emperor), or an
+esteemed advisor, within the Aztec Empire system of government.
+[score: 0.727] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Deities and Fertility
+
+TEN TEN-VILU
+ Ten Ten-Vilu or Trentren-Vilu (from Mapudungun Trengtrengfilu: Trengtreng a name, and filu "snake")
+is the Mapuche god of Earth and Fertility (or goddess in some versions found in Chiloe); he has a
+generous spirit and is the protector of all life on Earth, and the flora and fauna and according to
+some Mapuche myths (later also found in Chiloe). This snake was a central figure in the Origin Of
+The Chiloean Archipelago.
+[semantic similarity: 0.595] 
+
+NINGIRIMA
+ Ningirima was a Mesopotamian goddess associated with incantations, attested already in the Early
+Dynastic period.  She was also associated with snakes, fish and water.
+[semantic similarity: 0.590] 
+
+FECUNDITAS
+ In Roman mythology, Fecunditas (Latin: "fecundity, fertility") was the goddess of fertility.  She
+was portrayed as a matron, sometimes holding a cornucopia or a hasta pura, with children in her arms
+or standing next to her.
+[semantic similarity: 0.590] 
+
+SNAKES IN MYTHOLOGY
+ Snakes are a common occurrence in myths for a multitude of cultures.  The Hopi people of North
+America viewed snakes as symbols of healing, transformation, and fertility.
+[semantic similarity: 0.588] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+DOROTHY WALLACE
+ Dorothy Irene Wallace Andreoli is an American number theorist, mathematical biologist, and
+mathematics educator.  She is a professor of mathematics at Dartmouth College.
+[score: 0.759] 
+
+LILIJA BENENSONAITE
+ Lilija Benensonaite (also Liliya Benensonaite; born 1956) is a Lithuanian chess player.  She was
+the winner of Lithuanian Women's Chess Championship in 1973.
+[score: 0.755] 
+
+JOHN S. SHELLENBERGER
+ John S. Shellenberger (also Shallenberger, 30 August 1839 - 16 January 1911) was a corporal in the
+United States Army who was awarded the Presidential Medal of Honor for gallantry during the American
+Civil War.
+[score: 0.751] 
+
+JAKOB GOLDSCHMIDT
+ Jakob Goldschmidt (also Jacob Goldschmidt; born 31 December 1882 in Eldagsen; died 23 September
+1955 in New York) was a German-Jewish banker.Goldschmidt, JakobDeutschlands grosste Bankenkrisen
+[score: 0.749] 
+
+
+>>>> Time taken (SBERT): 3.1 sec
+>>>> Time taken (USE): 36.1 sec
+>>>> Time taken (D2V): 1.5 sec

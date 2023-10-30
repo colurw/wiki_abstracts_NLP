@@ -1,0 +1,96 @@
+47004
+
+QUINCEANERA
+ A  (also , , ,  and ) is a celebration of a girl's 15th birthday.  It has cultural roots in both
+Mexico and Spain and is widely celebrated by girls throughout Latin America.
+
+>>>> SpaCy Entity Recognition:   LOC - Non-GPE locations, mountain ranges, bodies of water
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Japanese Culture Group
+
+JUNIOR IDOL
+A , also known as a  or , is a type of entertainers under the age of 18 or 16 who are manufactured
+and marketed for their image, attractiveness and personality.  It is a sub-category of the idol
+culture in Japanese pop entertainment.
+[score: 0.634] 
+
+JINBEI
+A  (alternately  or ) is a traditional set of Japanese clothing worn by men, women and children
+during summer as loungewear.  Consisting of a side-tying, tube-sleeved kimono-style top and a pair
+of trousers,  were originally menswear only, though in recent years, women's  have become popular.
+[score: 0.561] 
+
+HANTEN
+A  (also ,  or ) is a short winter coat and an item of traditional Japanese clothing.  The  started
+to be worn, especially by the common people, in the 18th century, during Japan's Edo period
+(1603-1867).
+[score: 0.546] 
+
+PARROQUIA (SPAIN)
+A  (, , ) is a population entity or parish found in Galicia and Asturias in north-west Spain.  They
+are entities with a territorial scope lower than municipality and have their own legal personality.
+[score: 0.503] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Latin American Traditions
+
+LETANIA
+ Litany Para Pedir Posada () is a song traditionally sung in The Posadas -- traditional Christmas
+celebrations in some Spanish-speaking Latin American countries.  In Mexico, posadas are part of what
+has recently been called The Guadalupe-Reyes Marathon.
+[semantic similarity: 0.633] 
+
+ULTIMA MUNECA
+ La ultima muneca (Spanish for "the last doll") is a tradition of the Quinceanera, the celebration
+of a girl's fifteenth birthday in parts of Latin America.  During this ritual the quinceanera
+relinquishes a doll from her childhood to signify that she is no longer in need of such a toy, often
+giving it to a younger female relative.
+[semantic similarity: 0.606] 
+
+AGUINALDO (MUSIC)
+ Aguinaldo It is a genre of Puerto Rican and Venezuelan traditional and cultural music, popular in
+several Latin American countries., based on Spanish Christmas carols or villancicos which is
+traditionally sung on Christmas itself or during the holiday season.
+[semantic similarity: 0.602] 
+
+HOJUELA
+ An Hojuela, meaning "flake" in Spanish, is a traditional Spanish and American sweet baked-good.  In
+Latin American countries, especially Colombia and as origin in Spain, it is commonly made during
+Holy Week and the Christmas season.
+[semantic similarity: 0.579] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+NATIONAL DAY OF SPAIN
+ The National Day of Spain () is a national holiday held annually on October 12. It is also
+traditionally and commonly referred to as the Dia de la Hispanidad (Hispanicity, Spanishness Day),
+commemorating Spanish legacy worldwide, especially in Hispanic America.
+[score: 0.568] 
+
+INTERNATIONAL DAY OF THE GIRL CHILD
+ International Day of the Girl Child is an international observance day declared by the United
+Nations; it is also called the Day of Girls and the International Day of the Girl.  October 11,
+2012, was the first Day of the Girl Child.
+[score: 0.536] 
+
+A GRINGO GIRL IN MEXICO
+ A Gringo Girl in Mexico (Spanish:Una gringuita en Mexico) is a 1951 Mexican comedy film directed by
+Julian Soler and starring Antonio Badu, Martha Roth and Oscar Pulido.Wilt p.
+[score: 0.536] 
+
+KOGAL
+ is a Japanese fashion culture (a type of gyaru fashion) that involves girls wearing an outfit based
+on Japanese school uniforms (or their actual uniforms). The girls may also wear loose socks and
+scarves, and have dyed hair.
+[score: 0.530] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 29.2 sec
+>>>> Time taken (D2V): 1.6 sec

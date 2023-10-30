@@ -1,0 +1,97 @@
+31578
+
+SEBACEOUS HYPERPLASIA
+ Sebaceous hyperplasia is a disorder of the sebaceous glands in which they become enlarged,
+producing flesh-colored or yellowish, shiny, often umbilicated bumps on the face.  Newly formed
+nodules often swell with sweating (which is pathognomonic for the condition), but this diminishes
+over time.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['syndrome', 'characterized', 'disorder', 'disease', 'condition']
+>>>> H-Cluster Keywords:   ['autosomal recessive', 'spinal cord', 'disease caused']
+>>>> Hierarchical Cluster Size:   349
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Sebaceous Disorders
+
+SEBACEOUS ADENOMA
+A sebaceous adenoma, a type of adenoma, a cutaneous condition characterized by a slow-growing tumor
+usually presenting as a pink, flesh-coloured, or yellow papule or nodule.James et al.
+[score: 0.699] 
+
+ADENOMA SEBACEUM
+Adenoma sebaceum is a misnamed cutaneous disorder consisting of angiofibromas that begin in
+childhood (generally present between 2-5 years of age) and appear clinically as red papules on the
+face especially on the nasolabial folds, cheek and chin,Marks, James G; Miller, Jeffery (2006).
+Lookingbill and Marks' Principles of Dermatology (4th ed.
+[score: 0.668] 
+
+GENERALIZED TRICHOEPITHELIOMA
+Generalized trichoepitheliomas are characterized histologically by replacement of the hair follicles
+by trichoepithelioma-like epithelial proliferations associated with hyperplastic sebaceous
+glands.James, William; Berger, Timothy; Elston, Dirk (2005).
+[score: 0.661] 
+
+SEBACEOUS CARCINOMA
+Sebaceous carcinoma, also known as sebaceous gland carcinoma (SGc), sebaceous cell carcinoma, and
+meibomian gland carcinoma is an uncommon malignant cutaneous tumor.  Most are typically about 1.
+[score: 0.614] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Dermatological Skin Conditions
+
+HIDRADENITIS SUPPURATIVA
+ Hidradenitis suppurativa (HS), sometimes known as acne inversa or Verneuil's disease, is a long-
+term dermatological condition characterized by the occurrence of inflamed and swollen lumps.  These
+are typically painful and break open, releasing fluid or pus.
+[semantic similarity: 0.663] 
+
+ACNEIFORM ERUPTION
+ Acneiform eruptions, or acne mimicking eruptions, are a group of skin conditions characterized by
+small bumps resembling acne.  Typically, these bumps are mostly of similar size.
+[semantic similarity: 0.639] 
+
+EXANTHEMATIC PUSTULAR PSORIASIS
+ Exanthematic pustular psoriasis is a skin condition characterized by an acute eruption of small
+pustules, abruptly appearing and disappearing in a few days.  It usually follows an infection or may
+be caused by medications.
+[semantic similarity: 0.616] 
+
+FAVRE-RACOUCHOT SYNDROME
+ Favre-Racouchot syndrome is a solar elastotic disorder consisting of multiple open comedones that
+occurs in skin damaged by sunlight, especially under and lateral of the eyes.  The comedones are
+widened openings for hair follicles and sebaceous glands filled with material.
+[semantic similarity: 0.610] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+AUTOIMMUNE ESTROGEN DERMATITIS
+ Autoimmune estrogen dermatitis presents as a cyclic skin disorder, that may appear eczematous,
+papular, bullous, or urticarial.  with pruritus typically present, skin eruptions that may be
+chronic but which are exacerbated premenstrually or occur immediately following menses.
+[score: 0.766] 
+
+BANNAYAN-RILEY-RUVALCABA SYNDROME
+ Bannayan-Riley-Ruvalcaba syndrome (BRRS) is a rare overgrowth syndrome and  hamartomatous disorder
+with occurrence of multiple subcutaneous lipomas, macrocephaly and hemangiomas.  The disease is
+inherited in an autosomal dominant manner.
+[score: 0.756] 
+
+KERATOSIS LINEARIS WITH ICHTHYOSIS CONGENITA AND SCLEROSING KERATODERMA SYNDROME
+ Keratosis linearis with ichthyosis congenita and sclerosing keratoderma syndrome (KLICK syndrome)
+is a rare cutaneous condition characterized by ichthyosis and keratoderma.
+[score: 0.755] 
+
+DRAVET SYNDROME
+ Dravet syndrome, previously known as severe myoclonic epilepsy of infancy (SMEI), is an autosomal
+dominant genetic disorder which causes a catastrophic form of epilepsy, with prolonged seizures that
+are often triggered by hot temperatures or fever.  It is very difficult to treat with anticonvulsant
+medications.
+[score: 0.749] 
+
+
+>>>> Time taken (SBERT): 3.0 sec
+>>>> Time taken (USE): 29.6 sec
+>>>> Time taken (D2V): 1.5 sec

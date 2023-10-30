@@ -1,0 +1,93 @@
+54977
+
+GLENN TALBOT
+ Major (later Colonel) Glenn Talbot is a fictional character appearing in American comic books
+published by Marvel Comics.  Created by writer Stan Lee and artist Steve Ditko, he first appeared in
+Tales to Astonish #61 (November 1964).
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Comic book writers.
+
+GLENN GREENBERG
+Glenn Greenberg (born New York City) is an American journalist and comic book and fiction writer.
+At the beginning of his career, he became a regular Marvel Comics writer, penning stories for The
+Spectacular Spider-Man, The Rampaging Hulk, The Silver Surfer, and Dracula.
+[score: 0.586] 
+
+ERIC TALBOT
+Eric Talbot is an American comic book writer and artist known for his work on the Teenage Mutant
+Ninja Turtles series under Mirage Studios.  He was hired by long-time classmate and friend Kevin
+Eastman.
+[score: 0.580] 
+
+BARON VON BLITZSCHLAG
+Baron Werner Von Blitzschlag is a character appearing in American comic books published by Marvel
+Comics.  Created by writer Dan Slott and artist Stefano Caselli, the character first appeared in
+Avengers: The Initiative #1 (April 2007).
+[score: 0.572] 
+
+SPIDER-MAN IN FILM
+The fictional character Spider-Man, a comic book superhero created by Stan Lee and Steve Ditko and
+featured in Marvel Comics publications, has appeared as a main character in numerous theatrical and
+made-for-television films.
+[score: 0.565] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Marvel characters.
+
+KRAGLIN
+ Kraglin is a fictional character appearing in American comic books published by Marvel Comics.
+Created by plotter Stan Lee, writer Ernie Hart and artist Don Heck, he first appeared in Tales to
+Astonish #46 (August 1963).
+[semantic similarity: 0.885] 
+
+DORMAMMU
+ Dormammu () is a character appearing in American comic books published by Marvel Comics.  Created
+by Stan Lee and Steve Ditko, the character first appeared in Strange Tales #126 (November 1964).
+[semantic similarity: 0.863] 
+
+TRITON (COMICS)
+ Triton is a fictional character appearing in American comic books published by Marvel Comics.
+Created by Stan Lee and Jack Kirby, the character first appeared in Fantastic Four #45 (December
+1965).
+[semantic similarity: 0.856] 
+
+GROOT
+ Groot () is a fictional character appearing in American comic books published by Marvel Comics.
+Created by Stan Lee, Larry Lieber and Jack Kirby, the character first appeared in Tales to Astonish
+#13 (November 1960).
+[semantic similarity: 0.855] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+CORDILLERAN ICE SHEET
+ The Cordilleran ice sheet was a major ice sheet that periodically covered large parts of North
+America during glacial periods over the last ~2.6 million years.
+[score: 0.880] 
+
+CYRIL ENTWISTLE
+ Major Sir Cyril Fullard Entwistle, MC, QC (23 September 1887 - 9 July 1974) was a Liberal Party
+politician in the United Kingdom.  He later defected to the Conservative Party.
+[score: 0.879] 
+
+BIBLE TRANSLATIONS INTO CREOLE LANGUAGES
+ The creole languages include Dutch-based creole languages, English-based creole languages and
+French-based creole languages.  Major Bible translations into creole languages include:
+[score: 0.868] 
+
+TRI-RIVER LEAGUE
+ The Tri-River Athletic Conference (TRAC) is a high school athletic league that is part of the CIF
+Central Section.  All of the members are major public high schools in Fresno County, California.
+[score: 0.867] 
+
+
+>>>> Time taken (SBERT): 3.5 sec
+>>>> Time taken (USE): 26.7 sec
+>>>> Time taken (D2V): 1.6 sec

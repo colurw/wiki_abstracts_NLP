@@ -1,0 +1,95 @@
+504
+
+BARGE
+ Barge often refers to a flat-bottomed inland waterway vessel which does not have its own means of
+mechanical propulsion.  The first modern barges were pulled by tugs, but on inland waterways, most
+are pushed by pusher boats, or other vessels.
+
+>>>> SpaCy Entity Recognition:   ORDINAL - "first", "second", etc.
+
+>>>> H-Cluster Keywords:   ['boat', 'sailing', 'sail', 'ship', 'hull']
+>>>> H-Cluster Keywords:   ['sailing vessel', 'standing rigging', 'sailing ship']
+>>>> Hierarchical Cluster Size:   142
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Barge types
+
+SCHOONER BARGE
+A schooner barge is a type of ship; a schooner converted as a barge.  Schooner barges originated on
+the Great Lakes in the 1860s and were in use until World War II, although a few survived into the
+1950s.
+[score: 0.795] 
+
+DRY BULK CARGO BARGE
+A dry bulk cargo barge is a barge designed to carry freight such as coal, ores, grain, sand or
+gravel, or similar materials.  Barges are usually constructed of steel.
+[score: 0.710] 
+
+THAMES SAILING BARGE
+A Thames sailing barge is a type of commercial sailing boat once common on the River Thames in
+London.  The flat-bottomed barges with a shallow draught and leeboards, were perfectly adapted to
+the Thames Estuary, with its shallow waters and narrow tributary rivers.
+[score: 0.687] 
+
+HOPPER BARGE
+A hopper barge is a type of barge commonly designed to transport commodities like coal, steel,
+rocks, sand, soil and waste.  'Hopper barge' can also refer to a barge that dumps cargo at sea.
+[score: 0.686] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Watercraft varieties.
+
+ICEBREAKER
+ An icebreaker is a special-purpose ship or boat designed to move and navigate through ice-covered
+waters, and provide safe waterways for other boats and ships.  Although the term usually refers to
+ice-breaking ships, it may also refer to smaller vessels, such as the icebreaking boats that were
+once used on the canals of the United Kingdom.
+[semantic similarity: 0.725] 
+
+GARBAGE SCOW
+ A garbage scow is a large watercraft used to transport refuse and waste/garbage across waterways.
+It is often in the form of a barge which is towed or otherwise moved by means of tugboats; however,
+many are also self-propelled.
+[semantic similarity: 0.720] 
+
+OUTRIGGER BOAT
+ Outrigger boats are various watercraft featuring one or more lateral support floats known as
+outriggers, which are fastened to one or both sides of the main hull.  They can range from small
+dugout canoes to large plank-built vessels.
+[semantic similarity: 0.683] 
+
+PICKET BOAT
+ A picket boat is a type of small naval craft.  These are used for harbor patrol and other close
+inshore work, and have often been carried by larger warships as a ship's boat.
+[semantic similarity: 0.679] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+RAKETA (HYDROFOIL)
+ Raketa (, Rocket) was the first type of hydrofoil boats commercially produced in the Soviet Union.
+They were manufactured from 1957 until the early 1970s.
+[score: 0.646] 
+
+JOSEF VON ROMAKO
+ Josef Ritter von Romako (1828 - 5 June 1882) was an Austro-Hungarian naval architect in the 19th
+century.  He was responsible for designing most of the ironclad warships of the Austro-Hungarian
+Navy, from the first vessels of the  in the early 1860s to , built in the late 1870s and early
+1880s.
+[score: 0.635] 
+
+SEVASTAPOL: THE FIRST MODERN SIEGE
+ Sevastapol: The First Modern Siege is a board wargame published by Simulations Publications, Inc.
+(SPI) in 1978 that simulates the Siege of Sevastopol during the Crimean War.
+[score: 0.635] 
+
+REED BOAT
+ Reed boats and rafts, along with dugout canoes and other rafts, are among the oldest known types of
+boats.  Often used as traditional fishing boats, they are still used in a few places around the
+world, though they have generally been replaced with planked boats.
+[score: 0.627] 
+
+
+>>>> Time taken (SBERT): 3.8 sec
+>>>> Time taken (USE): 28.5 sec
+>>>> Time taken (D2V): 1.5 sec

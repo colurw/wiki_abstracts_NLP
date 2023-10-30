@@ -1,0 +1,92 @@
+71268
+
+JOHN LA TOUCHE (LYRICIST)
+ John Treville Latouche (La Touche) (November 13, 1914,Some sources say his year of birth was 1914,
+and others say 1917.  The "Vermont Death Records, 1909-2008" database on Ancestry.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['familysearch', 'database', 'records', 'registration', 'https']
+>>>> H-Cluster Keywords:   ['robert alexander', 'alexander anderson', 'officially kept']
+>>>> Hierarchical Cluster Size:   14
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  American Revolution and Vermont
+
+JOHN FASSETT JR.
+John Fassett Jr.  (June 23, 1743--April 2, 1803) was an early white settler of Vermont who served in
+the military during the American Revolution and held several government positions during Vermont's
+early years, including Justice of the Vermont Supreme Court.
+[score: 0.599] 
+
+ROMAN LAES
+Roman Laes (13 September 1905, in Tallinn - 22 September 1971)"California Death Index, 1940-1997,"
+database, FamilySearch (https://familysearch.org/ark:/61903/1:1:VPK1-SL2 : 26 November 2014), Roman
+Laes, 22 Sep 1971; Department of Public Health Services, Sacramento.
+[score: 0.572] 
+
+JOSEPH SIEFF
+Joseph Edward Sieff (November 28, 1905 - November 4, 1982,"England and Wales Death Registration
+Index 1837-2007", database, FamilySearch (https://www.familysearch.
+[score: 0.570] 
+
+JOSEPH WINTERS
+Joseph Richard Winters (August 29, 1824Although he is on record as claiming a date of birth of
+August 29, 1816, census records, his death certificate and other public records suggest an 1824
+date.  Maurice Leonard Marrotte III and Janet Jay Pollard: Chambersburg, (Charleston, S.
+[score: 0.563] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Birthplaces of Clergy
+
+JOHN RUSSELL (COLLIER)
+ John Russell (c.1788 - 1 March 1873)Although some sources give his date of birth as 1796, in
+Worcestershire, census records from 1851, 1861 and 1871 all give his place of birth as Broseley,
+Shropshire, in about 1788.
+[semantic similarity: 0.666] 
+
+JAMES RANDALL (PRIEST)
+ The Ven.  James RandallNPG details (born in Winchester 19 March 1790 and died in Binfield 19
+November 1882) was the Archdeacon of BerkshireBerkshire Record Society from 1855British History On-
+line until his resignation in 1869.
+[semantic similarity: 0.657] 
+
+EDWARD BARBER (PRIEST)
+ Edward BarberPhoto of Barber (born Brighouse, 19 September 1841 - died Chester, 23 July 1914) was
+Archdeacon of ChesterNational Archives from 1886THE NEW DEAN OF CHESTER.The Star (Saint Peter Port,
+England), Thursday, January 28, 1886; Issue 103 until his death.
+[semantic similarity: 0.632] 
+
+JOHN MENTINK
+ John Mentink (November 21, 1869 - August 16, 1953)'The Wisconsin Blue Book 1929 listed Mentink's
+year of birth as being in 1870; however, the obituary and Find A Grave had 1869 listed as the year
+of his birth.'  was an American, farmer, politician, and businessman.
+[semantic similarity: 0.628] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+JAMES M. REYNOLDS
+ James M. Reynolds (February 17, 1830 - April 19, 1899James Reynolds Wisconsin, Death Records
+"Wisconsin, Death Records, 1867-1907," database, FamilySearch ( https://familysearch.
+[score: 0.595] 
+
+WILLIAM EDWIN HAESCHE
+ William Edwin Haesche (April 11, 1867 - January 26, 1929"William Edwin Haesche" in Virginia, Death
+Records, 1912-2014 on Ancestry.com) was an American composer.
+[score: 0.585] 
+
+EDMUND POWELL
+ Edmund Nathanael Powell (2 September 1859 - 11 April 1928) was Bishop of MashonalandNational
+Archives from 1908 to 1910."The Clergy List" London, Kelly's, 1913
+[score: 0.558] 
+
+CARL "TATTI" SMITH
+ Carl "Tatti" Smith (born c.  1908, date of death unknown) was an American jazz trumpeter, best
+known for his performances with Count Basie and others in the 1930s and 1940s.
+[score: 0.558] 
+
+
+>>>> Time taken (SBERT): 9.8 sec
+>>>> Time taken (USE): 33.1 sec
+>>>> Time taken (D2V): 1.3 sec

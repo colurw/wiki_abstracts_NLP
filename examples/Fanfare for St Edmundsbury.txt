@@ -1,0 +1,98 @@
+39649
+
+FANFARE FOR ST EDMUNDSBURY
+ The Fanfare for St Edmundsbury is a fanfare for three trumpets written by the British composer
+Benjamin Britten for a "Pageant of Magna Carta" in the grounds of St Edmundsbury Cathedral, Bury St
+Edmunds in 1959.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['lieder', 'songs', 'mahler', 'march', 'knaben']
+>>>> H-Cluster Keywords:   ['st edmundsbury', 'horn old', 'german boy']
+>>>> Hierarchical Cluster Size:   15
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Royal Music
+
+FANFARE FOR A NEW THEATRE
+Fanfare for a New Theatre is a 1964 composition for two trumpets by Russian composer Igor
+Stravinsky.  It was premiered on April 19, 1964, and published by Boosey & Hawkes.
+[score: 0.570] 
+
+WEDDING ANTHEM FOR PRINCESS ANNE
+The Wedding anthem for Princess Anne, HWV 262, This is the day which the Lord hath made, is an
+anthem for vocal soloists, chorus and orchestra by George Frideric Handel.  It was written for the
+wedding of Anne, Princess Royal and Prince William of Orange and was first performed during their
+marriage at the French Chapel in St James's Palace, London, on 14 March 1734.
+[score: 0.529] 
+
+CORONATION MARCH (EDWARD GERMAN)
+The Coronation March is a piece for full orchestra composed by Edward German in 1911 upon invitation
+for the coronation ceremonies of King George V of the United Kingdom and Queen Mary.  The march and
+its accompanying hymn, "Veni Creator Spiritus," were partly derived from the composer's incidental
+music to Henry Irving's 1892 production of Henry VIII.
+[score: 0.516] 
+
+FANFARE FOR TOMORROW
+Fanfare for Tomorrow is a musical composition written by the American composer Peter Boyer.  It was
+originally composed in 2020 as a short fanfare for solo horn on a commission from the Cincinnati
+Symphony Orchestra and Cincinnati Pops Orchestra and was given its premiere by the horn player
+Elizabeth Freimuth on YouTube on May 29, 2020.
+[score: 0.512] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Music - British
+
+THE NEW JERUSALEM (WILBY)
+ The New Jerusalem is a work for brass band by the British composer Philip Wilby.  It was
+commissioned by the National Youth Brass Band of Great Britain, and first performed by them at City
+Hall, Salisbury in April 1990.
+[semantic similarity: 0.632] 
+
+THE NATIONAL ANTHEM (BENJAMIN BRITTEN)
+ The National Anthem is a 1962 choral and orchestral arrangement of God Save the Queen by Benjamin
+Britten.  The arrangement was written for the Leeds Festival.
+[semantic similarity: 0.617] 
+
+CHURCH OF ST VINCENT, NEWNHAM
+ The Church of St Vincent in Newnham in Hertfordshire is a 12th-century Anglican parish church and a
+Grade II* listed building, having gained that status in 1968.Church of St Vincent - Grade II* Listed
+Building in Newnham, Hertfordshire - English Heritage The church is named for Saint Vincent and is
+under the Diocese of St Albans; it is noted for the Newnham Murals which were uncovered in 1963.
+[semantic similarity: 0.593] 
+
+STATE BARGE OF CHARLES II
+ The State Barge of Charles II is a  British royal barge constructed around 1670 for the use of
+Charles II, for events now known as fleet reviews.  In January 1806 it was used to carry the coffin
+of Lord Nelson to St Paul's Cathedral for his funeral.
+[semantic similarity: 0.576] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+JIM BENNETT (POLITICIAN)
+ Jim Bennett is a Canadian author, lawyer and former politician in Newfoundland and Labrador.  He
+was elected as the Member of the House of Assembly for St.
+[score: 0.591] 
+
+MEXICANA UNIVERSAL QUINTANA ROO
+ Mexicana Universal Quintana Roo is a pageant in Quintana Roo, Mexico, that selects that state's
+representative for the national Mexicana Universal pageant.
+[score: 0.585] 
+
+HEROES INMORTALES XIII
+ Heroes Inmortales XIII (Spanish for "Immortal Heroes thirteen") was a professional wrestling event
+produced and scripted by the Mexican professional wrestling promotion Lucha Libre AAA World Wide
+(AAA). The event took place on October 19, 2019, in Coliseo "La Concordia" in Orizaba, Veracruz,
+Mexico.
+[score: 0.576] 
+
+NICK THOMPSON (FIELD HOCKEY)
+ Robert Patrick W. "Nicky" Thompson (born 21 September 1967) is a British former field hockey player
+who competed in the 1992 Summer Olympics and in the 1996 Summer Olympics.
+[score: 0.574] 
+
+
+>>>> Time taken (SBERT): 6.2 sec
+>>>> Time taken (USE): 64.6 sec
+>>>> Time taken (D2V): 6.3 sec

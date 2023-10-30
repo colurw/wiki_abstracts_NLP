@@ -1,0 +1,99 @@
+65325
+
+FOR ALL PRACTICAL PURPOSES
+ For all practical purposes, sometimes abbreviated FAPP, is a slogan used in physics to express a
+[attitude.  A physical theory might be ambiguous in some ways -- for example, being founded on
+untested assumptions or making unclear predictions about what might happen in certain situations --
+and yet still be successful in practice.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['descriptive', 'validity', 'description', 'criterion', 'construct']
+>>>> H-Cluster Keywords:   ['noun sense', 'descriptive statistics', 'deductive model']
+>>>> Hierarchical Cluster Size:   12
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Education Policy
+
+FA (PHILOSOPHY)
+Fa (;) is a concept in Chinese philosophy that covers ethics, logic, and law.  It can be translated
+as "law" in some contexts, but more often as "model" or "standard.
+[score: 0.537] 
+
+FUTURE LAUNCHERS PREPARATORY PROGRAMME
+The Future Launchers Preparatory Programme (FLPP) is a technology development and maturation
+programme of the European Space Agency (ESA). It develops technologies for the application in future
+European launch vehicles (launchers) and in upgrades to existing launch vehicles.
+[score: 0.535] 
+
+FREE APPROPRIATE PUBLIC EDUCATION
+The right to a Free Appropriate Public Education (FAPE) is an educational entitlement of all
+students in the United States who are identified as having a disability, guaranteed by the
+Rehabilitation Act of 1973Rehabilitation Act of 1973. and the Individuals with Disabilities
+Education Act (IDEA).
+[score: 0.507] 
+
+FIBER PATCH PLACEMENT
+Fiber Patch Placement (FPP), initially known as Fiber-Patch-Preforming.., is a robot-operated
+manufacturing technology for fiber composite objects such carbon, glass and adhesives.
+[score: 0.503] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Logic and philosophy.
+
+LOS-VAUGHT TEST
+ In model theory, a branch of mathematical logic, the Los-Vaught test is a criterion for a theory to
+be complete, unable to be augmented without becoming inconsistent.  For theories in classical logic,
+this means that for every sentence, the theory contains either the sentence or its negation but not
+both.
+[semantic similarity: 0.571] 
+
+PHILOSOPHICAL THEORY
+ A philosophical theory or philosophical positionDictionary of Theories, Jennifer Bothamley is a
+view that attempts to explain or account for a particular problem in philosophy.  The use of the
+term "theory" is a statement of colloquial English and not a technical term.
+[semantic similarity: 0.571] 
+
+METATHEOREM
+ In logic, a metatheorem is a statement about a formal system proven in a metalanguage.  Unlike
+theorems proved within a given formal system, a metatheorem is proved within a metatheory, and may
+reference concepts that are present in the metatheory but not the object theory.
+[semantic similarity: 0.560] 
+
+GENERIC FILTER
+ In the mathematical field of set theory, a generic filter is a kind of object used in the theory of
+forcing, a technique used for many purposes, but especially to establish the independence of certain
+propositions from certain formal theories, such as ZFC. For example, Paul Cohen used forcing to
+establish that ZFC, if consistent, cannot prove the continuum hypothesis, which states that there
+are exactly aleph-one real numbers.
+[semantic similarity: 0.552] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+MCCUMBER RELATION
+ The McCumber relation (or McCumber theory) is a relationship between the effective cross-sections
+of absorption and emission of light in the physics of solid-state lasers.D.
+[score: 0.657] 
+
+M E TORBETT LTD V KEIRLOR MOTELS LTD
+ M E Torbett Ltd v Keirlor Motels Ltd (established 1984) 1 NZBLC 102,079 is a cited case in New
+Zealand regarding fraud being a factor in determining whether an exclusion clause is enforceable
+under the Contractual Remedies Act [1979].
+[score: 0.654] 
+
+BOOLEAN-VALUED MODEL
+ In mathematical logic, a Boolean-valued model is a generalization of the ordinary Tarskian notion
+of structure from model theory.  In a Boolean-valued model, the truth values of propositions are not
+limited to "true" and "false", but instead take values in some fixed complete Boolean algebra.
+[score: 0.652] 
+
+PERTH--WELLINGTON (PROVINCIAL ELECTORAL DISTRICT)
+ Perth--Wellington is a provincial electoral district in Ontario, Canada, that has been represented
+in the Legislative Assembly of Ontario since the 2007 provincial election.
+[score: 0.645] 
+
+
+>>>> Time taken (SBERT): 3.0 sec
+>>>> Time taken (USE): 49.3 sec
+>>>> Time taken (D2V): 1.5 sec

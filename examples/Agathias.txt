@@ -1,0 +1,93 @@
+13042
+
+AGATHIAS
+ Agathias Scholasticus (; Martindale, Jones & Morris (1992), p.  23-25582/594) was a Greek poet and
+the principal historian of part of the reign of the Roman emperor Justinian I between 552 and 558.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Ancient Greek Poets
+
+AGAPETUS (DEACON)
+Agapetus was a deacon of the church of Hagia Sophia at Constantinople (about 500). He was a reputed
+tutor of Justinian, and author of a series of exhortations in seventy-two short chapters addressed
+around 527 to Justinian (Patrologia Graecae, LXXXVI, 1153-86).
+[score: 0.663] 
+
+AGATHYLLUS
+Agathyllus () was a Greek elegiac poet from Arcadia, who is quoted by Dionysius of Halicarnassus in
+reference to the history of Aeneas and the foundation of Rome.
+[score: 0.653] 
+
+ARABIUS SCHOLASTICUS
+Arabius Scholasticus () was a writer of classical antiquity who was the author of seven epigrams in
+the Greek Anthology, most of which are upon works of art.  He lived probably in the reign of
+Justinian.
+[score: 0.650] 
+
+NEMESIANUS
+Marcus Aurelius Olympius Nemesianus was a Roman poet thought to have been a native of Carthage and
+flourished about AD 283. He was a popular poet at the court of the Roman emperor Carus (Historia
+Augusta, Carus, 11).
+[score: 0.634] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Roman Generals.
+
+WILLIAM I OF VERONA
+ William I of Verona (, died in 1263) was the ruler of the central , or third, of the Lordship of
+Negroponte in Frankish Greece from 1216 to 1263. He was also the titular of king of Thessalonica
+from 1243 to 1246.
+[semantic similarity: 0.622] 
+
+COMENTIOLUS
+ Comentiolus (, Komentiolos; died 602) was a prominent Eastern Roman (Byzantine) general at the
+close of the 6th century during the reign of Emperor Maurice (). He played a major role in Maurice's
+Balkan campaigns, and fought also in the East against the Sassanid Persians.
+[semantic similarity: 0.610] 
+
+MARCUS AEMILIUS PAULLUS
+ Marcus Aemilius Paullus was a Roman statesman and general during the middle era of the Roman
+Republic.  He was one of the consuls of 255 BCE, serving with Servius Fulvius Paetinius Nobilior.
+[semantic similarity: 0.610] 
+
+SERVIUS FULVIUS PAETINUS NOBILIOR
+ Servius Fulvius Paetinius Nobilior was a Roman statesman and general during the middle era of the
+Roman Republic.  He was one of the two consuls of 255 BCE, serving with Marcus Aemilius Paullus.
+[semantic similarity: 0.609] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ASSET AND LIABILITY MANAGEMENT
+ Asset and liability management (often abbreviated ALM) is the practice of managing financial risks
+that arise due to mismatches between the assets and liabilities as part of an investment strategy in
+financial accounting.
+[score: 0.673] 
+
+AREBICA
+ Arebica (araebdya) is a variant of the Arabic script used to write the Serbo-Croatian language.  It
+was used mainly between the 15th and 19th centuries and is frequently categorized as part of
+Aljamiado literature.
+[score: 0.651] 
+
+LUNGOTEVERE DEI VALLATI
+ Lungotevere dei Vallati is the part of the lungotevere connecting  Piazza San Vincenzo Pallotti and
+Ponte Sisto to Via Arenula and Ponte Garibaldi in Rome, in the rione  Regola.Rendina-Paradisi
+(2004), p.
+[score: 0.643] 
+
+ACACIA FAUNTLEROYI
+ Acacia fauntleroyi is a shrub or small tree belonging to the genus Acacia and the subgenus
+Juliflorae that is endemic to a part of south western Australia.
+[score: 0.636] 
+
+
+>>>> Time taken (SBERT): 3.5 sec
+>>>> Time taken (USE): 28.8 sec
+>>>> Time taken (D2V): 1.7 sec

@@ -1,0 +1,102 @@
+8873
+
+MIMOSOIDEAE
+ The Mimosoideae are a traditional subfamily of trees, herbs, lianas, and shrubs in the pea family
+(Fabaceae) that mostly grow in tropical and subtropical climates.  They are typically characterized
+by having radially symmetric flowers, with petals that are twice divided (valvate) in bud and with
+numerous showy, prominent stamens.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Mimosa species.
+
+MIMOSA
+Mimosa is a genus of about 590 species of herbs and shrubs, in the mimosoid clade of the legume
+family Fabaceae.  The generic name is derived from the Greek word  (mimos), an "actor" or "mime",
+and the feminine suffix -osa, "resembling", suggesting its 'sensitive leaves' which seem to 'mimic
+conscious life'.
+[score: 0.786] 
+
+MIMOSA RUBICAULIS
+Mimosa rubicaulis is a shrub belonging to the family Fabaceae and subfamily Mimosoideae.  It is
+bipinnately compound, each leaf having 8-12 pairs of pinnae, each with 16-20 pairs of pinnules,
+unlike Mimosa pudica which has at most two prickly pairs of leaflets.
+[score: 0.693] 
+
+MIMOSA MICROPHYLLA
+Mimosa microphylla, commonly called littleleaf sensitive-briar, is a species of flowering plant in
+the legume family (Fabaceae). It is a perennial herb native to North America, where it is found
+primarily in the southeastern United States.
+[score: 0.687] 
+
+MIMETES
+Mimetes, the pagoda, is a genus of evergreen shrubs or small trees  high, with thirteen species
+assigned to the family Proteaceae.  This genus, as with other proteas, is popular with nectarivorous
+birds such as the Cape sugarbird and several sunbird species.
+[score: 0.669] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Plant families.
+
+VERBENACEAE
+ The Verbenaceae ( ), the verbena family or vervain family, is a family of mainly tropical flowering
+plants.  It contains trees, shrubs, and herbs notable for heads, spikes, or clusters of small
+flowers, many of which have an aromatic smell.
+[semantic similarity: 0.722] 
+
+FRANCOA
+ Francoa is a genus of flowering plants in the family Francoaceae, which consists of herbaceous
+perennials endemic to Chile.  Plants may grow up to one metre high and produce basal clumps of
+round, deeply lobed, dark green, fuzzy leaves with winged leafstalks.
+[semantic similarity: 0.715] 
+
+AESCHYNANTHUS
+ Aeschynanthus is a genus of about 150 species of evergreen subtropical and tropical plants in the
+family Gesneriaceae.  They are usually trailing epiphytes with brightly colored flowers that are
+pollinated by sunbirds.
+[semantic similarity: 0.707] 
+
+RUBIACEAE
+ The Rubiaceae  are a family of flowering plants, commonly known as the coffee, madder, or bedstraw
+family.  It consists of terrestrial trees, shrubs, lianas, or herbs that are recognizable by simple,
+opposite leaves with interpetiolar stipules and sympetalous actinomorphic flowers.
+[semantic similarity: 0.696] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+CLADIUM
+ Cladium (fen-sedge, sawgrass or twig-sedge) is a genus of large sedges, with a nearly worldwide
+distribution in tropical and temperate regions.  These are plants characterized by long, narrow
+(grass-like) leaves having sharp, often serrated (sawtooth-like) margins, and flowering stems 1-3 m
+tall bearing a much-branched inflorescence.
+[score: 0.634] 
+
+COLCHICUM DAVISII
+ Colchicum davisii is a large-flowering plant species native to Turkey.Kew World Checklist of
+Selected Plant Families, Colchicum davisii  The flowers are very pale pink and heavily tessellated
+with a white throat and prominent yellow anthers.
+[score: 0.616] 
+
+CALOTHAMNUS VALIDUS
+ Calothamnus validus, commonly known as Barrens clawflower,  is a plant in the myrtle family,
+Myrtaceae and is endemic to the south-west of Western Australia.  It is an upright or rounded shrub
+with stiff, cylindrical but not sharply pointed leaves and red, 4-part flowers.
+[score: 0.599] 
+
+INONOTUS CHRYSOMARGINATUS
+ Inonotus chrysomarginatus is a species of fungus in the family Hymenochaetaceae.  It is
+distinguished by having an annual to perennial growth habit, [basidiocarp]s (with a yellowish
+margin), setal [[hyphae and hooked hymenial setae, and subglobose, yellowish, thick-walled
+[basidiospore]s.
+[score: 0.594] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 27.7 sec
+>>>> Time taken (D2V): 1.6 sec

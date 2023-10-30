@@ -1,0 +1,92 @@
+23054
+
+FRANCOLIN
+ Francolins are birds in the tribe Gallini that traditionally have been placed in the genus
+Francolinus, but now commonly are divided into multiple genera.
+
+>>>> SpaCy Entity Recognition:   LOC - Non-GPE locations, mountain ranges, bodies of water
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Flower Families Cluster
+
+VELASQUEZ'S WOODPECKER
+Velasquez's woodpecker (Melanerpes santacruzi) is a species of bird in subfamily Picinae of the
+woodpecker family Picidae.  It is found from Mexico to Nicaragua.
+[score: 0.555] 
+
+FRANCOACEAE
+The Francoaceae are a small family of flowering plants in the order Geraniales, including the genera
+Francoa, commonly known as bridal wreaths, and Tetilla.  The Francoaceae are recognized as a family
+under various classification schemes but under the APG III system the Francoaceae are included
+within the Melianthaceae.
+[score: 0.551] 
+
+FRANCOA
+Francoa is a genus of flowering plants in the family Francoaceae, which consists of herbaceous
+perennials endemic to Chile.  Plants may grow up to one metre high and produce basal clumps of
+round, deeply lobed, dark green, fuzzy leaves with winged leafstalks.
+[score: 0.530] 
+
+FRANCOVICHIA
+Francovichia is a trilobite in the order Phacopida (family Dalmanitidae), that existed during the
+lower Devonian in what is now Bolivia.  It was described by Branisa and Vanek in 1973, and the type
+species is Francovichia branisi, which was originally described under the genus Odontochile by
+Wolfart in 1968.
+[score: 0.519] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Bird Genera.
+
+OLD WORLD QUAIL
+ Old World quail is a collective name for several genera of mid-sized birds in the tribe Coturnicini
+of the pheasant family Phasianidae.  Although all species commonly referred to as "Old World quail"
+are in the same tribe, they are paraphyletic with respect to the other members of the tribe, such as
+Alectoris, Tetraogallus, Ammoperdix, Margaroperdix, and Pternistis.
+[semantic similarity: 0.721] 
+
+ACTEPHILA
+ Actephila is a genus of plants in the family Phyllanthaceae, first described as a genus in 1826. It
+is one of 8 genera in the tribe Poranthereae, and is most closely related to Leptopus.
+[semantic similarity: 0.710] 
+
+MYTHIMNINI
+ The Mythimnini are a small tribe of moths in the Hadeninae subfamily.  As numerous hadenine genera
+have not yet been assigned to a tribe, the genus list is preliminary.
+[semantic similarity: 0.704] 
+
+SPOROPHILA
+ Sporophila is a genus of Neotropical birds in the tanager family Thraupidae.  The genus now
+includes the six seed finches that were previously placed in the genus Oryzoborus.
+[semantic similarity: 0.702] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+OBEREA BIVITTATA
+ Oberea bivittata is a species of flat-faced longhorn beetle in the tribe Saperdini in the genus
+Oberea.  It was described by Per Olof Christopher Aurivillius in 1911.
+[score: 0.909] 
+
+PTEROSTICHINI
+ Pterostichini is a tribe of ground beetles in the subfamily Harpalinae.  There are about 180 genera
+and more than 3,800 described species in Pterostichini.
+[score: 0.907] 
+
+COELOSTOMATINI
+ Coelostomatini is a tribe of water scavenger beetles in the family Hydrophilidae.  There are about
+7 genera and more than 70 described species in Coelostomatini.
+[score: 0.907] 
+
+OBEREA AURICOLLIS
+ Oberea auricollis is a species of flat-faced longhorn beetle in the tribe Saperdini in the genus
+Oberea.  It was described by Per Olof Christopher Aurivillius in 1922.
+[score: 0.900] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 34.1 sec
+>>>> Time taken (D2V): 1.6 sec

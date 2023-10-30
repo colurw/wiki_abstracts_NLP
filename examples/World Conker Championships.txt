@@ -1,0 +1,103 @@
+65962
+
+WORLD CONKER CHAMPIONSHIPS
+ The World Conker Championships (WCC) is a conkers tournament held annually on the second Sunday in
+October in the county of Northamptonshire, England.  Two players use conkers threaded onto a string
+and take turns to strike the other's nut until it shatters.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['scrabble', 'chess', 'tournament', 'championship', 'fide']
+>>>> H-Cluster Keywords:   ['internet chess', 'chess server', 'site began']
+>>>> Hierarchical Cluster Size:   15
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Chess Tournaments.
+
+CONKERS
+Conkers is a traditional children's game in Great Britain and Ireland played using the seeds of
+horse chestnut trees--the name 'conker' is also applied to the seed and to the tree itself.  The
+game is played by two players, each with a conker threaded onto a piece of string: they take turns
+striking each other's conker until one breaks.
+[score: 0.608] 
+
+WORLD CHESS SOLVING CHAMPIONSHIP
+The World Chess Solving Championship (WCSC) is an annual competition in the solving of chess
+problems (also known as chess puzzles) organized by the World Federation for Chess Composition
+(WFCC), previously by FIDE via the Permanent Commission of the FIDE for Chess Compositions (PCCC).
+[score: 0.501] 
+
+DENKER TOURNAMENT OF HIGH SCHOOL CHAMPIONS
+The Denker Tournament of High School Champions is a national invitational chess tournament that
+occurs annually in the United States alongside the US Open, Dewain Barber National Tournament of
+Middle School State Champions, IM Ruth Haring National Tournament of Girls State Champions and John
+D. Rockefeller III National Tournament of Elementary State Champions.
+[score: 0.497] 
+
+MIXED DOUBLES PRAGUE TROPHY
+The WCT Mixed Doubles Prague Trophy is an annual mixed doubles curling tournament on the ISS Mixed
+Doubles World Curling Tour.  It is held annually at the Curling Arena Prague in Prague, Czech
+Republic.
+[score: 0.495] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Games and Sports
+
+CONKERS
+ Conkers is a traditional children's game in Great Britain and Ireland played using the seeds of
+horse chestnut trees--the name 'conker' is also applied to the seed and to the tree itself.  The
+game is played by two players, each with a conker threaded onto a piece of string: they take turns
+striking each other's conker until one breaks.
+[semantic similarity: 0.680] 
+
+BTBA NATIONALS
+ The BTBA Nationals (also known as the BTBA National Championships) is a ten-pin bowling national
+championship tournament held in the United Kingdom by the British Tenpin Bowling Association (BTBA).
+It is also sanctioned and governed by the BTBA and is held annually in March, since its inaugural
+inception match in 1961.
+[semantic similarity: 0.583] 
+
+ATHERSTONE BALL GAME
+ The Atherstone Ball Game is a "medieval football" game played annually on Shrove Tuesday in the
+English town of Atherstone, Warwickshire.  The game honours a match played between Leicestershire
+and Warwickshire in 1199, when teams used a bag of gold as a ball, and which was won by
+Warwickshire.
+[semantic similarity: 0.562] 
+
+NINE-PIN BOWLING
+ Nine-pin bowling (also known as ninepin bowling, nine-pin,  kegel, or kegeln) is a bowling game
+played primarily in Europe.  European championships are held each year.
+[semantic similarity: 0.551] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+BERKSHIRE (UK PARLIAMENT CONSTITUENCY)
+ Berkshire was a parliamentary constituency in England, represented in the House of Commons of the
+Parliament of England until 1707, then of the Parliament of Great Britain from 1707 to 1800 and of
+the Parliament of the United Kingdom from 1801 to 1885. The county returned two knights of the shire
+until 1832 and three between 1832 and 1885.
+[score: 0.606] 
+
+SUTALLEE, GEORGIA
+ Sutallee is an unincorporated community in western Cherokee County, Georgia, United States.
+Located about two miles northwest of current-day Lake Allatoona, it is one of the county's earliest
+white settlements.
+[score: 0.570] 
+
+QUEEN ANNE'S COUNTY HIGH SCHOOL
+ Queen Anne's County High School (QACHS) is a four-year public high school in Centreville, Queen
+Anne's County, Maryland, United States.  It is one of two public high schools in Queen Anne's County
+along with Kent Island High School.
+[score: 0.569] 
+
+DAVID MURPHY (WEXFORD GAELIC FOOTBALLER)
+ David Murphy is an Irish Gaelic football manager and former player.  He played for the Wexford
+county team until 2013, when he retired with 180 caps, making him his county's most experienced
+player of all-time.
+[score: 0.564] 
+
+
+>>>> Time taken (SBERT): 4.1 sec
+>>>> Time taken (USE): 22.6 sec
+>>>> Time taken (D2V): 1.4 sec

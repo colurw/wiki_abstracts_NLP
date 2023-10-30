@@ -1,0 +1,117 @@
+64408
+
+ASTROCYTE
+ Astrocytes (from Ancient Greek , "star" + , , "cavity", "cell"), also known collectively as
+astroglia, are characteristic star-shaped glial cells in the brain and spinal cord.  They perform
+many functions, including biochemical control of endothelial cells that form the blood-brain
+barrier, provision of nutrients to the nervous tissue, maintenance of extracellular ion balance,
+regulation of cerebral blood flow, and a role in the repair and scarring process of the brain and
+spinal cord following infection and traumatic injuries.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Neuroglia Cells
+
+ASTROGLIOSIS
+Astrogliosis (also known as astrocytosis or referred to as reactive astrogliosis) is an abnormal
+increase in the number of astrocytes due to the destruction of nearby neurons from central nervous
+system (CNS) trauma, infection, ischemia, stroke, autoimmune responses or neurodegenerative disease.
+In healthy neural tissue, astrocytes play critical roles in energy provision, regulation of blood
+flow, homeostasis of extracellular fluid, homeostasis of ions and transmitters, regulation of
+synapse function and synaptic remodeling.
+[score: 0.719] 
+
+GLIA
+Glia, also called glial cells (gliocytes) or neuroglia, are non-neuronal cells in the central
+nervous system (brain and spinal cord) and the peripheral nervous system that do not produce
+electrical impulses.  The neuroglia make up more than one half the volume of neural tissue in our
+body.
+[score: 0.714] 
+
+OLIGODENDROCYTE
+Oligodendrocytes (), also known as oligodendroglia, are a type of neuroglia whose main functions are
+to provide support and insulation to axons within the central nervous system (CNS) of jawed
+vertebrates.  Their function is similar to that of Schwann cells, which perform the same task in the
+peripheral nervous system (PNS).
+[score: 0.642] 
+
+SCHWANN CELL
+Schwann cells or neurolemmocytes (named after German physiologist Theodor Schwann) are the principal
+glia of the peripheral nervous system (PNS). Glial cells function to support neurons and in the PNS,
+also include satellite cells, olfactory ensheathing cells, enteric glia and glia that reside at
+sensory nerve endings, such as the Pacinian corpuscle.
+[score: 0.630] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Neural Support.
+
+GLIA LIMITANS
+ The glia limitans, or the glial limiting membrane, is a thin barrier of astrocyte foot processes
+associated with the parenchymal basal lamina surrounding the brain and spinal cord.  It is the
+outermost layer of neural tissue, and among its responsibilities is the prevention of the over-
+migration of neurons and neuroglia, the supporting cells of the nervous system, into the meninges.
+[semantic similarity: 0.710] 
+
+ASTROGLIOSIS
+ Astrogliosis (also known as astrocytosis or referred to as reactive astrogliosis) is an abnormal
+increase in the number of astrocytes due to the destruction of nearby neurons from central nervous
+system (CNS) trauma, infection, ischemia, stroke, autoimmune responses or neurodegenerative disease.
+In healthy neural tissue, astrocytes play critical roles in energy provision, regulation of blood
+flow, homeostasis of extracellular fluid, homeostasis of ions and transmitters, regulation of
+synapse function and synaptic remodeling.
+[semantic similarity: 0.705] 
+
+SUPERFICIAL SIDEROSIS
+ Superficial hemosiderosis of the central nervous system is a disease of the brain resulting from
+chronic iron deposition in neuronal tissues associated with cerebrospinal fluid.  This occurs via
+the deposition of hemosiderin in neuronal tissue, and is associated with neuronal loss, gliosis, and
+demyelination of neuronal cells.
+[semantic similarity: 0.679] 
+
+ARACHNOIDITIS
+ Arachnoiditis is an inflammatory condition of the arachnoid mater or 'arachnoid', one of the
+membranes known as meninges that surround and protect the nerves of the central nervous system,
+including the brain and spinal cord.  The arachnoid can become inflamed because of adverse reactions
+to chemicals, infection from bacteria or viruses, as the result of direct injury to the spine,
+chronic compression of spinal nerves, complications from spinal surgery or other invasive spinal
+procedures, or the accidental intrathecal injection of steroids intended for the epidural space.
+[semantic similarity: 0.677] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+TISSUE FACTOR
+ Tissue factor, also called platelet tissue factor, factor III, or CD142, is a protein encoded by
+the F3 gene, present in subendothelial tissue and leukocytes.  Its role in the clotting process is
+the initiation of thrombin formation from the zymogen prothrombin.
+[score: 0.626] 
+
+ENTEROCHROMAFFIN CELL
+ Enterochromaffin (EC) cells (also known as Kulchitsky cells) are a type of enteroendocrine cell,
+and neuroendocrine cell.  They reside alongside the epithelium lining the lumen of the digestive
+tract and play a crucial role in gastrointestinal regulation, particularly intestinal motility and
+secretion.
+[score: 0.609] 
+
+PANCREATIC NEUROENDOCRINE TUMOR
+ Pancreatic neuroendocrine tumours (PanNETs, PETs, or PNETs), often referred to as "islet cell
+tumours", or "pancreatic endocrine tumours" are neuroendocrine neoplasms that arise from cells of
+the endocrine (hormonal) and nervous system within the pancreas.
+[score: 0.593] 
+
+RENAL TISSUE KALLIKREIN
+ Tissue kallikrein (, glandular kallikrein, pancreatic kallikrein, submandibular kallikrein,
+submaxillary kallikrein, kidney kallikrein, urinary kallikrein, kallikrein, salivary kallikrein,
+kininogenin, kininogenase, callicrein, glumorin, padreatin, padutin, kallidinogenase,
+bradykininogenase, depot-padutin, urokallikrein, dilminal D, onokrein P) is an enzyme.{{cite journal
+[score: 0.588] 
+
+
+>>>> Time taken (SBERT): 5.9 sec
+>>>> Time taken (USE): 31.4 sec
+>>>> Time taken (D2V): 1.5 sec

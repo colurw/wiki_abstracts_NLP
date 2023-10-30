@@ -1,0 +1,92 @@
+54390
+
+THE CITY IN THE SEA
+ "The City in the Sea" is a poem by Edgar Allan Poe.  The final version was published in 1845, but
+an earlier version was published as "The Doomed City" in 1831 and, later, as "The City of Sin".
+
+>>>> SpaCy Entity Recognition:   WORK_OF_ART - Titles of books, songs, etc.
+
+>>>> H-Cluster Keywords:   ['poe', 'edgar', 'allan', 'poem', 'aaraaf']
+>>>> H-Cluster Keywords:   ['edgar allan', 'allan poe', 'writer edgar']
+>>>> Hierarchical Cluster Size:   23
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Edgar Allan Poe.
+
+EDGAR ALLAN POE BIBLIOGRAPHY
+The works of American author Edgar Allan Poe (January 19, 1809 - October 7, 1849) include many
+poems, short stories, and one novel.  His fiction spans multiple genres, including horror fiction,
+adventure, science fiction, and detective fiction, a genre he is credited with inventing.
+[score: 0.611] 
+
+THE RAVEN
+"The Raven" is a narrative poem by American writer Edgar Allan Poe.  First published in January
+1845, the poem is often noted for its musicality, stylized language, and supernatural atmosphere.
+[score: 0.573] 
+
+THE CITY (POEM)
+The City () is a famous Greek philosophical poem by Constantine Cavafy.  It was written in August
+1894, originally entitled "Once More in the Same City.
+[score: 0.567] 
+
+THE POETIC PRINCIPLE
+"The Poetic Principle" is an essay by Edgar Allan Poe, written near the end of his life and
+published posthumously in 1850, the year after his death.  It is a work of literary criticism, in
+which Poe presents his literary theory.
+[score: 0.556] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Poetry.
+
+THE CONQUEROR WORM
+ "The Conqueror Worm" is a poem by Edgar Allan Poe about human mortality and the inevitability of
+death.  It was first published separately in Graham's Magazine in 1843, but quickly became
+associated with Poe's short story "Ligeia" after Poe added the poem to a revised publication of the
+story in 1845.
+[semantic similarity: 0.688] 
+
+EULALIE
+ "Eulalie," or "Eulalie -- A Song," is a poem by Edgar Allan Poe, first published in the July 1845
+issue of The American Review and reprinted shortly thereafter in the August 9, 1845 issue of the
+Broadway Journal.
+[semantic similarity: 0.640] 
+
+THE RAVEN
+ "The Raven" is a narrative poem by American writer Edgar Allan Poe.  First published in January
+1845, the poem is often noted for its musicality, stylized language, and supernatural atmosphere.
+[semantic similarity: 0.621] 
+
+THE PLACE OF THE SOLITAIRES
+ "The Place of the Solitaires" is a poem from Wallace Stevens's first book of poetry, Harmonium.  It
+was first published in  the journal Poetry in October,  1919, so it is in the public domain.
+[semantic similarity: 0.620] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ASTYANAX
+ In Greek mythology, Astyanax (;  Astyanax, "lord of the city") was the son of Hector, the crown
+prince of Troy, and his wife, Princess Andromache of Cilician Thebe."Astyanax".
+[score: 0.693] 
+
+EL PASO CITY
+ "El Paso City" is a song written and recorded by American country music artist Marty Robbins.  It
+was released in March 1976 as the first single and title track from the album El Paso City.
+[score: 0.669] 
+
+KHARA-KHOTO
+ Khara-Khoto (;  (Khar Khot); "black city") is an abandoned city in the Ejin Banner of Alxa League
+in western Inner Mongolia, China, near the Juyan Lake Basin.  Built in 1032, the city thrived under
+the rule of the Western Xia dynasty.
+[score: 0.663] 
+
+THE OLD CITY OF LUOYANG
+ The Old City of Luoyang in Han and Wei dynasties is presently located 15 kilometers east of the
+urban area of Henan Province's Luoyang City.  It was the capital of Northern Wei Dynasty as Emperor
+Sui Yang rebuilt the city and also called "Old Luoyang City of Han Wei Dynasty".
+[score: 0.661] 
+
+
+>>>> Time taken (SBERT): 11.7 sec
+>>>> Time taken (USE): 38.8 sec
+>>>> Time taken (D2V): 6.9 sec

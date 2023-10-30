@@ -1,0 +1,95 @@
+77054
+
+CHIMNEY SWEEPS ISLANDS
+ The Chimney Sweeps Islands are a pair of small islands located within New York City in the northern
+part of City Island Harbor in the borough of The Bronx.  The islands, along with High Island, New
+York, divide City Island Harbor from Pelham Bay.
+
+>>>> SpaCy Entity Recognition:   LOC - Non-GPE locations, mountain ranges, bodies of water
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Islands along coast.
+
+YORKE ISLAND (CANADA)
+Yorke Island is a small islet located off of the north end of Hardwicke Island in the south end of
+Johnstone Strait.  Located in the Inside Passage, it occupies a choke point at the split of
+Johnstone Strait and Sunderland Channel which all vessels traveling between the mainland and
+Vancouver Island have to pass.
+[score: 0.563] 
+
+BROOKLYN ISLAND
+Brooklyn Island () is an island  long, lying  south of Nansen Island in the eastern part of
+Wilhelmina Bay, off the west coast of Graham Land.  It was discovered by the Belgian Antarctic
+Expedition under Gerlache, 1897-99, and named after Brooklyn, New York, the home of Dr.
+[score: 0.555] 
+
+BONWICK ISLAND
+Bonwick Island is an island in the Broughton Archipelago in Central Coast region of the Canadian
+province of British Columbia.  The archipelago is on the northeast side of Queen Charlotte Strait
+and lies northwest of the village of Alert Bay and immediately to the west of Gilford Island,
+separated from it by Retreat Pass.
+[score: 0.550] 
+
+YORK ISLAND (WISCONSIN)
+York Island is one of the Apostle Islands in northern Wisconsin, in Lake Superior, and is part of
+the Apostle Islands National Lakeshore.  It is located in the Town of Russell in Bayfield County.
+[score: 0.549] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Islands in NY
+
+GREAT GULL ISLAND
+ Great Gull Island is a  island separating the Long Island and Block Island sounds, located
+approximately  southwest of Little Gull Island.  Both islands are located in the town of Southold in
+Suffolk County, New York, and lie roughly midway between Plum Island and Fishers Island.
+[semantic similarity: 0.786] 
+
+SEBASCODEGAN ISLAND
+ Sebascodegan Island or Great Island is an island at the eastern edge of Casco Bay on the Gulf of
+Maine.  It is a part of the town of Harpswell with the mainland portion of Harpswell to its west and
+Orr's Island and Bailey Island to its south.
+[semantic similarity: 0.753] 
+
+HICKS ISLAND (NEW YORK)
+ Hicks Island is an island in Napeague Bay, Suffolk County, New York, in the United States.  The
+small island is located north of Napeague on the eastern end of Long Island.
+[semantic similarity: 0.749] 
+
+CITY ISLAND HARBOR
+ City Island Harbor is the protected body of water between City Island and Hart Island in the Bronx,
+New York City, open to Long Island Sound at its northern and southern extremities.  It is not a true
+harbor, but a sound.
+[semantic similarity: 0.744] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ACROMANTIS AUSTRALIS
+ Acromantis australis, common name island mantis, is a species of praying mantis found in Australia,
+the Aru Islands, New Guinea, and Roon.Texas A&M University
+[score: 0.785] 
+
+COWICHAN--MALAHAT--THE ISLANDS
+ Cowichan--Malahat--The Islands was a federal electoral district in British Columbia, Canada, that
+was represented in the House of Commons of Canada from 1979 to 1988.
+[score: 0.779] 
+
+JAPANESE ESCORT SHIP AGUNI
+ Aguni was an Ukuru-class escort ship of the Imperial Japanese Navy during the Second World War and
+was named after the Aguni Islands.  She was launched on 21 September 1944.
+[score: 0.766] 
+
+SHANGCHUAN ISLAND
+ Shangchuan Island (, also known as "Schangschwan", "Sancian", "Sanchao", "Chang-Chuang", "St.
+John's Island" or "St John Island"}}) is the main island of Chuanshan Archipelago on the southern
+coast of Guangdong, China.
+[score: 0.756] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 24.6 sec
+>>>> Time taken (D2V): 1.4 sec

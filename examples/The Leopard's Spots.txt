@@ -1,0 +1,103 @@
+67416
+
+THE LEOPARD'S SPOTS
+ The Leopard's Spots: A Romance of the White Man's Burden--1865-1900 is the first novel of Thomas
+Dixon's Reconstruction trilogy, and was followed by The Clansman: A Historical Romance of the Ku
+Klux Klan (1905), and The Traitor: A Story of the Fall of the Invisible Empire (1907). In the novel,
+published in 1902, Dixon offers an account of Reconstruction in which he portrays a Reconstruction
+leader (and former slave driver), Northern carpetbaggers, and emancipated slaves as the villains; Ku
+Klux Klan members are anti-heroes.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Books on Racial History
+
+THE TRAITOR (DIXON NOVEL)
+The Traitor: A Story of the Fall of the Invisible Empire is a 1907 novel by Thomas Dixon Jr.  It is
+the third part in a trilogy about the Ku Klux Klan during Reconstruction.
+[score: 0.736] 
+
+STONY THE ROAD
+Stony the Road: Reconstruction, White Supremacy, and the Rise of Jim Crow is a 2019 non-fiction book
+written by Henry Louis Gates Jr.  covering African-American history during the Reconstruction era,
+Redemption era, and the New Negro Movement.
+[score: 0.562] 
+
+ADAPTATIONS OF THE JUNGLE BOOK
+Filmmakers and others have made many adaptations of The Jungle Book stories by Rudyard Kipling.  The
+stories, inspired by Kipling's life in India, were published in the 1894 The Jungle Book and its
+1895 sequel, The Second Jungle Book.
+[score: 0.518] 
+
+SLAVES OF THE KLAU
+Slaves of the Klau is a science fiction novel by American writer Jack Vance written in 1958. It is
+about an Earth man, Roy Barch, who is kidnapped into slavery by a warlike alien race, the Klau and
+taken to a forced labour planet.
+[score: 0.512] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Slavery and Abolition
+
+THE TRAITOR (DIXON NOVEL)
+ The Traitor: A Story of the Fall of the Invisible Empire is a 1907 novel by Thomas Dixon Jr.  It is
+the third part in a trilogy about the Ku Klux Klan during Reconstruction.
+[semantic similarity: 0.724] 
+
+NEOABOLITIONISM (RACE RELATIONS)
+ Neoabolitionist (or neo-abolitionist or new abolitionism) is  a term used in historiography to
+characterize historians of race relations motivated by the spirit of racial equality typified by the
+abolitionists who fought to abolish slavery in the mid-19th century.  They write especially about
+African-American history, slavery in the United States, the American Civil War and the
+Reconstruction Era.
+[semantic similarity: 0.658] 
+
+ABOLITIONISM IN NEW BEDFORD, MASSACHUSETTS
+ Abolitionism in New Bedford, Massachusetts, began with the opposition to slavery voiced by Quakers
+during the late 1820s, followed by African Americans forming the antislavery group New Bedford Union
+Society in 1833, and an integrated group of abolitionists forming the New Bedford Anti-Slavery
+Society a year later.  During the era New Bedford, Massachusetts, gained a reputation as a safe
+haven for fugitive slaves seeking freedom.
+[semantic similarity: 0.631] 
+
+ROOTS: THE SAGA OF AN AMERICAN FAMILY
+ Roots: The Saga of an American Family is a 1976 novel written by Alex Haley.  It tells the story of
+Kunta Kinte, an 18th-century African, captured as an adolescent, sold into slavery in Africa, and
+transported to North America; it follows his life and the lives of his descendants in the United
+States down to Haley.
+[semantic similarity: 0.628] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+BHOLEKANE
+ Bholekane is a town in northern Eswatini.  It is located on the banks of the Nkomati River, to the
+north of Mliba and south of Herefords; it is approximately 100 kilometers northeast of Mbabane.
+[score: 0.562] 
+
+EDEN CONSOLIDATED INDEPENDENT SCHOOL DISTRICT
+ Eden Consolidated Independent School District is a public school district based in Eden, Texas
+(USA).   The district is located in southern Concho County, including Eola, and extends into a small
+portion of northern Menard County.
+[score: 0.562] 
+
+BIBLE TRANSLATIONS INTO UTO-AZTECAN LANGUAGES
+ Uto-Aztecan languages are divided into two groups, Northern and Southern Uto-Aztecan languages.
+They are spoken in the southwestern United States, north and central Mexico, and in Central America.
+[score: 0.561] 
+
+SOUTHERN ILLINOIS SALUKIS MEN'S BASKETBALL STATISTICAL LEADERS
+ The Southern Illinois Salukis men's basketball statistical leaders are individual statistical
+leaders of the Southern Illinois Salukis men's basketball program in various categories, including
+points, assists, blocks, rebounds, and steals.  Within those areas, the lists identify single-game,
+single-season, and career leaders.
+[score: 0.561] 
+
+
+>>>> Time taken (SBERT): 4.0 sec
+>>>> Time taken (USE): 39.6 sec
+>>>> Time taken (D2V): 1.3 sec

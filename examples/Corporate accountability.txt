@@ -1,0 +1,98 @@
+25098
+
+CORPORATE ACCOUNTABILITY
+ Corporate accountability is the acknowledgement and assumption of responsibility for the
+consequences of a company's actions.  It can be defined in narrowly financial terms, e.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['corporate', 'company', 'corporation', 'actions', 'accountability']
+>>>> H-Cluster Keywords:   ['corporate identity', 'company corporate', 'identity typically']
+>>>> Hierarchical Cluster Size:   7
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Corporate Responsibility.
+
+ACCOUNTABILITY
+AccountAbility is an independent, global, not-for-profit organisation promoting accountability,
+sustainable business practices and corporate responsibility.  It is a self-managed partnership,
+governed by its multi-stakeholder network.
+[score: 0.791] 
+
+CORPORATE RESPONSIBILITY
+Corporate responsibility is a term which has come to characterize a family of professional
+disciplines intended to help a corporation stay competitive by maintaining accountability to its
+four main stakeholder groups: customers, employees, shareholders, and communities.
+[score: 0.735] 
+
+MARKETING ACCOUNTABILITY
+Marketing accountability is a term that signifies management with data that is understandable to the
+management of the enterprise.  "Accountable Marketing" is another name that can be given to this
+process.
+[score: 0.679] 
+
+CORPORATE ACCOUNTABILITY
+Corporate Accountability (formerly INFACT, Corporate Accountability International) is a non-profit
+organization, founded in 1977. Their campaign headquarters are in Boston, Massachusetts, and they
+have offices in Oakland, California; Seattle, Washington; and Bogota, Colombia.
+[score: 0.641] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Liability law.
+
+CORPORATE ENVIRONMENTAL RESPONSIBILITY
+ Corporate environmental responsibility (CER) refers to a company's duties to abstain from damaging
+natural environments.  The term derives from corporate social responsibility (CSR).
+[semantic similarity: 0.589] 
+
+VICARIOUS LIABILITY
+ Vicarious liability is a form of a  strict, secondary liability that arises under the common law
+doctrine of agency, respondeat superior, the responsibility of the superior for the acts of their
+subordinate or, in a broader sense, the responsibility of any third party that had the "right,
+ability or duty to control" the activities of a violator.  It can be distinguished from contributory
+liability, another form of secondary liability, which is rooted in the tort theory of enterprise
+liability because, unlike contributory infringement, knowledge is not an element of vicarious
+liability.
+[semantic similarity: 0.556] 
+
+STATUTORY LIABILITY
+ Statutory Liability is a legal term indicating the liability of a party who may be held responsible
+for any action or omission due to a related law that is not open to interpretation.
+[semantic similarity: 0.540] 
+
+ENTERPRISE LIABILITY
+ Enterprise liability is a legal doctrine under which individual entities (for example, otherwise
+legally unrelated corporations or people) can be held jointly liable for some action on the basis of
+being part of a shared enterprise.  Enterprise liability is a form of secondary liability.
+[semantic similarity: 0.530] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ANNUAL REPORT
+ An annual report is a comprehensive report on a company's activities throughout the preceding year.
+Annual reports are intended to give shareholders and other interested people information about the
+company's activities and financial performance.
+[score: 0.717] 
+
+STRAUS NATIONAL BANK AND TRUST COMPANY (NEW YORK CITY)
+ The Straus National Bank and Trust Company was a financial institution based in New York City.
+Founded in In 1928, in 1931 it merged with the Continental Bank and Trust Company in New York.
+[score: 0.717] 
+
+BENEISH M-SCORE
+ The Beneish model is a statistical model that uses financial ratios calculated with accounting data
+of a specific company in order to check if it is likely (high probability) that the reported
+earnings of the company have been manipulated.
+[score: 0.716] 
+
+MORBIDELLI
+ Morbidelli was an Italian motorcycle manufacturer founded by Giancarlo Morbidelli in Pesaro.
+During the late 1970s and early 1980s, the company was particularly successful in Grand Prix
+motorcycle racing.
+[score: 0.712] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 27.5 sec
+>>>> Time taken (D2V): 1.6 sec

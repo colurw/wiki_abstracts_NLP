@@ -1,0 +1,90 @@
+71720
+
+STYLOPHONE
+ The Stylophone is a miniature analog electronic keyboard musical instrument played with a stylus.
+Invented in 1967 by Brian Jarvis, it entered production in 1968, manufactured by Dubreq.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Writing Tools
+
+STYROPHONE
+A styrophone is an acoustic device made from expanded polystyrene foam (often referred to by the
+genericized trademark Styrofoam).  There are at least two varieties:
+[score: 0.667] 
+
+STYLUS
+A stylus (: styli or styluses) is a writing utensil or a small tool for some other form of marking
+or shaping, for example, in pottery.  It can also be a computer accessory that is used to assist in
+navigating or providing more precision when using touchscreens.
+[score: 0.590] 
+
+STYLUS (COMPUTING)
+In computing, a stylus (or stylus pen) is a small pen-shaped instrument whose tip position on a
+computer monitor can be detected.  It is used to draw, or make selections by tapping.
+[score: 0.589] 
+
+YAMAHA PORTASOUND
+Yamaha Portasound electronic musical keyboards were produced by the Yamaha Corporation during the
+1980s and 1990s.  The name suggests the instruments' portability, with battery operation being a
+consistent feature across the line.
+[score: 0.572] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Synthesizer history.
+
+OBERHEIM POLYPHONIC SYNTHESIZER
+ The Oberheim Polyphonic Synthesizer is a range of analog music synthesizers that was produced from
+1975 to 1979 by Oberheim Electronics.  It was developed by Tom Oberheim, and was the first
+production synthesizer capable of playing chords.
+[semantic similarity: 0.709] 
+
+GEORGE MATTSON (SYNTHESIZER INVENTOR)
+ George Mattson (born October 1954) is an American inventor, and is an early pioneer in electronic
+music synthesizer technology.  He is credited with the invention of the Syntar, the first fully
+self-contained "keytar", in 1978, and is founder and owner of Mattson Mini Modular.
+[semantic similarity: 0.687] 
+
+KORG MONO/POLY
+ The Korg Mono/Poly (MP-4) is a 44 key "mono-polyphonic" analog synthesizer manufactured by Korg
+from 1981 to 1984. This keyboard is the sister synthesizer to the Korg Polysix.
+[semantic similarity: 0.659] 
+
+COUPLAND DIGITAL MUSIC SYNTHESIZER
+ The Coupland Digital Music Synthesizer is a 16-voice polyphonic real-time instrument with a full 88
+key keyboard, developed in the 1970s but never released commercially.
+[semantic similarity: 0.652] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+PHOTOTHERMAL EFFECT
+ Photothermal effect is a phenomenon associated with electromagnetic radiation.  It is produced by
+the photoexcitation of material, resulting in the production of thermal energy (heat).
+[score: 0.726] 
+
+CHAUDHRY NAVEED ASHRAF
+ Chaudhry Naveed Ashraf (born 1949) is a Pakistani politician who had been a Member of the
+Provincial Assembly of the Punjab from August 2018 till January 2023.
+[score: 0.725] 
+
+HMCS BURLINGTON
+ HMCS Burlington (pennant J250) was a  constructed for the Royal Canadian Navy during the Second
+World War.  The minesweeper entered service in 1941 and took part in the Battle of the Atlantic and
+the Battle of the St.
+[score: 0.723] 
+
+LECCINUM AENEUM
+ Leccinum aeneum is a species of bolete fungus in the family Boletaceae.  Found in the United
+States, it was described as new to science in 1977 by mycologist Roy Halling.
+[score: 0.723] 
+
+
+>>>> Time taken (SBERT): 16.0 sec
+>>>> Time taken (USE): 52.1 sec
+>>>> Time taken (D2V): 2.2 sec

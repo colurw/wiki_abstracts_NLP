@@ -1,0 +1,102 @@
+6221
+
+STEP-INDEX PROFILE
+ For an optical fiber, a step-index profile is a refractive index profile characterized by a uniform
+refractive index within the core and a sharp decrease in refractive index at the core-cladding [so
+that the cladding is of a lower refractive index.  The step-index profile corresponds to a power-law
+index profile] with the profile parameter approaching infinity.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['laser', 'index', 'refractive', 'optical', 'fiber']
+>>>> H-Cluster Keywords:   ['refractive index', 'index profile', 'index core']
+>>>> Hierarchical Cluster Size:   29
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Fiber optics.
+
+REFRACTIVE INDEX PROFILE
+A refractive index profile is the distribution of refractive indices of materials within an optical
+fiber.  Some optical fiber has a step-index profile, in which the core has one uniformly-distributed
+index and the cladding has a lower uniformly-distributed index.
+[score: 0.870] 
+
+GRADED-INDEX FIBER
+A graded-index fiber, or gradient-index fiber, is an optical fiber whose core has a refractive index
+that decreases continuously with increasing radial distance from the optical axis of the fiber, as
+opposed to a step-index fiber, which has a uniform index of refraction in the core, and a lower
+index in the surrounding cladding.
+[score: 0.660] 
+
+REFRACTIVE INDEX CONTRAST
+Refractive index contrast, in an optical waveguide, such as an optical fiber, is a measure of the
+relative difference in refractive index of the core and cladding.  The refractive index contrast, D,
+is often given by \Delta={n_1^2-n_2^2 \over 2 n_1^2}, where n1 is the maximum refractive index in
+the core (or simply the core index for a step-index profile) and n2 is the refractive index of the
+cladding.
+[score: 0.609] 
+
+STEPPED PROFILE
+A stepped profile describes the edge of something that has a series of defined steps.  It has
+applications in architecture, construction, engineering, and geology.
+[score: 0.596] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Fiber optics properties.
+
+REFRACTIVE INDEX PROFILE
+ A refractive index profile is the distribution of refractive indices of materials within an optical
+fiber.  Some optical fiber has a step-index profile, in which the core has one uniformly-distributed
+index and the cladding has a lower uniformly-distributed index.
+[semantic similarity: 0.807] 
+
+REFRACTIVE INDEX CONTRAST
+ Refractive index contrast, in an optical waveguide, such as an optical fiber, is a measure of the
+relative difference in refractive index of the core and cladding.  The refractive index contrast, D,
+is often given by \Delta={n_1^2-n_2^2 \over 2 n_1^2}, where n1 is the maximum refractive index in
+the core (or simply the core index for a step-index profile) and n2 is the refractive index of the
+cladding.
+[semantic similarity: 0.712] 
+
+GRADED-INDEX FIBER
+ A graded-index fiber, or gradient-index fiber, is an optical fiber whose core has a refractive
+index that decreases continuously with increasing radial distance from the optical axis of the
+fiber, as opposed to a step-index fiber, which has a uniform index of refraction in the core, and a
+lower index in the surrounding cladding.
+[semantic similarity: 0.601] 
+
+CLADDING (FIBER OPTICS)
+ Cladding in optical fibers is one or more layers of materials of lower refractive index in intimate
+contact with a core material of higher refractive index.
+[semantic similarity: 0.574] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+TIRUMAYANAM BRAHMAPUREESWARAR TEMPLE
+ Tirumayanam Brahmapureeswarar Temple( tirumyaannnm pirmmpuriisvrr kooyil:ta:tirumyaannnm
+pirmmpuriisvrr kooyil])is a Hindu temple located at Tirumayanam in Nagapattinam district of Tamil
+Nadu, India.Brahmapureeswarar Temple, Tirukkadavur Mayanam The presiding deity is Shiva.
+[score: 0.721] 
+
+YESSOTOXIN
+ ,3:5,6]pyrano[2,3:5,6]pyrano[2,3:5,6]pyrano[3,2-
+b]pyrano[2,3:5,6]pyrano[2,3:5,6]pyrano[2,3:5,6]pyrano[2,3:6,7]oxepino[2,3:5,6]pyrano[2,3-g]oxocin-
+18-yl hydrogen sulfate
+[score: 0.718] 
+
+XIAO SHUNZHI
+ Xiao Shunzhi (Xiao Shun Zhi ), courtesy name Wenwei (Wen Wei ),<<Nan Shi *Liang Ben Ji Shang >>
+:[Dao Si Sheng Huang Kao ,Hui Shun Zhi ,Zi Wen Wei ,Yu Qi Gao Di Wei Shi Zu Di . ] <<Liang Shu >> Wu
+Ji Zai Qi Biao Zi .
+[score: 0.702] 
+
+MYRMEKITE
+ Myrmekite is a [or wormy, intergrowth] of [[quartz in plagioclase.  The intergrowths are
+microscopic in scale, typically with maximum dimensions less than 1 millimeter.
+[score: 0.697] 
+
+
+>>>> Time taken (SBERT): 17.6 sec
+>>>> Time taken (USE): 23.2 sec
+>>>> Time taken (D2V): 1.4 sec

@@ -1,0 +1,96 @@
+2016
+
+HOLIDAY
+ A holiday is a day or other period of time set aside for festivals or recreation.  Public holidays
+are set by public authorities and vary by state or region.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['holidays', 'public', 'holiday', 'days', 'day']
+>>>> H-Cluster Keywords:   ['public holidays', 'non working', 'saudi arabia']
+>>>> Hierarchical Cluster Size:   32
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Public holidays.
+
+PUBLIC HOLIDAY
+A public holiday, national holiday, federal holiday, statutory holiday, or legal holiday is a
+holiday generally established by law and is usually a non-working day during the year.
+[score: 0.783] 
+
+PUBLIC HOLIDAYS IN AUSTRALIA
+Public holidays in Australia refer to the holidays recognised in law in Australia.  Although they
+are declared on a state and territory basis, they comprise a mixture of nationally celebrated days
+and holidays exclusive to the individual jurisdictions.
+[score: 0.747] 
+
+PUBLIC HOLIDAYS IN THE UNITED KINGDOM
+In the United Kingdom, public holidays are days on which most businesses and non-essential services
+are closed.  Many retail businesses (especially the larger ones) do open on some of the public
+holidays.
+[score: 0.724] 
+
+PUBLIC HOLIDAYS IN PORTUGAL
+In Portugal, a public holiday () is a calendar date, legally recognised and defined in the Labour
+Code as well as the Concordat of 2004, on which most businesses and non-essential services are
+closed.  On some of these dates, public commemorative festivities are traditionally held.
+[score: 0.696] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Public Holidays
+
+PUBLIC HOLIDAYS IN INDIA
+ Public Holidays in India, also known as Statutory Holidays, or colloquially Government Holidays,
+consist of a variety of cultural, nationalistic, and religious holidays that are legislated in India
+at the union or state levels.  While many of these holidays are honored and acknowledged nationwide,
+state legislation varies regarding which are officially recognized.
+[semantic similarity: 0.685] 
+
+PUBLIC HOLIDAY
+ A public holiday, national holiday, federal holiday, statutory holiday, or legal holiday is a
+holiday generally established by law and is usually a non-working day during the year.
+[semantic similarity: 0.677] 
+
+PUBLIC HOLIDAYS IN BELARUS
+ National holidays in Belarus are classified into state holidays and other holidays and
+commemorative days, including religious holidays.  Nine of them are non-working days.
+[semantic similarity: 0.628] 
+
+PUBLIC HOLIDAYS IN SPAIN
+ Public holidays celebrated in Spain include a mix of religious (Roman Catholic), national and
+regional observances.  Each municipality is allowed to have a maximum of 14 public holidays per
+year; a maximum of nine of these are chosen by the national government and at least two are chosen
+locally, including patronal festivals.
+[semantic similarity: 0.624] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+HELIANTHEINI
+ Heliantheini is one of the two tribes that make up the subfamily Lesbiinae of the hummingbird
+family Trochilidae.  The other tribe in the subfamily is Lesbiini.
+[score: 0.734] 
+
+CHRISTMAS TRADITIONS
+ Christmas traditions include a variety of customs, religious practices, rituals, and folklore
+associated with the celebration of Christmas.  Many of these traditions vary by country or region,
+while others are practiced in a virtually identical manner across the world.
+[score: 0.728] 
+
+RAFIGANJ ASSEMBLY CONSTITUENCY
+ Rafiganj Assembly constituency is an assembly constituency for Bihar Legislative Assembly in
+Aurangabad, Bihar district of Bihar, India.  It comes under Aurangabad Lok Sabha constituency along
+with other assembly constituencies viz.
+[score: 0.726] 
+
+TELEPHONE NUMBER
+ A telephone number is a sequence of digits assigned to a landline telephone subscriber station
+connected to a telephone line or to a wireless electronic telephony device, such as a radio
+telephone or a mobile telephone, or to other devices for data transmission via the public switched
+telephone network (PSTN) or other public and private networks.
+[score: 0.722] 
+
+
+>>>> Time taken (SBERT): 4.8 sec
+>>>> Time taken (USE): 28.2 sec
+>>>> Time taken (D2V): 1.5 sec

@@ -1,0 +1,102 @@
+28516
+
+PHOTOPIA
+ Photopia is a piece of literature by Adam Cadre rendered in the form of interactive fiction, and
+written in Inform.  It has received both praise and criticism for its heavy focus on  fiction rather
+than on interactivity.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Visual Arts.
+
+CAMERA LUCIDA (BOOK)
+Camera Lucida: Reflections on Photography () is a short book published in 1980 by the French
+literary theorist and philosopher Roland Barthes.  It is simultaneously an inquiry into the nature
+and essence of photography and a eulogy to Barthes' late mother.
+[score: 0.596] 
+
+ADAM CADRE
+Adam Cadre (born February 5, 1974, in Silver Spring, Maryland) is an American writer active in a
+number of forms--novels, screenplays, webcomics, essays--but best known for his work in interactive
+fiction.
+[score: 0.542] 
+
+CAMERA WORKS
+Camera Works: Photography and the Twentieth-Century Word is a work of literary and cultural studies
+by Michael North, a professor of English at UCLA.  It is the winner of the 2006 Modernist Studies
+Association Book Prize.
+[score: 0.537] 
+
+DE PROSPECTIVA PINGENDI
+De prospectiva pingendi (On the Perspective of Painting) is the earliest and only pre-1500
+Renaissance treatise solely devoted to the subject of perspective.  It was written by the Italian
+master Piero della Francesca in the mid-1470s to 1480s, and possibly by about 1474.
+[score: 0.519] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Literary Publications.
+
+QUICK FICTION
+ Quick Fiction was a contemporary bi-annual literary magazine published in the United States.  The
+journal's publishing focus was on the narrative prose poem/flash fiction, and they proved
+instrumental in providing both newer and veteran writers the opportunity to showcase their work.
+[semantic similarity: 0.592] 
+
+CRITICISM IN THE WILDERNESS
+ Criticism in the Wilderness: The Study of Literature Today is a 1980 book by literary critic
+Geoffrey Hartman.  In the book, Hartman argues for literary criticism to be taken as seriously as a
+form of creative literature in its own right, and he discusses the difficulties that literature
+professors face in the contemporary American university.
+[semantic similarity: 0.584] 
+
+THE DEAD FATHER
+ The Dead Father is a post-modernist novel by author Donald Barthelme published in 1975 by Farrar,
+Straus and Giroux.  The book relates the journey of a vaguely defined entity that symbolizes
+fatherhood, hauled by a small group of people as the plot unravels through narratives, anecdotes,
+dialogues, reflexions and allegories presented to the reader through the tools and constructions of
+postmodern literature, in which the author excelled as a short story writer.
+[semantic similarity: 0.570] 
+
+CREAM CITY REVIEW
+ Cream City Review is a volunteer-based, non-profit literary magazine devoted to publishing
+memorable and energetic pieces that push the boundaries of "literature."  Continually seeking to
+explore the relationship between form and content, the magazine features fiction, poetry, creative
+nonfiction, comics, reviews of contemporary literature and criticism, as well as author interviews
+and artwork.
+[semantic similarity: 0.567] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+RIKSUNDAR BANERJEE
+ Riksundar Banerjee or Riksundar Bandyopadhyay (Bengali: Rksundr byaanaarjii), (born on 9 August
+1987) is a fiction writer from Kolkata, West Bengal, India.
+[score: 0.644] 
+
+SUSAN VISVANATHAN
+ Susan Visvanathan (born 1957) is an Indian sociologist, social anthropologist and a fiction writer.
+She is well known for her writings on religious dialogue and sociology of religion.
+[score: 0.587] 
+
+ROBERT A. SIMON
+ Robert Alfred Simon (1897 in New York City - 27 April 1981 in New York City) was an American
+writer, translator, and music critic for The New Yorker from its first issue in 1925 until 1948. A
+graduate of Columbia University, in addition to his original fiction he wrote opera and musical
+comedy librettos for several composers.
+[score: 0.581] 
+
+JENIFER LEVIN
+ Jenifer Levin (born October 31, 1955) is an American fiction writer, noted for her contributions to
+lesbian fiction.  As well as writing fiction, she has contributed to the New York Times and The
+Washington Post.
+[score: 0.580] 
+
+
+>>>> Time taken (SBERT): 3.0 sec
+>>>> Time taken (USE): 27.5 sec
+>>>> Time taken (D2V): 1.3 sec

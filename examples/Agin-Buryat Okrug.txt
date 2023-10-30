@@ -1,0 +1,97 @@
+37408
+
+AGIN-BURYAT OKRUG
+ Agin-Buryat Okrug (; , Agyn Buryaaday Toyrog), or Aga Buryatia, is an administrative division of
+Zabaykalsky Krai, Russia.  (Federal Constitutional Law #5-FKZ of July 21, 2007 On Creation of a New
+Federal Subject Within the Russian Federation as a Result of the Merger of Chita Oblast and Agin-
+Buryat Autonomous Okrug.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['okrug', 'oblast', 'urban', 'okrugs', 'municipal']
+>>>> H-Cluster Keywords:   ['autonomous okrug', 'agin buryat', 'federal subject']
+>>>> Hierarchical Cluster Size:   9
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Russian administrative regions
+
+ADMINISTRATIVE DIVISIONS OF AGIN-BURYAT AUTONOMOUS OKRUG
+Agin-Buryat Autonomous Okrug was a federal subject of Russia until February 29, 2008.  On March 1,
+2008, it was merged with Chita Oblast to form Zabaykalsky Krai.
+[score: 0.866] 
+
+UST-ORDA BURYAT OKRUG
+Ust-Orda Buryat Okrug (;  ), or Ust-Orda Buryatia, is an administrative division of Irkutsk Oblast,
+Russia.  (Federal Constitutional Law #6-FKZ of December 30, 2006 On Creation of a New Federal
+Subject Within the Russian Federation as a Result of the Merger of Irkutsk Oblast and Ust-Orda
+Buryat Autonomous Okrug.
+[score: 0.703] 
+
+FLAG OF AGIN-BURYAT OKRUG
+The flag of Agin-Buryat Okrug, in the Russian Federation, is a vertical tricolour of blue, yellow
+and white.  The flag is charged with a yellow partial Soyombo symbol at the upper end of the blue
+band.
+[score: 0.696] 
+
+ADMINISTRATIVE DIVISIONS OF CHITA OBLAST
+Chita Oblast was a federal subject of Russia until February 29, 2008.  On March 1, 2008, it was
+merged with Agin-Buryat Autonomous Okrug to form Zabaykalsky Krai.
+[score: 0.613] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Administrative divisions cluster.
+
+UST-ORDA BURYAT OKRUG
+ Ust-Orda Buryat Okrug (;  ), or Ust-Orda Buryatia, is an administrative division of Irkutsk Oblast,
+Russia.  (Federal Constitutional Law #6-FKZ of December 30, 2006 On Creation of a New Federal
+Subject Within the Russian Federation as a Result of the Merger of Irkutsk Oblast and Ust-Orda
+Buryat Autonomous Okrug.
+[semantic similarity: 0.868] 
+
+ADMINISTRATIVE DIVISIONS OF KAMCHATKA OBLAST
+ Kamchatka Oblast was a federal subject of Russia until June 30, 2007.  On July 1, 2007, it was
+merged with Koryak Autonomous Okrug to form Kamchatka Krai.
+[semantic similarity: 0.697] 
+
+ADMINISTRATIVE DIVISIONS OF KORYAK AUTONOMOUS OKRUG
+ Koryak Autonomous Okrug was a federal subject of Russia until June 30, 2007.  On July 1, 2007 it
+was merged with Kamchatka Oblast to form Kamchatka Krai.
+[semantic similarity: 0.686] 
+
+ADMINISTRATIVE DIVISIONS OF EVENK AUTONOMOUS OKRUG
+ Evenk Autonomous Okrug was a federal subject of Russia until December 31, 2006.  On January 1,
+2007, it was merged into Krasnoyarsk Krai along with Taymyr Autonomous Okrug During the transitional
+period it retains a special administrative status within Krasnoyarsk Krai.
+[semantic similarity: 0.630] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+UST-ORDA BURYAT OKRUG
+ Ust-Orda Buryat Okrug (;  ), or Ust-Orda Buryatia, is an administrative division of Irkutsk Oblast,
+Russia.  (Federal Constitutional Law #6-FKZ of December 30, 2006 On Creation of a New Federal
+Subject Within the Russian Federation as a Result of the Merger of Irkutsk Oblast and Ust-Orda
+Buryat Autonomous Okrug.
+[score: 0.918] 
+
+CHUSOVSKOYE URBAN SETTLEMENT
+ Chusovskoye Urban Settlement () is a municipal formation (an urban settlement) within Chusovskoy
+Municipal District of Perm Krai, Russia.Law #1892-414 It is part of Chusovoy Urban Okrug, a town of
+federal subject significance.
+[score: 0.724] 
+
+ADMINISTRATIVE DIVISIONS OF TAYMYR AUTONOMOUS OKRUG
+ Taymyr Autonomous Okrug was a federal subject of Russia until December 31, 2006.  On January 1,
+2007, it was merged into Krasnoyarsk Krai along with Evenk Autonomous Okrug During the transitional
+period it retains a special status within Krasnoyarsk Krai.
+[score: 0.723] 
+
+MAKSYM PROKOPENKO
+ Maksym Serhiyovych Prokopenko (Maksim Sergiiovich Prokopenko; born March 23, 1984, in Vilshanka,
+Kirovohrad Oblast) is a Ukrainian-born Azerbaijani sprint canoer who has competed since 2002.
+[score: 0.722] 
+
+
+>>>> Time taken (SBERT): 3.8 sec
+>>>> Time taken (USE): 25.5 sec
+>>>> Time taken (D2V): 1.6 sec

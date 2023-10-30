@@ -1,0 +1,98 @@
+65836
+
+PRIEST (LATTER DAY SAINTS)
+ Priest is a priesthood office in the Aaronic priesthood of denominations within the Latter Day
+Saint movement, including the Church of Jesus Christ of Latter-day Saints (LDS Church).
+
+>>>> SpaCy Entity Recognition:   EVENT - Named hurricanes, battles, wars, sports events, etc.
+
+>>>> H-Cluster Keywords:   ['church', 'day', 'christ', 'lds', 'saints']
+>>>> H-Cluster Keywords:   ['day saint', 'saint movement', 'day saints']
+>>>> Hierarchical Cluster Size:   121
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Latter Day Priesthood.
+
+PRIESTHOOD (LDS CHURCH)
+In the Church of Jesus Christ of Latter-day Saints (LDS Church), the priesthood is the power and
+authority to act in the name of God for the salvation of humankind.LDS Church, Guide to the
+Scriptures: Priesthood Male members of the church who meet standards of worthy behavior and church
+participation are generally ordained to specific offices within the priesthood.
+[score: 0.820] 
+
+BISHOP (LATTER DAY SAINTS)
+In the Latter Day Saint movement, a bishop is the highest office of the Aaronic priesthood.  It is
+almost always held by one who holds the office of high priest in the Melchizedek priesthood.
+[score: 0.788] 
+
+PRIESTHOOD (COMMUNITY OF CHRIST)
+In Community of Christ, formerly the Reorganized Church of Jesus Christ of Latter Day Saints,
+priesthood is God's power and authority to minister in the church and to conduct God's business on
+Earth.  Although the church believes that all Christians are called by their gifts and talents to
+the ministry, priesthood is seen as a particular expression of universal ministry to which all are
+called.
+[score: 0.760] 
+
+HIGH PRIEST (LATTER DAY SAINTS)
+In most denominations of the Latter Day Saint movement, a high priest is an office of the priesthood
+within the Melchizedek priesthood.  High priests are typically more experienced leaders within the
+priesthood.
+[score: 0.759] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Latter Day Saints priesthood.
+
+ELDER (LATTER DAY SAINTS)
+ Elder is a priesthood office in the Melchizedek priesthood of denominations within the Latter Day
+Saint movement, including the Church of Jesus Christ of Latter-day Saints (LDS Church).
+[semantic similarity: 0.957] 
+
+SEVENTY (LATTER DAY SAINTS)
+ Seventy is a priesthood office in the Melchizedek priesthood of several denominations within the
+Latter Day Saint movement, including the Church of Jesus Christ of Latter-day Saints (LDS Church).
+Traditionally, a Latter Day Saint holding this priesthood office is a "traveling minister" and an
+"especial witness" of Jesus Christ, charged with the mission of preaching the gospel to the entire
+world under the direction of the Twelve Apostles.
+[semantic similarity: 0.850] 
+
+SEVENTY (LDS CHURCH)
+ Seventy is a priesthood office in the Melchizedek priesthood of the Church of Jesus Christ of
+Latter-day Saints (LDS Church). Traditionally, a church member holding this priesthood office is a
+"traveling minister" and an "especial witness" of Jesus Christ, charged with the mission of
+preaching the gospel to the entire world under the direction of the Twelve Apostles.
+[semantic similarity: 0.820] 
+
+PRIESTHOOD (LDS CHURCH)
+ In the Church of Jesus Christ of Latter-day Saints (LDS Church), the priesthood is the power and
+authority to act in the name of God for the salvation of humankind.LDS Church, Guide to the
+Scriptures: Priesthood Male members of the church who meet standards of worthy behavior and church
+participation are generally ordained to specific offices within the priesthood.
+[semantic similarity: 0.804] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+CANNED WATER
+ Canned water is drinking water, including spring water, artesian spring water, purified water,
+carbonated water and mineral water, packaged in beverage cans made of aluminium or tin-plated steel.
+[score: 0.925] 
+
+HYPOGRAPHA PHLEGETONARIA
+ Hypographa phlegetonaria is a species of moth of the family Geometridae first described by Achille
+Guenee in 1857. It is found in Australia, including Tasmania.
+[score: 0.925] 
+
+PONOMETIA ALTERA
+ Ponometia altera is a moth of the family Noctuidae.  It is found in the southern parts of the
+United States, including New Mexico, Arizona and California.
+[score: 0.924] 
+
+DISNEY COMICS
+ Disney comics are comic books and comic strips featuring characters created by the Walt Disney
+Company, including Mickey Mouse, Donald Duck and Uncle Scrooge.
+[score: 0.919] 
+
+
+>>>> Time taken (SBERT): 3.6 sec
+>>>> Time taken (USE): 31.8 sec
+>>>> Time taken (D2V): 1.6 sec

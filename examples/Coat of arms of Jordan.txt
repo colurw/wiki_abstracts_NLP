@@ -1,0 +1,105 @@
+34911
+
+COAT OF ARMS OF JORDAN
+ The coat of arms of Jordan or the emblem of the Hashemite Kingdom of Jordan is the arms of dominion
+for the king of Jordan.  The emblem was initially adopted by Abdullah I, the emir of Transjordan, in
+1921.
+
+>>>> SpaCy Entity Recognition:   GPE - Countries, cities, states
+
+>>>> H-Cluster Keywords:   ['arms', 'coat', 'shield', 'heraldic', 'symbol']
+>>>> H-Cluster Keywords:   ['coat arms', 'heraldic symbol', 'representing canadian']
+>>>> Hierarchical Cluster Size:   81
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Coat of Arms.
+
+COAT OF ARMS OF THE KING OF SPAIN
+The coat of arms of the King of Spain is the heraldic symbol representing the monarch of Spain.  The
+current version of the monarch's coat of arms was adopted in 2014 but is of much older origin.
+[score: 0.644] 
+
+COAT OF ARMS OF LIECHTENSTEIN
+The coat of arms of Liechtenstein is the coat of arms of the ruling Prince of Liechtenstein,
+currently Hans-Adam II. As the sovereign emblem of the Prince, its use is restricted to the Prince
+and members of his House, though private individuals are permitted to use the arms if it is in the
+interest of the State.
+[score: 0.641] 
+
+COAT OF ARMS OF JAMAICA
+The coat of arms of Jamaica is a heraldic symbol used to represent Jamaica.  The coat of arms is a
+legacy design, with its earliest iteration having been granted for the colony of Jamaica in 1661
+under Royal Warrant.
+[score: 0.636] 
+
+COAT OF ARMS OF NAVARRE
+The coat of arms of Navarre is the heraldic emblem which for centuries has been used in Navarre.  It
+was adopted as one of the official symbols of the Chartered Community of Navarre and is regulated by
+Foral Law 24/2003.
+[score: 0.622] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Monarchy and Symbols.
+
+SUCCESSION TO THE JORDANIAN THRONE
+ Line of succession to the Jordanian throne is the line of people who are eligible to succeed to the
+throne of the Hashemite Kingdom of Jordan.  The succession is regulated by Article 28 of the
+Constitution of Jordan.
+[semantic similarity: 0.599] 
+
+ROYAL BEND OF CASTILE
+ The Royal Bend of Castile (Banda Real de Castilla) was the heraldic flag of the monarchs of the
+Crown of Castile, a personal banner of military use, distinctive indicating to the troops the
+presence of the monarch and allowed them to have identified his position in the battles.  This
+insignia, who joined in the symbolism of the king of Castile to heraldic flag with the Castile and
+Leonese arms, was created in 1332 by the king Alfonso XI of Castile, although its origin probably
+would go back to one of the primitive symbols of the Counts of Castile, which had consisted of a
+gold bend on gules (red).
+[semantic similarity: 0.588] 
+
+KING OF HANIGALBAT
+ The king of Hanigalbat (Akkadian: sar Hanigalbat) or king of the land of Hanigalbat (sar mat
+Hanigalbat) was an Assyrian vassal ruler, essentially a viceroy, in the territory of the Kingdom of
+Mitanni, also known as Hanigalbat, following its conquest by the Middle Assyrian king Shalmaneser I.
+The kings of Hanigalbat were members of the Assyrian royal family and also held the title of grand
+vizier (sukallu rabi'u).
+[semantic similarity: 0.579] 
+
+COAT OF ARMS OF SYRIA
+ The current coat of arms of Syria or coat of arms of the Syrian Arab Republic () was adopted in
+1980, following the 1977 dissolution of the Federation of Arab Republics, whose coat of arms had
+until then been used by its constituent states.  This emblem consist of the Hawk of QuraishPicture
+of Syria flag and coat of arms
+[semantic similarity: 0.578] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+MINISTER OF FOREIGN AFFAIRS (JORDAN)
+ Minister of Foreign Affairs of the Hashemite Kingdom of Jordan is a cabinet minister in charge of
+the Ministry of Foreign Affairs of Jordan, responsible for conducting foreign relations of the
+country.
+[score: 0.770] 
+
+GEOLOGY OF JORDAN
+ The geology of Jordan includes thick sedimentary sequences of sandstone, marl and evaporites atop
+ancient Precambrian crystalline igneous and metamorphic basement rock.
+[score: 0.767] 
+
+JORDAN NUNATAK
+ Jordan Nunatak () is a nunatak standing between the heads of Rochray Glacier and Cox Glacier in the
+southwest part of Thurston Island, Antarctica.  It was mapped by the United States Geological Survey
+from ground surveys and U.
+[score: 0.765] 
+
+VISA REQUIREMENTS FOR JORDANIAN CITIZENS
+ Visa requirements for Jordanian citizens are administrative entry restrictions by the authorities
+of other states placed on citizens of Jordan.  As of December 2022, Jordanian citizens had visa-free
+or visa on arrival access to 53 countries and territories, ranking the Jordanian passport 94th in
+terms of travel freedom according to the Henley Passport Index.
+[score: 0.759] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 28.2 sec
+>>>> Time taken (D2V): 1.5 sec

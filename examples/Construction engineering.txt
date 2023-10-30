@@ -1,0 +1,108 @@
+7440
+
+CONSTRUCTION ENGINEERING
+ Construction engineering, also known as construction operations, is a professional subdiscipline of
+civil engineering that deals with the designing, planning, construction, and operations management
+of infrastructure such as roadways, tunnels, bridges, airports, railroads, facilities, buildings,
+dams, utilities and other projects.  Construction engineers learn some of the design aspects similar
+to civil engineers as well as project management aspects.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Engineering
+
+CIVIL ENGINEERING
+Civil engineering is a professional engineering discipline that deals with the design, construction,
+and maintenance of the physical and naturally built environment, including public works such as
+roads, bridges, canals, dams, airports, sewage systems, pipelines, structural components of
+buildings, and railways.
+[score: 0.709] 
+
+BUILDING ENGINEER
+A building engineer is recognised as being expert in the use of technology for the design,
+construction, assessment and maintenance of the built environment.Definition used by the CABE
+(Chartered Association of Building Engineer) Commercial Building Engineers are concerned with the
+planning, design, construction, operation, renovation, and maintenance of buildings, as well as with
+their impacts on the surrounding environment.
+[score: 0.705] 
+
+STRUCTURAL ENGINEERING
+Structural engineering is a sub-discipline of civil engineering in which structural engineers are
+trained to design the 'bones and muscles' that create the form and shape of human-made structures.
+Structural engineers also must understand and calculate the stability, strength, rigidity and
+earthquake-susceptibility of built structures for buildingsFAO online publication  and nonbuilding
+structures.
+[score: 0.678] 
+
+IRANIAN CONSTRUCTION ENGINEERING ORGANIZATION
+Iranian Construction Engineering Organization  may also be called Construction Engineers
+Organization(Fullname Construction engineering system organization) is the Iranian organization that
+issues work permits and grades and records of building architects.  It was created in 1978.
+[score: 0.675] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Construction
+
+CIVIL ENGINEERING
+ Civil engineering is a professional engineering discipline that deals with the design,
+construction, and maintenance of the physical and naturally built environment, including public
+works such as roads, bridges, canals, dams, airports, sewage systems, pipelines, structural
+components of buildings, and railways.
+[semantic similarity: 0.801] 
+
+CIVIL ENGINEERING SOFTWARE
+ Many software programs are available for each discipline of civil engineering.  Most civil
+engineers practice in specialized subsets of civil engineering, such as geotechnical engineering,
+structural engineering, transportation engineering, hydraulic engineering, environmental
+engineering, project and construction management and land surveying.
+[semantic similarity: 0.699] 
+
+DOOSAN ENGINEERING & CONSTRUCTION
+ Doosan Engineering & Construction is a South Korean general construction company.  Since its
+inception in 1960, the company has engaged in the construction of infrastructure facilities,
+including roads, railroads, bridges, ports, buildings and residential facilities.
+[semantic similarity: 0.692] 
+
+JOURNAL OF AEROSPACE ENGINEERING
+ The Journal of Aerospace Engineering is a peer-reviewed scientific journal published by the
+American Society of Civil Engineers and combines civil engineering with aerospace technology (but
+also incorporates other elements of civil engineering) to develop structures for space and extreme
+conditions.  Topics of interest include aerodynamics, computational fluid dynamics, wind tunnel
+testing of buildings and structures, aerospace structures and materials, and more.
+[semantic similarity: 0.667] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+TAAVETTI LAPVETELAINEN
+ Daavid (Taavetti) Latvetelainen (19 November 1860 in Maaninka - 1 July 1919 in Helsinki) was a
+Finnish construction worker and politician.  He was a member of the Parliament of Finland from 1911
+to 1918, representing the Social Democratic Party of Finland (SDP).
+[score: 0.740] 
+
+SVETLANA-CLASS CRUISER
+ The Svetlana-class cruiser was the first class of light cruisers built for the Imperial Russian
+Navy (IRN) during the 1910s.  Construction was interrupted by World War I, the Russian Revolution
+and the Russian Civil War.
+[score: 0.738] 
+
+SAN MIGUEL ARCANGEL CHURCH (CABO ROJO)
+ Iglesia San Miguel Arcangel is a Roman Catholic parish church located in Cabo Rojo, Puerto Rico.
+Construction on the building started in 1773 and was completed in 1783.
+[score: 0.735] 
+
+GEOSERVICE INGENIERIA
+ Geoservice Ingenieria is a Peruvian firm founded in 1995, which provides engineering and consulting
+services.  It work includes environmental impact assessment (EIA) studies, hydrological studies,
+construction management, and geotechnical studies.
+[score: 0.732] 
+
+
+>>>> Time taken (SBERT): 2.9 sec
+>>>> Time taken (USE): 24.5 sec
+>>>> Time taken (D2V): 1.7 sec

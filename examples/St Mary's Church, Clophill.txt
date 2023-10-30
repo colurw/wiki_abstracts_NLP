@@ -1,0 +1,92 @@
+73921
+
+ST MARY'S CHURCH, CLOPHILL
+ The present St Mary's Church is located in the centre of the small village of Clophill, between
+Bedford and Luton in the South Midlands of England.  The new church, built in 1848, replaced the old
+church by order of the Church Commissioners in 1850.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['church', 'st', 'parish', 'england', 'mary']
+>>>> H-Cluster Keywords:   ['parish church', 'st mary', 'church st']
+>>>> Hierarchical Cluster Size:   80
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Anglican Churches
+
+ST MARY'S CHURCH, BLETCHLEY
+St Mary's Church is the Anglican parish church in Bletchley, a constituent town of Milton Keynes in
+Buckinghamshire, England.  St Mary's is located on Church Green Road, Bletchley.
+[score: 0.741] 
+
+ST MARY'S CHURCH, LOWER INCE
+St Mary's Church is in Warrington Road, Lower Ince, Ince-in-Makerfield, Wigan, Greater Manchester,
+England.  It is an active Anglican parish church in the deanery of Wigan, the archdeaconry of
+Warrington, and the diocese of Liverpool.
+[score: 0.738] 
+
+CHURCH OF ST MARY, PODINGTON
+Church of St Mary, or St Mary the Virgin, is a Grade I listed church in Podington, Bedfordshire,
+England.  It became a listed building on 13 July 1964, (List Entry Number: 1321514).
+[score: 0.720] 
+
+ST MARY'S CHURCH, STAMFORD
+St Mary's Church, Stamford is a parish church of the Church of England, located in Stamford,
+Lincolnshire, lending its name to St Mary's Hill (part of the old Great North Road) on which it
+stands, and which runs down to the river crossing opposite The George Hotel.
+[score: 0.712] 
+
+
+>>>> ChatGPT-USE Cluster Label:  English parish churches
+
+ST GILES CHURCH, WILLENHALL
+ The Church of St Giles is a parish church in Willenhall, Metropolitan Borough of Walsall, West
+Midlands, England.  Although the current church building dates to 1867, a church has been located in
+Willenhall since c.
+[semantic similarity: 0.772] 
+
+ST MARY'S CHURCH, BATHWICK
+ St Mary's Church, Bathwick (also called Bathwick Old Church) was a parish church in Bathwick in the
+city of Bath in England.  The church was demolished in 1818.
+[semantic similarity: 0.739] 
+
+ST MARY'S CHURCH, BARNSTONE
+ St Mary's Church, Barnstone is a parish church in the Diocese of Southwell and Nottingham of the
+Church of England, situated in Barnstone, Nottinghamshire.  It was completed as a chapel of ease for
+St Andrew's Church, Langar in 1857 in Gothic Revival style.
+[semantic similarity: 0.732] 
+
+ST MARY'S CHURCH, SWILLINGTON
+ St Mary's Church is located on Church Lane next to Swillington Primary School, on Wakefield Road,
+Swillington, West Yorkshire, England.  There has been a church at this location for at least 900
+years.
+[semantic similarity: 0.732] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ZION METHODIST CHURCH, WILBERFORCE STREET
+ Zion Methodist Church, Wilberforce Street is a historic Settler church established by the Nova
+Scotian Settlers in 1792 and the present building was constructed in the early to middle of the
+nineteenth century.
+[score: 0.555] 
+
+CHURCH, PAXSON & CO.
+ Church, Paxson & Co.  was a New York City-based music publishing company founded in 1909 by
+Clarence Clinton Church (1880-1972) and Clement Esmond Paxson (1878-1962).
+[score: 0.549] 
+
+PUHI O AOTEA RATAHI
+ Puhi o Aotea Ratahi (1898 or 1899 - 1966) was the fourth president of the Ratana  Established
+Church of New Zealand  and younger sister of the church's founder T. W.
+[score: 0.543] 
+
+ZHONGHELU CHURCH
+ Zhonghelu Church () is a Protestant church located in Fushun, Liaoning Province, China.  The
+current building was completed in 1998, after absorbing the Yingkelu Church.
+[score: 0.543] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 34.2 sec
+>>>> Time taken (D2V): 1.5 sec

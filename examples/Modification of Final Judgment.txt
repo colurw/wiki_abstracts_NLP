@@ -1,0 +1,100 @@
+6086
+
+MODIFICATION OF FINAL JUDGMENT
+ In United States telecommunication law, the Modification of Final Judgment (MFJ) is the August 1982
+consent decree concerning the American Telephone and Telegraph Company (AT&T) and its subsidiaries,
+in the antitrust lawsuit United States v.  AT&T of 1974.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['judgment', 'legal', 'court', 'abstract', 'matter']
+>>>> H-Cluster Keywords:   ['judgment matter', 'vacated judgment', 'law summary']
+>>>> Hierarchical Cluster Size:   7
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Justice organizations
+
+MINNESOTA JUSTICE FOUNDATION
+The Minnesota Justice Foundation (MJF) is a nonprofit organization that links Minnesotans who need
+legal aid with volunteer law students and attorneys.  It was founded in 1982.
+[score: 0.536] 
+
+RENEWED JUDGMENT AS A MATTER OF LAW
+In the United States courts, renewed judgment as a matter of law is a party's second chance at a
+judgment as a matter of law (JMOL) motion.  Renewed JMOL is decided after a jury has returned its
+verdict, and is a motion to have that verdict altered.
+[score: 0.519] 
+
+TEXAS CODE OF MILITARY JUSTICE
+The Texas Code of Military Justice (TCMJ) is the foundation of military law in the State of Texas
+for the Texas Military.  It was established by the Texas Legislature in accordance with the
+authority given by the Constitution of Texas.
+[score: 0.504] 
+
+MINISTRY OF JUSTICE AND LEGAL AFFAIRS (OMAN)
+The Ministry of Justice and Legal Affairs (MJLA) () is the governmental body in the Sultanate of
+Oman responsible for drafting legislation, providing other government bodies with legal advice, and
+regulating the legal profession.  It was the result of the merger of the Ministry of Justice and the
+Ministry of Legal Affairs in August 2020.
+[score: 0.492] 
+
+
+>>>> ChatGPT-USE Cluster Label:  AT&T Monopoly
+
+UNITED STATES V. AT&T
+ United States v.  AT&T was the antitrust case in the United States that led to the 1982 Bell System
+divestiture, the breakup of the old American Telephone & Telegraph into the new, seven regional Bell
+operating companies (RBOC)s and the much smaller new AT&T.
+[semantic similarity: 0.697] 
+
+KINGSBURY COMMITMENT
+ The Kingsbury Commitment is a 1913 out-of-court settlement of the United States government's
+antitrust challenge against the American Telephone and Telegraph Company (AT&T) for the company's
+then-growing vertical monopoly in the telecommunication industry.  In return for the government's
+agreement not to pursue legal action against the company as a monopolist, AT&T agreed to divest the
+controlling interest it had acquired in the Western Union Telegraph Company, and to allow non-
+competing independent telephone companies to interconnect with the AT&T long-distance network.
+[semantic similarity: 0.631] 
+
+ATTEMPTED PURCHASE OF T-MOBILE USA BY AT&T
+ On March 20, 2011, AT&T announced that it would purchase T-Mobile USA. On August 31, 2011, the
+Antitrust Division of the United States Department of Justice formally announced that it would seek
+to block the takeover, and filed a lawsuit to such effect in federal court.
+[semantic similarity: 0.569] 
+
+BELL TELEPHONE (DISAMBIGUATION)
+ Bell Telephone refers to the Bell System of companies, led by the Bell Telephone Company and later
+by AT&T, which provided telephone services to much of the United States and Canada from 1877 to
+1984.
+[semantic similarity: 0.568] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+INVICTA INTERNATIONAL AIRLINES
+ Invicta International Airlines Ltd was a charter airline based at Manston Airport in the United
+Kingdom.  It operated non-scheduled passenger and freight services between 1965 and 1982.
+[score: 0.667] 
+
+EDWARD FRIZZELL
+ Edward Frizzell, CBE, QPM,London Gazette OStJ (6 December 1918 - 25 May 1987) was HM Chief
+Inspector of Constabulary for Scotland from 1979 toLure of the Law The Times (London, England),
+Friday, 1 Aug 1980; pg.  2; Issue 60692 1983.
+[score: 0.666] 
+
+KARL LOEWENSTEIN
+ Karl Loewenstein (November 9, 1891 in Munich - July 10, 1973 in Heidelberg) was a German lawyer and
+political scientist, regarded as one of the prominent figures of Constitutional law in the twentieth
+century.
+[score: 0.663] 
+
+VALID CLAIM
+ In Law, a valid claim or colorable claim is a claim that is strong enough to have a reasonable
+chance of being determined both valid based upon its being sufficiently supported by law and
+provable fact to be plausibly proved in court.
+[score: 0.654] 
+
+
+>>>> Time taken (SBERT): 3.0 sec
+>>>> Time taken (USE): 25.3 sec
+>>>> Time taken (D2V): 1.4 sec

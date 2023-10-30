@@ -1,0 +1,100 @@
+38772
+
+SOMBRERO
+ A , ; ) is a type of wide-brimmed Mexican men's hat used to shield the face and eyes from the sun.
+It usually has a high pointed crown, an extra-wide brim (broad enough to cast a shadow over the
+head, neck and shoulders of the wearer) that is slightly upturned at the edge, and a chin strap to
+hold it in place.
+
+>>>> SpaCy Entity Recognition:   NORP - Nationalities or religious or political groups
+
+>>>> H-Cluster Keywords:   ['hat', 'cap', 'worn', 'helmet', 'headgear']
+>>>> H-Cluster Keywords:   ['traditionally worn', 'worn military', 'wide brimmed']
+>>>> Hierarchical Cluster Size:   67
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Hat styles.
+
+HAT BRIM
+A hat brim is that part of a hat that extends outwards and to the side of the head, protruding from
+the base of the crown.Glossary of Hat Terms at tenthstreethats.
+[score: 0.704] 
+
+HALO HAT
+A halo hat (sometimes halo brim hat) is a millinery design in which the headgear acts as a circular
+frame for the face, creating a halo effect.  The design is said to date back to the late 19th
+century, when it was known as the aureole hat; this name is sometimes still used.
+[score: 0.646] 
+
+ASIAN CONICAL HAT
+The Asian conical hat is a simple style of conically shaped sun hat originating in East, South and
+Southeast Asia; and notable in modern-day nations and regions of China, Taiwan, parts of Russian
+Manchuria, Bangladesh, Bhutan, Cambodia, India, Indonesia, Japan, Korea, Laos, Malaysia, Myanmar,
+Philippines, Nepal, Thailand, and Vietnam.  It is kept on the head by a cloth or fiber chin strap,
+an inner headband, or both.
+[score: 0.637] 
+
+COWBOY HAT
+The cowboy hat is a high-crowned, wide-brimmed hat best known as the defining piece of attire for
+the North American cowboy.  Today it is worn by many people, and is particularly associated with
+ranch workers in the western and southern United States, western Canada and northern Mexico, with
+many country, regional Mexican and sertanejo music performers, and with participants in the North
+American rodeo circuit.
+[score: 0.633] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Headgear styles
+
+SPORTS VISOR
+ A sports visor, also called a sun visor or visor cap, is a type of crownless hat consisting simply
+of a visor or brim with a strap or buckle encircling the head.  The top of the head is not covered
+and the visor protects only the face, including eyes, nose, and cheeks, from the sun.
+[semantic similarity: 0.614] 
+
+USHANKA
+ An ushanka (, from , "ears"), also called an ushanka-hat (), is a Russian fur hat with ear-covering
+flaps that can be tied up to the crown of the cap, or fastened at the chin to protect the ears, jaw,
+and lower chin from the cold.  An alternative way to wear is to bend the flaps back and tie them
+behind the head, which is called "ski-style" -- this offers less protection from the elements, but
+much better visibility, essential for high-speed skiing.
+[semantic similarity: 0.595] 
+
+BRETON (HAT)
+ A Breton (or Bretonne) is a woman's hat with a round crown and a deep brim that is turned upwards
+all the way round, exposing the face.  Sometimes the hat has a domed crown.
+[semantic similarity: 0.591] 
+
+HAT BRIM
+ A hat brim is that part of a hat that extends outwards and to the side of the head, protruding from
+the base of the crown.Glossary of Hat Terms at tenthstreethats.
+[semantic similarity: 0.587] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+SOPA DE PATA
+ Sopa de pata is a hearty Salvadoran soup made from cow's feet, tripe, yuca (also called cassava or
+manioc), cabbage leaves, chayotes, sweet corn, plantains, and green beans.  It may be seasoned with
+Mexican coriander leaves and flavored to taste with lemon or chile powder.
+[score: 0.574] 
+
+COTYLEDON UNDULATA
+ Cotyledon undulate, also known as silver crown or silver ruffles, is a small succulent shrub up to
+50 cm tall.  It has unusual grey undulating leaves that give it a very sculptural shape.
+[score: 0.555] 
+
+MAFER SUAREZ
+ Maria Fernanda Suarez de Garay, known professionally as Mafer Suarez, is a Mexican director,
+screenwriter, and producer.  She is best known for her work on the Mexican television series Mujeres
+asesinas.
+[score: 0.553] 
+
+JOSE LUIS PRADO
+ Jose Luis Prado Medel (born 12 November 1956) is a Mexican former butterfly, freestyle and medley
+swimmer who competed in the 1972 Summer Olympics and in the 1976 Summer Olympics.
+[score: 0.551] 
+
+
+>>>> Time taken (SBERT): 7.6 sec
+>>>> Time taken (USE): 53.5 sec
+>>>> Time taken (D2V): 7.0 sec

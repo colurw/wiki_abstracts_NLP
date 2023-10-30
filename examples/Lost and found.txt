@@ -1,0 +1,99 @@
+59719
+
+LOST AND FOUND
+ A lost and found (American English) or lost property (British English), or lost articles (also
+Canadian English) is an office in a public building or area where people can go to retrieve lost
+articles that may have been found by others.  Frequently found at museums, amusement parks and
+schools, a lost and found will typically be a clearly marked box or room in a location near the main
+entrance.
+
+>>>> SpaCy Entity Recognition:   NORP - Nationalities or religious or political groups
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Lost Works
+
+LOST LITERARY WORK
+A lost work is a document, literary work, or piece of multimedia produced some time in the past, of
+which no surviving copies are known to exist.  It can be known only through reference.
+[score: 0.680] 
+
+LOST, MISLAID, AND ABANDONED PROPERTY
+Lost, mislaid, and abandoned property are categories of the common law of property which deals with
+personal property or chattel which has left the possession of its rightful owner without having
+directly entered the possession of another person.  Property can be considered lost, mislaid, or
+abandoned depending on the circumstances under which it is found by the next party who obtains its
+possession.
+[score: 0.655] 
+
+LOST AND FOUND (BOOK)
+Lost and Found is a children's picture book by Oliver Jeffers, published in 2005. It won the Nestle
+Smarties Book Prize Gold Award and was the Blue Peter Book of the Year.
+[score: 0.624] 
+
+LOST TREASURE (MAGAZINE)
+Lost Treasure was an American magazine, found both online and in print, which described lost
+treasures and different methods and items used for finding them.  Examples were lost mines, and
+valuables lost through wars, theft, or forgetfulness.
+[score: 0.624] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Lost Treasures
+
+LOST TREASURE (MAGAZINE)
+ Lost Treasure was an American magazine, found both online and in print, which described lost
+treasures and different methods and items used for finding them.  Examples were lost mines, and
+valuables lost through wars, theft, or forgetfulness.
+[semantic similarity: 0.513] 
+
+UNIVERSITY MUSEUM
+ A university museum is a repository of collections run by a university, typically founded to aid
+teaching and research within the institution of higher learning.  The Ashmolean Museum at the
+University of Oxford in England is an early example, originally housed in the building that is now
+the Museum of the History of Science.
+[semantic similarity: 0.489] 
+
+SOLANDER BOX
+ A Solander box ("S" may also be in lowercase), or clamshell case (mainly in American English), is a
+book-form case used for storing manuscripts, maps, prints, documents, old and precious books, etc.
+It is commonly used in archives, print rooms and libraries.
+[semantic similarity: 0.458] 
+
+LOST CITY
+ A lost city is an urban settlement that fell into terminal decline and became extensively or
+completely uninhabited, with the consequence that the site's former significance was no longer known
+to the wider world.  The locations of many lost cities have been forgotten, but some have been
+rediscovered and studied extensively by scientists.
+[semantic similarity: 0.450] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+LEDAEA PERDITALIS
+ Ledaea perditalis, the buttonbush owlet or lost owlet moth, is a moth in the family Erebidae.  The
+species was first described by Francis Walker in 1859.
+[score: 0.565] 
+
+ANTICATO
+ The Anticato (sometimes Anti-Cato; Latin: Anticatones) is a lost polemic written by Julius Caesar
+in hostile reply to Cicero's pamphlet praising Cato the Younger.  The text is lost and survives only
+in fragments.
+[score: 0.533] 
+
+LOST ORIGINAL TELEVISION SOUNDTRACKS
+ The orchestral score of Lost is composed, orchestrated, and produced by Michael Giacchino and has
+been released on a series of soundtrack albums by Varese Sarabande.
+[score: 0.523] 
+
+LOST RIVER SUCKER
+ The Lost River sucker (Deltistes luxatus) is a species of ray-finned fish in the family
+Catostomidae.  It is the only living member of the genus Deltistes.
+[score: 0.517] 
+
+
+>>>> Time taken (SBERT): 3.1 sec
+>>>> Time taken (USE): 32.3 sec
+>>>> Time taken (D2V): 1.7 sec

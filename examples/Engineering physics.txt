@@ -1,0 +1,110 @@
+51432
+
+ENGINEERING PHYSICS
+ Engineering physics, or engineering science, refers to the study of the combined disciplines of
+physics, mathematics, chemistry, biology, and engineering, particularly computer, nuclear,
+electrical, electronic, aerospace, materials or mechanical engineering.  By focusing on the
+scientific method as a rigorous basis, it seeks ways to apply, design, and develop new solutions in
+engineering.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['engineering', 'science', 'design', 'engineers', 'methods']
+>>>> H-Cluster Keywords:   ['engineering statistics', 'science engineering', 'practices science']
+>>>> Hierarchical Cluster Size:   18
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Engineering Studies.
+
+ENGINEERING
+Engineering is the practice of using natural science, mathematics, and the engineering design
+process to solve problems, increase efficiency and productivity, and improve systems.  Modern
+engineering comprises many subfields which include designing and creating infrastructure, machinery,
+vehicles, electronics, materials, and energy.
+[score: 0.781] 
+
+ENGINEER
+Engineers, as practitioners of engineering, are professionals who invent, design, analyze, build and
+test machines, complex systems, structures, gadgets and materials to fulfill functional objectives
+and requirements while considering the limitations imposed by practicality, regulation, safety and
+cost.  "Science is knowledge based on our observed facts and tested truths arranged in an orderly
+system that can be validated and communicated to other people.
+[score: 0.735] 
+
+ENGINEERING MATHEMATICS
+Engineering mathematics is a branch of applied mathematics concerning mathematical methods and
+techniques that are typically used in engineering and industry.  Along with fields like engineering
+physics and engineering geology, both of which may belong in the wider category engineering science,
+engineering mathematics is an interdisciplinary subject motivated by engineers' needs both for
+practical, theoretical and other considerations outside their specialization, and to deal with
+constraints to be effective in their work.
+[score: 0.721] 
+
+ENGINEERING STUDIES
+Engineering studies is an interdisciplinary branch of social sciences and humanities devoted to the
+study of engineers and their activities, often considered a part of science and technology studies
+(STS), and intersecting with and drawing from engineering education research.  Studying engineers
+refers among other to the history and the sociology of their profession, its institutionalization
+and organization, the social composition and structure of the population of engineers, their
+training, their trajectory, etc.
+[score: 0.711] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Engineering
+
+ENGINEERING MATHEMATICS
+ Engineering mathematics is a branch of applied mathematics concerning mathematical methods and
+techniques that are typically used in engineering and industry.  Along with fields like engineering
+physics and engineering geology, both of which may belong in the wider category engineering science,
+engineering mathematics is an interdisciplinary subject motivated by engineers' needs both for
+practical, theoretical and other considerations outside their specialization, and to deal with
+constraints to be effective in their work.
+[semantic similarity: 0.756] 
+
+BIOMECHANICAL ENGINEERING
+ Biomechanical engineering, also considered a subfield of mechanical engineering and biomedical
+engineering, combines principles of physics (with a focus on mechanics), biology, and engineering.
+Topics of interest in this field include (experimental and theoretical) biomechanics, computational
+mechanics, continuum mechanics, bioinstrumentation, design of implants and prostheses, etc.
+[semantic similarity: 0.741] 
+
+MECHANICAL ENGINEERING
+ Mechanical engineering is the study of physical machines that may involve force and movement.  It
+is an engineering branch that combines engineering physics and mathematics principles with materials
+science, to design, analyze, manufacture, and maintain mechanical systems.
+[semantic similarity: 0.740] 
+
+HISTORY OF MECHANICAL ENGINEERING
+ Mechanical engineering is a discipline centered around the concept of using force multipliers,
+moving components, and machines.  It utilizes knowledge of mathematics, physics, materials sciences,
+and engineering technologies.
+[semantic similarity: 0.715] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+MICROBIAL FOOD WEB
+ The microbial food web refers to the combined trophic interactions among microbes in aquatic
+environments.  These microbes include viruses, bacteria, algae, heterotrophic protists (such as
+ciliates and flagellates).
+[score: 0.750] 
+
+KINARIUS
+ Kinarius was a fictitious legendary king of the Britons as recounted by Geoffrey of Monmouth.  He
+was son of Sisillius II and succeeded by his brother, Danius.
+[score: 0.749] 
+
+NUCLEAR CHEMISTRY
+ Nuclear chemistry is the sub-field of chemistry dealing with radioactivity, nuclear processes, and
+transformations in the nuclei of atoms, such as nuclear transmutation and nuclear properties.
+[score: 0.747] 
+
+MOLLACIK HASAN PASHA
+ Hasan Pasha (also referred to as Mollacik Hasan Pasha or Kethuda Hasan Pasha; died
+1700/1701)Sureyya, Bey Mehmet, Nuri Akbayar, and Seyit Ali.  Kahraman.
+[score: 0.743] 
+
+
+>>>> Time taken (SBERT): 4.0 sec
+>>>> Time taken (USE): 44.5 sec
+>>>> Time taken (D2V): 1.3 sec

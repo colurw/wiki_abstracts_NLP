@@ -1,0 +1,101 @@
+25813
+
+CREDIT DEFAULT OPTION
+ In finance, a default option, credit default swaption or credit default option is an option to buy
+protection (payer option) or sell protection (receiver option) as a credit default swap on a
+specific reference credit with a specific maturity.  The option is usually European, exercisable
+only at one date in the future at a specific strike price defined as a coupon on the credit default
+swap.
+
+>>>> SpaCy Entity Recognition:   NORP - Nationalities or religious or political groups
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Credit Default Swap Group
+
+CREDIT DEFAULT SWAP INDEX
+A credit default swap index is a credit derivative used to hedge credit risk or to take a position
+on a basket of credit entities.  Unlike a credit default swap, which is an over the counter credit
+derivative, a credit default swap index is a completely standardized credit security and may
+therefore be more liquid and trade at a smaller bid-offer spread.
+[score: 0.720] 
+
+CREDIT DEFAULT SWAP
+A credit default swap (CDS) is a financial swap agreement that the seller of the CDS will compensate
+the buyer in the event of a debt default (by the debtor) or other credit event.  That is, the seller
+of the CDS insures the buyer against some reference asset defaulting.
+[score: 0.675] 
+
+DEFAULT (FINANCE)
+In finance, default is failure to meet the legal obligations (or conditions) of a loan, for example
+when a home buyer fails to make a  mortgage payment, or when a corporation or government fails to
+pay a bond which has reached maturity.  A national or sovereign default is the failure or refusal of
+a government to repay its national debt.
+[score: 0.586] 
+
+DEFAULT (LAW)
+In law, a default is the failure to do something required by law or to comply with a contractual
+obligation.  Legal obligations can arise when a response or appearance is required in legal
+proceedings, after taking out a loan, or as agreed in a contract; failure to carry them out puts one
+in defaults of the obligations.
+[score: 0.564] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Options
+
+CHOOSER OPTION
+ In finance, a chooser option is a special type of option contract.  It gives the purchaser a fixed
+period to decide whether the derivative will be a European call or put option.
+[semantic similarity: 0.594] 
+
+CREDIT SPREAD (OPTIONS)
+ In finance, a credit spread, or net credit spread is an options strategy that involves a purchase
+of one option and a sale of another option in the same class and expiration but different strike
+prices.  It is designed to make a profit when the spreads between the two options narrows.
+[semantic similarity: 0.592] 
+
+BOSTON OPTION
+ A Boston option, also known as a deferred premium option, is a type of American option.  This type
+of option is considered a long-term option due to how premium payments are usually due a year after
+a contract is started.
+[semantic similarity: 0.585] 
+
+OPTION (FINANCE)
+ In finance, an option is a contract which conveys to its owner, the holder, the right, but not the
+obligation, to buy or sell a specific quantity of an underlying asset or instrument at a specified
+strike price on or before a specified date, depending on the style of the option.  Options are
+typically acquired by purchase, as a form of compensation, or as part of a complex financial
+transaction.
+[semantic similarity: 0.580] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+THOMAS ALAN SCHWARTZ
+ Thomas Alan Schwartz is an American historian.  He is the Distinguished Professor of History and
+Professor of Political Science and European Studies at Vanderbilt University.
+[score: 0.645] 
+
+FRITILLARIA GRAECA
+ Fritillaria graeca is a European plant species in the lily family Liliaceae.  It is native to the
+Balkans (Albania, Bulgaria, North Macedonia, and Greece).
+[score: 0.644] 
+
+BOND OPTION
+ In finance, a bond option is an option to buy or sell a bond at a certain price on or before the
+option expiry date.  These instruments are typically traded OTC.
+[score: 0.642] 
+
+ACLERIS NIGRILINEANA
+ Acleris nigrilineana is a species of moth of the family Tortricidae.  It is found in Korea, Japan,
+the Russian Far East and Denmark, Norway, Sweden, Finland, Poland, European Russia, Estonia and
+Latvia.
+[score: 0.636] 
+
+
+>>>> Time taken (SBERT): 6.8 sec
+>>>> Time taken (USE): 54.3 sec
+>>>> Time taken (D2V): 6.8 sec

@@ -1,0 +1,96 @@
+29911
+
+FERI TRADITION
+ The Feri Tradition is an American neo-pagan tradition related to Neopagan witchcraft.  It was
+founded in the west coast of the United States between the 1950s and 1960s by Victor Henry Anderson
+and his wife, Cora Anderson.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Religious Groups
+
+FERAFERIA
+Feraferia is a Neopagan religion with a community that began in Southern California and now spans
+the United States and parts of Europe.  Members of this community practice Hellenic-inspired Goddess
+worship.
+[score: 0.588] 
+
+FEGENTRI
+Fegentri stands for  International Federation of Gentlemen and Lady Riders or, in French, Federation
+Internationale des Gentlemen-Riders et des Cavalieres.Official site It was founded in 1955 .
+[score: 0.524] 
+
+FERIA
+In the liturgy of the Catholic Church, a feria is a day of the week other than Sunday."The term
+'feria' means the different days of the week apart from Sunday" (English translation of the Code of
+Rubrics, 21); Nomine feriae intelleguntur singuli dies hebdomadis, praeter dominicam (original
+text).
+[score: 0.510] 
+
+FEMINA POTENS ART GALLERY
+Femina Potens (Latin: Powerful Woman) was a non-profit art gallery and performance art space active
+from 2001 to 2016, and located in San Francisco, California.  It was founded in 2001 by artistic
+director Madison Young, which sought to bring greater visibility and advancement to female artists,
+including queer and transgender ones.
+[score: 0.510] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Witchcraft Movements.
+
+COCHRANE'S CRAFT
+ Cochrane's Craft, also known as Cochranianism, is a religious movement similar to Wicca that
+considers itself a form of Traditional Witchcraft.  It was founded in 1951 by the English witch
+Robert Cochrane, who himself claimed to have been taught in the tradition by some of his elderly
+family members, a claim that is disputed by historians such as Ronald Hutton and Leo Ruickbie.
+[semantic similarity: 0.622] 
+
+BEANITE QUAKERISM
+ Beanite Quakerism refers to the independent tradition of Quakerism started by Quaker ministers Joel
+and Hannah Bean in the western United States in the late 19th century, and in a more specific sense
+refers to the three Western yearly meetings that spring from that tradition.
+[semantic similarity: 0.592] 
+
+RAYMOND HOWARD (WICCAN)
+ Raymond Howard was an English practitioner of the modern Pagan new religious movement of Wicca.  He
+promoted his tradition, known as the Coven of Atho, through a correspondence course established in
+the early part of the 1960s.
+[semantic similarity: 0.589] 
+
+THE LATIMERS
+ The Latimers : A Tale of the Western Insurrection of 1794 is an historical novel by the American
+writer and Presbyterian clergyman  Henry Christopher McCook (1837-1911) set in 1790s Pittsburgh,
+Pennsylvania.
+[semantic similarity: 0.572] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+AMERICAN BRASS QUINTET
+ The American Brass Quintet is an American brass quintet founded in 1960. Unlike conventional brass
+quintets, the bass voice is provided by a bass trombone rather than a tuba.
+[score: 0.726] 
+
+DRESSLERELLA ARCHILAE
+ Dresslerella archilae is a species of orchid endemic to Guatemala.Kew World Checklist of Selected
+Plant Families Named after the american botanist Robert Dressler.
+[score: 0.718] 
+
+JAMES O'ROURKE (CANOEIST)
+ James Jerome O'Rourke (May 4, 1915 - November 21, 1983) was an American canoeist who competed in
+the 1936 Summer Olympics.  He was born and died in Yonkers, New York.
+[score: 0.708] 
+
+JAMA CARDIOLOGY
+ JAMA Cardiology is a monthly peer-reviewed medical journal covering cardiology.  It was established
+in 2016 and is published by the American Medical Association.
+[score: 0.706] 
+
+
+>>>> Time taken (SBERT): 7.5 sec
+>>>> Time taken (USE): 22.6 sec
+>>>> Time taken (D2V): 1.6 sec

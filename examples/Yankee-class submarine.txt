@@ -1,0 +1,94 @@
+24366
+
+YANKEE-CLASS SUBMARINE
+ The Yankee class, Soviet designations Project 667A Navaga (navaga) and Project 667AU Nalim
+(burbot), was a series of nuclear-powered ballistic missile submarines built in the Soviet Union for
+the Soviet Navy.  In total, 34 units were built: 24 in Severodvinsk for the Northern Fleet and the
+remaining 10 in Komsomolsk-on-Amur for the Pacific Fleet.
+
+>>>> SpaCy Entity Recognition:   NORP - Nationalities or religious or political groups
+
+>>>> H-Cluster Keywords:   ['soviet', 'class', 'submarines', 'project', 'nato']
+>>>> H-Cluster Keywords:   ['class soviet', 'soviet navy', 'nuclear powered']
+>>>> Hierarchical Cluster Size:   20
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Submarine classes.
+
+TYPHOON-CLASS SUBMARINE
+The Typhoon class, Soviet designation Project 941 Akula (), is a class of nuclear-powered ballistic
+missile submarines designed and built by the Soviet Union for the Soviet Navy.  With a submerged
+displacement of 48,000 tonnes, the Typhoons are the largest submarines ever built,{{cite web
+[score: 0.657] 
+
+WHISKEY-CLASS SUBMARINE
+Whiskey-class submarines (known in the Soviet Union as Projects 613, 640, 644, and 665) are a class
+of diesel-electric attack submarines that the Soviet Union built in the early Cold War period.
+[score: 0.651] 
+
+NATYA-CLASS MINESWEEPER
+The Natya class, Soviet designation Project 266M Akvamarin, were a group of minesweepers built for
+the Soviet Navy and export customers during the 1970s and 1980s.  The ships were used for ocean
+minesweeping.
+[score: 0.637] 
+
+ZULU-CLASS SUBMARINE
+The Soviet Navy's Project 611 (NATO reporting name: Zulu class) were one of the first Soviet post-
+Second-World-War attack submarines.  They were similarly capable to the American GUPPY fleet-boat
+conversions.
+[score: 0.636] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Soviet Navy vessels
+
+ECHO-CLASS SUBMARINE
+ The Echo class were nuclear cruise missile submarines of the Soviet Navy built during the 1960s.
+Their Soviet designation was Project 659 for the first five vessels, and Project 675 for the
+following twenty-nine.
+[semantic similarity: 0.781] 
+
+OGNEVOY-CLASS DESTROYER
+ The Ognevoy-class destroyers consisted of 26 destroyers built for the Soviet Navy during and
+immediately after World War II. The official Soviet designation was Project 30 and Project 30K.
+[semantic similarity: 0.762] 
+
+SMOLNYY-CLASS TRAINING SHIP
+ The Smolnyy or Smol'nyy (Russian Smol'nyi) class, Soviet designation Project 887, are training
+ships built for the Soviet Navy in the late 1970s.  Two ships are operated by the Baltic Fleet of
+the Russian Navy.
+[semantic similarity: 0.761] 
+
+TYPHOON-CLASS SUBMARINE
+ The Typhoon class, Soviet designation Project 941 Akula (), is a class of nuclear-powered ballistic
+missile submarines designed and built by the Soviet Union for the Soviet Navy.  With a submerged
+displacement of 48,000 tonnes, the Typhoons are the largest submarines ever built,{{cite web
+[semantic similarity: 0.755] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+FRENCH DESTROYER ARQUEBUSE
+ Arquebuse was the name ship of her class of 20  built for the French Navy in the first decade of
+the 20th century.  Completed in 1903, the ship was assigned to the Northern Squadron ().
+[score: 0.681] 
+
+PARAPACHYMORPHA
+ Parapachymorpha is a genus of stick insects in the tribe Medaurini, erected by Carl Brunner von
+Wattenwyl in 1893.Brunner von Wattenwyl C (1893) Annali del Museo Civico di Storia Naturale Giacomo
+Doria, Genova (2)13(33): 95.
+[score: 0.650] 
+
+PARACINIPE
+ Paracinipe is a genus of grasshoppers in the family Pamphagidae.  There are about 18 described
+species in Paracinipe, found in northern Africa and the Middle East.
+[score: 0.641] 
+
+ENTORIA (INSECT)
+ Entoria is a genus of stick insects in the tribe Clitumnini, erected by Carl Stal in 1875.Stal C
+(1875) Ofversigt af Kongliga Vetenskaps-Akademiens Forhandlingar 32: 15, 72.
+[score: 0.639] 
+
+
+>>>> Time taken (SBERT): 2.8 sec
+>>>> Time taken (USE): 25.2 sec
+>>>> Time taken (D2V): 1.5 sec

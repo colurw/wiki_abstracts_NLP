@@ -1,0 +1,95 @@
+10367
+
+OLEACEAE
+ Oleaceae, also known as the olive family or sometimes the lilac family, is a taxonomic family of
+flowering shrubs, trees, and a few lianas in the order Lamiales.  It presently comprises 28 genera,
+one of which is recently extinct.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['flowering', 'family', 'plants', 'sherardia', 'genus']
+>>>> H-Cluster Keywords:   ['family lilac', 'lamiales presently', 'genera recently']
+>>>> Hierarchical Cluster Size:   8
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Oleaster species
+
+ELAEAGNUS PUNGENS
+Elaeagnus pungens is a species of flowering plant in the family Elaeagnaceae, known by the common
+names thorny olive, spiny oleaster and silverthorn; also by the family name "oleaster". It is native
+to Asia, including China and Japan.
+[score: 0.634] 
+
+OLEA WOODIANA
+Olea woodiana, known commonly as the forest olive or black ironwood (Afrikaans: Bosolienhout), is an
+African tree species belonging to the olive family (Oleaceae).
+[score: 0.615] 
+
+ELAEAGNUS ANGUSTIFOLIA
+}}Elaeagnus angustifolia, commonly called Russian olive, silver berry, oleaster, or wild olive, is a
+species of Elaeagnus, native to western and central Asia, Iran, from southern Russia and Kazakhstan
+to Turkey, parts of Pakistan and parts of India.  , it is widely established in North America as an
+introduced species.
+[score: 0.610] 
+
+SYRINGA VULGARIS
+Syringa vulgaris, the lilac or common lilac, is a species of flowering plant in the olive family
+Oleaceae, native to the Balkan Peninsula, where it grows on rocky hills.Rushforth, K.
+[score: 0.601] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Genus of flowering plants.
+
+ULEX
+ Ulex (commonly known as gorse, furze, or whin) is a genus of flowering plants in the family
+Fabaceae.  The genus comprises about 20 species of thorny evergreen shrubs in the subfamily
+Faboideae of the pea family Fabaceae.
+[semantic similarity: 0.749] 
+
+OTHOLOBIUM
+ Otholobium is a genus of flowering plants in the pea family with over 50 named species, but several
+also remain undescribed sofar.  Species may be herbaceous perennials, subshrubs, shrubs or small
+trees.
+[semantic similarity: 0.729] 
+
+STRYCHNOS
+ Strychnos is a genus of flowering plants, belonging to the family Loganiaceae (sometimes
+Strychnaceae). The genus includes about 100 accepted species of trees and lianas, and more than 200
+that are as yet unresolved.
+[semantic similarity: 0.726] 
+
+PHELLINE
+ Phelline is a genus of shrubs and the sole member of the family Phellinaceae, a family of flowering
+plants endemic to New Caledonia.  It is placed in the order Asterales and is related to two other
+small plant families: Alseuosmiaceae and Argophyllaceae.
+[semantic similarity: 0.709] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+APLODONTIIDAE
+ The family Aplodontiidae also known as Aplodontidae, Haplodontiidae or Haploodontini is
+traditionally classified as the sole extant family of the suborder Protrogomorpha.  It may be the
+sister family of the Sciuridae.
+[score: 0.714] 
+
+BAURIINAE
+ Bauriinae is an extinct subfamily of therocephalian therapsids.  It is one of two subdivisions of
+the family Bauriidae, the other being Nothogomphodontinae.
+[score: 0.712] 
+
+FUMARIOIDEAE
+ Fumarioideae is a subfamily of the family Papaveraceae (the poppy family). It was formerly treated
+as a separate family, the Fumariaceae (the fumitory, fumewort or bleeding-heart family).
+[score: 0.712] 
+
+DIPSACACEAE
+ The Dipsacaceae have been recognized as a family (the teasel family) of the order Dipsacales
+containing 350 species of perennial or biennial herbs and shrubs in eleven genera.  The species are
+currently placed in the family Caprifoliaceae.
+[score: 0.704] 
+
+
+>>>> Time taken (SBERT): 7.5 sec
+>>>> Time taken (USE): 33.8 sec
+>>>> Time taken (D2V): 1.6 sec

@@ -1,0 +1,96 @@
+44770
+
+EORS SZATHMARY
+ Eors Szathmary (born 1959) is a Hungarian theoretical evolutionary biologist at the now-defunct
+Collegium Budapest Institute for Advanced Study and at the Department of Plant Taxonomy and Ecology
+of Eotvos Lorand University, Budapest.  He is the co-author with John Maynard Smith of The Major
+Transitions in Evolution, a seminal work which continues to contribute to ongoing issues in
+evolutionary biology.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Evolutionary Biologists
+
+CHARLES R. WERTH
+Charles Richard Werth (25 September 1947 - 27 July 2001) was an American botanist who studied the
+evolution of numerous plant taxa through isozyme analysis.
+[score: 0.577] 
+
+GUSTAVO CAETANO-ANOLLES
+Gustavo Caetano-Anolles is Professor of Bioinformatics in the Department of Crop Sciences,
+University of Illinois at Urbana-Champaign.  He is an expert in the field of evolutionary and
+comparative genomics.
+[score: 0.531] 
+
+PAUL W. EWALD
+Paul W. Ewald (born ) is an American evolutionary biologist, specializing in the evolutionary
+ecology of parasitism, evolutionary medicine, agonistic behavior, and pollination biology.
+[score: 0.524] 
+
+AXEL MEYER
+Axel Meyer (born 4 August 1960) is a German evolutionary biologist and a professor of zoology and
+evolutionary biology at the University of Konstanz, Germany.
+[score: 0.523] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Biologists and Evolution.
+
+KARL J. NIKLAS
+ Karl Joseph Niklas (born 1948) is the Liberty Hyde Bailey Professor emeritus in the Section of
+Plant Biology, School of Integrative Plant Science, at Cornell University.  He is best known for his
+work on plant biomechanics, allometry, and functional morphology, and for his long-standing
+contributions to understanding plant evolutionary biology, particularly early land plant
+evolutionary diversification patterns and morphospaces.
+[semantic similarity: 0.693] 
+
+ANTAL FESTETICS
+ Antal Festetics, exactly  () (born June 12, 1937, Budapest, Hungary), is a Hungarian-Austrian
+biologist, zoologist and behavioural researcher.  A student of Konrad Lorenz, in 1973 he became a
+university professor and director of the Institute for Hunting Biology at the University of
+Gottingen.
+[semantic similarity: 0.686] 
+
+MICHAEL DONOGHUE
+ Michael Donoghue is an American evolutionary biologist, currently the Sterling Professor of Ecology
+and Evolutionary Biology at Yale University, and also a published author.  Department of Ecology &
+Evolutionary Biology
+[semantic similarity: 0.680] 
+
+RUSSELL GRAY
+ Russell David Gray is a New Zealand evolutionary biologist and psychologist working on applying
+quantitative methods to the study of cultural evolution and human prehistory.  In 2020, he became a
+co-director of the Max Planck Institute for Evolutionary Anthropology in Leipzig.
+[semantic similarity: 0.679] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+UNDERTAKING (BAND)
+ Undertaking was a Hungarian thrash metal band formed in Budapest in 1988. The band consisted of
+Gyorgy Killan (lead vocals, guitar), Viktor Jakab (bass guitar) and Imre Esztari (drums).
+[score: 0.701] 
+
+ANTAL SZERB
+ Antal Szerb (1 May 1901, Budapest - 27 January 1945, Balf) was a noted Hungarian scholar and
+writer.  He is generally considered to be one of the major Hungarian writers of the 20th century.
+[score: 0.685] 
+
+SANDOR CSEFAI
+ Sandor Csefai (13 July 1904 in Budapest - 2 September 1984 in Budapest) was a Hungarian field
+handball player who competed in the 1936 Summer Olympics.
+[score: 0.685] 
+
+MONIKA DUNAI
+ Monika Dunai (born September 21, 1966, in Budapest) is a Hungarian-French teacher and politician.
+She is a member of National Assembly of Hungary (Orszaggyules) since 2014.
+[score: 0.678] 
+
+
+>>>> Time taken (SBERT): 5.7 sec
+>>>> Time taken (USE): 18.5 sec
+>>>> Time taken (D2V): 1.3 sec

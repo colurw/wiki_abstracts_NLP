@@ -1,0 +1,107 @@
+11041
+
+HIGH PRESSURE
+ In science and engineering the study of high pressure examines its effects on materials and the
+design and construction of devices, such as a diamond anvil cell, which can create high pressure.
+By high pressure is usually meant pressures of thousands (kilobars) or millions (megabars) of times
+atmospheric pressure (about 1 bar or 100,000 Pa).
+
+>>>> SpaCy Entity Recognition:   CARDINAL - Numerals that do not fall under another type
+
+>>>> H-Cluster Keywords:   ['stream', 'pressure', 'gradient', 'high', 'slope']
+>>>> H-Cluster Keywords:   ['high pressure', 'diamond anvil', 'study high']
+>>>> Hierarchical Cluster Size:   6
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  High-pressure chemistry.
+
+HIGH-PRESSURE CHEMISTRY
+High-pressure chemistry is concerned with those chemical processes that are carried out under high
+pressure - pressures in the thousands of bars (100 kPa) or higher.  High-pressure processes are
+generally faster and have a higher conversion efficiency than processes at ambient pressure.
+[score: 0.687] 
+
+BARS APPARATUS
+BARS (or "split sphere", transliteration from  abbreviation of , (bespressovaya apparatura vysokogo
+davleniya <<razreznaya sfera>>), "press-free high-pressure setup <<split sphere>>") a high-pressure
+high-temperature apparatus usually used for growing or processing minerals, especially diamond and
+boron nitride.  Typical pressures and temperatures achievable with BARS are  and .
+[score: 0.584] 
+
+RUBY PRESSURE SCALE
+The ruby fluorescence pressure scale is an optical method to measure pressure within a sample
+chamber of a diamond anvil cell apparatus.  Since it is an optical method, which fully make use of
+the transparency of diamond anvils and only requires an access to a small scale laser generator, it
+has become the most prevalent pressure gauge method in high pressure sciences.
+[score: 0.562] 
+
+PRESSURE EXPERIMENT
+Pressure experiments are experiments performed at pressures lower or higher than atmospheric
+pressure, called low-pressure experiments and high-pressure experiments, respectively.  Pressure
+experiment are necessary because substances behave differently at different pressures.
+[score: 0.547] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Pressure clusters
+
+HIGH-PRESSURE CHEMISTRY
+ High-pressure chemistry is concerned with those chemical processes that are carried out under high
+pressure - pressures in the thousands of bars (100 kPa) or higher.  High-pressure processes are
+generally faster and have a higher conversion efficiency than processes at ambient pressure.
+[semantic similarity: 0.613] 
+
+ATMOSPHERIC PRESSURE
+ Atmospheric pressure, also known as air pressure or barometric pressure (after the barometer), is
+the pressure within the atmosphere of Earth.  The standard atmosphere (symbol: atm) is a unit of
+pressure defined as , which is equivalent to 1,013.
+[semantic similarity: 0.605] 
+
+HIGH PRESSURE JET
+ A high pressure jet is a stream of pressurized fluid that is released from an environment at a
+significantly higher pressure than ambient pressure from a nozzle or orifice, due to operational or
+accidental release.  In the field of safety engineering, the release of toxic and flammable gases
+has been the subject of many R&D studies because of the major risk that they pose to the health and
+safety of workers, equipment and environment.
+[semantic similarity: 0.594] 
+
+SOUND PRESSURE
+ Sound pressure or acoustic pressure is the local pressure deviation from the ambient (average or
+equilibrium) atmospheric pressure, caused by a sound wave.  In air, sound pressure can be measured
+using a microphone, and in water with a hydrophone.
+[semantic similarity: 0.583] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+BRIDGMAN AWARD
+ The Bridgman Award is a prize given every two years by the International Association for the
+Advancement of High Pressure Science and Technology (AIRAPT) for research in the physics, chemistry,
+or technology of high pressure science.  The award is named in honor of Percy Williams Bridgman,
+Nobel Prize winner and famous pioneer of the physics of high pressure.
+[score: 0.370] 
+
+AMORPHOUS CARBONIA
+ Amorphous carbonia, also called a-carbonia or a-CO2, is an exotic amorphous solid form of carbon
+dioxide that is analogous to amorphous silica glass.  It was first made in the laboratory in 2006 by
+subjecting dry ice to high pressures (40-48 gigapascal, or 400,000 to 480,000 atmospheres), in a
+diamond anvil cell.
+[score: 0.360] 
+
+EQUIVALENT EFFECTIVE STRATOSPHERIC CHLORINE
+ Equivalent effective stratospheric chlorine (EESC) provides an estimate of the total effective
+amount of halogens (chlorine and bromine) in the stratosphere.  It is calculated from  emission of
+chlorofluorocarbon and related halogenated compounds into the troposphere (lower atmosphere) and
+their efficiency in contributing to stratospheric ozone depletion (ozone depletion potential, ODP),
+and by making assumptions on transport times into the upper atmosphere (stratosphere).
+[score: 0.344] 
+
+IT'S HIGH TIME
+ "It's High Time" is a song written by Randy Goodrum and Brent Maher, and recorded by American
+country music artist Dottie West.  It was released in October 1981 as the second single from the
+album High Times.
+[score: 0.340] 
+
+
+>>>> Time taken (SBERT): 3.8 sec
+>>>> Time taken (USE): 21.5 sec
+>>>> Time taken (D2V): 1.2 sec

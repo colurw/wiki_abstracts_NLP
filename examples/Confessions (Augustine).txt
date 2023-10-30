@@ -1,0 +1,97 @@
+45541
+
+CONFESSIONS (AUGUSTINE)
+ Confessions (Latin: Confessiones) is an autobiographical work by Saint Augustine, consisting of 13
+books written in Latin between AD 397 and 400. The work outlines Saint Augustine's sinful youth and
+his conversion to Christianity.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['confessions', 'novel', 'rousseau', 'augustine', 'nat']
+>>>> H-Cluster Keywords:   ['saint augustine', 'confessiones autobiographical', 'augustine sinful']
+>>>> Hierarchical Cluster Size:   8
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Confessions cluster.
+
+CONFESSIONS (ROUSSEAU)
+The Confessions is an autobiographical book by Jean-Jacques Rousseau.  In the modern era, it is
+often published with the title The Confessions of Jean-Jacques Rousseau in order to distinguish it
+from Saint Augustine's Confessions.
+[score: 0.804] 
+
+CONFESSIONAL WRITING
+Confessional writing is a literary style and genre that developed in American writing schools
+following the Second World War.  A prominent mode of confessional writing is confessional poetry,
+which emerged in the 1950s and 1960s.
+[score: 0.650] 
+
+THE NEW CONFESSIONS
+The New Confessions is the fourth novel by the Scottish writer William Boyd published in 1987. The
+theme and narrative structure of the novel is modelled on Jean-Jacques Rousseau's Les Confessions,
+the reading of which has a huge impact on the protagonist's life.
+[score: 0.640] 
+
+CONFESSION (LEO TOLSTOY)
+Confession (pre-reform Russian: ; post-reform ), or My Confession, is a short work on the subject of
+melancholia, philosophy and religion by the Russian novelist Leo Tolstoy.  It was written in 1879 to
+1880, when Tolstoy was in his early fifties.
+[score: 0.627] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Christian Authors.
+
+DE VIRIS ILLUSTRIBUS (JEROME)
+ De Viris Illustribus (On Illustrious Men) is a collection of short biographies of 135 authors,
+written in Latin, by the 4th-century Latin Church Father Jerome.  He completed this work at
+Bethlehem in 392-393 AD.
+[semantic similarity: 0.652] 
+
+PRAEPARATIO EVANGELICA
+ Preparation for the Gospel (, Euangelike proparaskeue), commonly known by its Latin title
+Praeparatio evangelica, is a work of Christian apologetics written by Eusebius in the early part of
+the fourth century AD. It was begun about the year 313,Aaron P.
+[semantic similarity: 0.621] 
+
+GUERRIC OF SAINT-QUENTIN
+ Guerric of Saint-Quentin (Latin Guerricus de Sancto Quintino or Guerricus Flandrensis) was a
+Dominican friar, theologian and teacher at the University of Paris from 1233/5 until 1242. He wrote
+several works on biblical exegesis and theology.
+[semantic similarity: 0.619] 
+
+DE MIRABILIBUS SACRAE SCRIPTURAE
+ De mirabilibus Sacrae Scripturae (in English: On the miraculous things in Sacred Scripture) is a
+Latin treatise written around 655 by an anonymous Irish writer and philosopher known as Augustinus
+Hibernicus or the Irish Augustine.
+[semantic similarity: 0.618] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+VADDARADHANE
+ Vaddaradhane by Shivakotiacharya is the earliest extant prose work in Kannada.  It is a didactic
+work consisting of nineteen stories and is based on Harisena's Brhatkathakosa.
+[score: 0.597] 
+
+MIRACULA NYNIAE EPISCOPI
+ The Miracula Nynie Episcopi () is an anonymously written 8th-century hagiographic work describing
+miracles attributed to Saint Ninian.  It is considered a non-historical work, and copies are not
+widely extant.
+[score: 0.568] 
+
+PLATONIC THEOLOGY (FICINO)
+ The Platonic Theology (Latin: Theologia platonica de immortalitate animorum) is a work consisting
+of eighteen books by Marsilio Ficino.  Ficino wrote it between 1469 and 1474 and it was published in
+1482.
+[score: 0.567] 
+
+EPISTULAE EX PONTO
+ Epistulae ex Ponto (Letters from the Black Sea) is a work of Ovid, in four books.  It is a
+collection of letters describing Ovid's exile in Tomis (modern-day Constanta) written in elegiac
+couplets and addressed to his wife and friends.
+[score: 0.550] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 28.0 sec
+>>>> Time taken (D2V): 1.5 sec

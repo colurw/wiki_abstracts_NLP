@@ -1,0 +1,107 @@
+37799
+
+BOYLE LECTURES
+ The Boyle Lectures are named after Robert Boyle, a prominent natural philosopher of the 17th
+century and son of Richard Boyle, 1st Earl of Cork.  Under the terms of his Will, Robert Boyle
+endowed a series of lectures or sermons (originally eight each year) which were to consider the
+relationship between Christianity and the new natural philosophy (today's 'science') then emerging
+in European society.
+
+>>>> SpaCy Entity Recognition:   DATE - Absolute or relative dates or periods
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Lectures and Philosophers.
+
+ROBERT BOYLE LECTURE
+The Robert Boyle Lecture is a lecture series delivered to the Oxford University Scientific Club
+(formerly the Oxford University Junior Scientific Club) at the University of Oxford, England.  The
+first lecture was delivered in 1892.
+[score: 0.778] 
+
+MATTHEW BOYLE
+Matthew Boyle is an American philosopher, and Emerson and Grace Wineland Pugh Professor of
+Humanities at The University of Chicago.  He is known for his works on the philosophy of mind and on
+some issues in the history of philosophy.
+[score: 0.701] 
+
+JOHN LOCKE LECTURES
+The John Locke Lectures are a series of annual lectures in philosophy given at the University of
+Oxford.  Named for British philosopher John Locke, the Locke Lectures are the world's most
+prestigious lectures in philosophy, and are among the world's most prestigious academic lectures.
+[score: 0.611] 
+
+JOHN ROBERT BOYLE
+John Robert Boyle  (February 1, 1870 or February 3, 1871 - February 15, 1936) was a Canadian
+politician and jurist who served as a Member of the Legislative Assembly of Alberta, a cabinet
+minister in the Government of Alberta, and a judge on the Supreme Court of Alberta.  Born in
+Ontario, he came west and eventually settled in Edmonton, where he practiced law.
+[score: 0.595] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Science Legacy
+
+GEORGE STARKEY
+ George Starkey (1628-1665) was a Colonial American alchemist, medical practitioner, and writer of
+numerous commentaries and chemical treatises that were widely circulated in Western Europe and
+influenced prominent men of science, including Robert Boyle and Isaac Newton.  After relocating from
+New England to London, England, in 1650, Starkey began writing under the pseudonym Eirenaeus
+Philalethes.
+[semantic similarity: 0.604] 
+
+BOYLE MOUNTAINS
+ The Boyle Mountains are a wall of mountains standing between the heads of Lallemand Fjord and
+Bourgeois Fjord, in Graham Land.  They were mapped by the Falkland Islands Dependencies Survey from
+surveys and from air photos, 1946-59, and named by the UK Antarctic Place-Names Committee for Robert
+Boyle, the English natural philosopher whose book New Experiments and Observations Touching Cold
+provided the first major scientific and practical approach to a philosophy of cold in all its
+aspects.
+[semantic similarity: 0.585] 
+
+LEVIATHAN AND THE AIR-PUMP
+ Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life (published 1985) is a book by
+Steven Shapin and Simon Schaffer.  It examines the debate between Robert Boyle and Thomas Hobbes
+over Boyle's air-pump experiments in the 1660s.
+[semantic similarity: 0.570] 
+
+ERASMUS SMITH'S PROFESSOR OF NATURAL AND EXPERIMENTAL PHILOSOPHY
+ Erasmus Smith's Professor of Natural and Experimental Philosophy at Trinity College Dublin is a
+chair in physics founded in 1724 and funded by the Erasmus Smith Trust, which was established by
+Erasmus Smith, a wealthy London merchant, who lived from 1611 to 1691.Erasmus Smith's professors of
+Natural and Experimental Philosophy Mathematics at TCD 1592-1992 It is one of the oldest dedicated
+chairs of physics in Britain and Ireland.
+[semantic similarity: 0.569] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+JOHN DUNS (MINISTER)
+ John Duns FRSE (1820-1909) was Professor of Natural Science at New College, Edinburgh.  He was a
+prolific author on both scientific and religious topics.
+[score: 0.610] 
+
+CARAVAGGISTI
+ The Caravaggisti (or the "Caravagesques") were stylistic followers of the late 16th-century Italian
+Baroque painter Caravaggio.  His influence on the new Baroque style that eventually emerged from
+Mannerism was profound.
+[score: 0.564] 
+
+NOWICKI
+ Nowicki ( ; feminine: Nowicka; plural: Nowiccy) is a Polish and Jewish surname.  It comes from
+place names such as Nowice, which are derived from the Polish adjective [("new").
+[score: 0.552] 
+
+DUMFRIES BURGHS (COMMONWEALTH PARLIAMENT CONSTITUENCY)
+ During the Commonwealth of England, Scotland and Ireland, called the Protectorate, the Scottish
+burghs of Dumfries, Sanquhar, Lochmaben, Annan, Wigtown, Kirkcudbright, Whithorn and New Galloway
+were jointly represented by one Member of Parliament in the House of Commons at Westminster from
+1654 until 1659. Elections were held at Dumfries.
+[score: 0.546] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 24.9 sec
+>>>> Time taken (D2V): 1.6 sec

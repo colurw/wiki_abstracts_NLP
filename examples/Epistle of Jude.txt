@@ -1,0 +1,89 @@
+1446
+
+EPISTLE OF JUDE
+ The Epistle of Jude (which is also its most common form of abbreviation).}} is the penultimate book
+of the New Testament as well as the Christian Bible.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Epistles of John.
+
+EPISTLE OF JAMES
+The Epistle of James (which is also its most common form of abbreviation; ).}} is a general epistle
+and one of the 21 epistles (didactic letters) in the New Testament.
+[score: 0.690] 
+
+THIRD EPISTLE OF JOHN
+The Third Epistle of John (which is also its most common form of abbreviation).}} is the third-to-
+last book of the New Testament and the Christian Bible as a whole, and attributed to John the
+Evangelist, traditionally thought to be the author of the Gospel of John and the other two epistles
+of John.
+[score: 0.689] 
+
+SECOND EPISTLE OF JOHN
+The Second Epistle of John (which is also its most common form of abbreviation).}} is a book of the
+New Testament attributed to John the Evangelist, traditionally thought to be the author of the other
+two epistles of John, and the Gospel of John (though this is disputed).
+[score: 0.666] 
+
+EPISTLE TO THE ROMANS
+The Epistle to the Romans It is most commonly abbreviated as "Rom."}} is the sixth book in the New
+Testament, and the longest of the thirteen Pauline epistles.
+[score: 0.662] 
+
+
+>>>> ChatGPT-USE Cluster Label:  New Testament Epistles
+
+FIRST EPISTLE TO THE THESSALONIANS
+ The First Epistle to the Thessalonians It is most commonly abbreviated as "1 Thess."}} is a Pauline
+epistle of the New Testament of the Christian Bible.
+[semantic similarity: 0.792] 
+
+FIRST EPISTLE OF JOHN
+ The First Epistle of John (which is also its most common form of abbreviation).}} is the first of
+the Johannine epistles of the New Testament, and the fourth of the catholic epistles.
+[semantic similarity: 0.788] 
+
+FIRST EPISTLE TO THE CORINTHIANS
+ The First Epistle to the Corinthians It is most commonly abbreviated as "1 Cor."}} () is one of the
+Pauline epistles, part of the New Testament of the Christian Bible.
+[semantic similarity: 0.781] 
+
+EPISTLE OF JAMES
+ The Epistle of James (which is also its most common form of abbreviation; ).}} is a general epistle
+and one of the 21 epistles (didactic letters) in the New Testament.
+[semantic similarity: 0.769] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+GOSPEL OF MARK
+ The Gospel of Mark), or simply Mark (which is also its most common form of abbreviation).}} is the
+second of the four canonical gospels and one of the three synoptic Gospels.
+[score: 0.881] 
+
+KANIVE, KODAGU
+ Kanive is a small village  which is located  north of Kushalanagar in Kodagu district of Karnataka
+state, India.  Kanive also sits on the bank of Kaveri river.
+[score: 0.850] 
+
+GRAPHOMYA MACULATA
+ Graphomya maculata is a species of fly.  It is widespread and common in most parts of Europe and
+also occurs in North Africa including the Canary Islands.
+[score: 0.829] 
+
+JOHN S. SHELLENBERGER
+ John S. Shellenberger (also Shallenberger, 30 August 1839 - 16 January 1911) was a corporal in the
+United States Army who was awarded the Presidential Medal of Honor for gallantry during the American
+Civil War.
+[score: 0.826] 
+
+
+>>>> Time taken (SBERT): 4.7 sec
+>>>> Time taken (USE): 31.6 sec
+>>>> Time taken (D2V): 1.6 sec

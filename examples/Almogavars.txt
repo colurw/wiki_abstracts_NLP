@@ -1,0 +1,97 @@
+10718
+
+ALMOGAVARS
+ Almogavars (, ,  and , borrowed from ) is the name of a class of light infantry soldier originated
+in the Crown of Aragon used in the later phases of the Reconquista, during the 13th and 14th
+centuries.
+
+>>>> SpaCy Entity Recognition:   GPE - Countries, cities, states
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Surname etymology.
+
+ALVARES
+Alvares (sometimes Alvares), a Portuguese language and Galician surname,Origin of Alvares in a
+Portuguese genealogical site originally a patronymic meaning Son of Alvaro, For the etymology of the
+surname Alvares this web page cites: Dictionary of American Family Names, Oxford University Press.
+.
+[score: 0.589] 
+
+ALBULENA
+Albulena is an Albanian feminine first name.  The name comes from the Battle of Albulena in 1457, in
+which Albanian national hero Skanderbeg won a famous victory over a much larger Ottoman force.
+[score: 0.554] 
+
+ALPINI AND MOUNTAIN ARTILLERY FORMATIONS IN WORLD WAR I
+The Alpini (Italian for "alpines") are a specialised mountain warfare infantry corps of the Italian
+Army, which distinguished itself in World War I fighting in the Alps against Austro-Hungarian
+Kaiserjager and the German Alpenkorps.  The Alpini were supported by the Mountain Artillery, which
+both share the Cappello Alpino as identifying symbol.
+[score: 0.551] 
+
+ALPINE BRIGADE "TRIDENTINA"
+The Alpine Brigade "Tridentina" was a light Infantry brigade of the Italian Army, specializing in
+mountain warfare.  Its core units were Alpini, the mountain infantry corps of the Italian Army, that
+distinguished itself in combat during World War I and World War II.
+[score: 0.540] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Medieval Warfare Groups.
+
+BRITISH LIGHT CAVALRY DURING THE NAPOLEONIC WARS
+ This is an outline of the British Army's light cavalry during the Napoleonic Wars, which consisted
+of the Light Dragoons and later Hussars, and from 1816 the lancers.
+[semantic similarity: 0.629] 
+
+EQUESTRIAN SEAL
+ An equestrian seal is a type of seal used in the European Middle Ages, characterized by the
+depiction of the owner as a mounted warrior in full armour.  Originating in the high medieval period
+(late 11th to early 12th century), the type was frequently used throughout the 13th to 14th
+centuries.
+[semantic similarity: 0.604] 
+
+SCHILTRON
+ A schiltron (also spelled sheltron, sceld-trome, schiltrom, or shiltron) is a compact body of
+troops forming a battle array, shield wall or phalanx.  The term is most often associated with
+Scottish pike formations during the Wars of Scottish Independence in the late 13th and early 14th
+centuries.
+[semantic similarity: 0.604] 
+
+VARDARIOTAI
+ The Vardariotai (}}), sometimes Anglicized as Vardariots, were an ethnic and territorial group
+(probably originally of Cumans and Pechenegs origin) in the later Byzantine Empire, which provided a
+palace guard regiment during the twelfth and thirteenth centuries.
+[semantic similarity: 0.599] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ESHABWE
+ Eshabwe is a class of clarified butter that originated in Ankole and is commonly used as condiment.
+Eshabwe, also known as ghee sauce, is a traditional dish prepared in Ankole.
+[score: 0.647] 
+
+GENDER STUDIES
+ Gender studies is an interdisciplinary academic field devoted to analysing gender identity and
+gendered representation.  Gender studies originated in the field of women's studies, concerning
+women, feminism, gender, and politics.
+[score: 0.627] 
+
+CISPIA PUNCTIFASCIA
+ Cispia punctifascia is a moth of the family Erebidae first described by Francis Walker in 1855. It
+is found in India, Sri Lanka, Sumatra, Borneo and originated in Malaysia.
+[score: 0.624] 
+
+EARL OF DANBY
+ Earl of Danby was a title that was created twice in the Peerage of England.  The first creation
+came in 1626 in favour of the soldier Henry Danvers, 1st Baron Danvers.
+[score: 0.621] 
+
+
+>>>> Time taken (SBERT): 8.6 sec
+>>>> Time taken (USE): 57.4 sec
+>>>> Time taken (D2V): 7.6 sec

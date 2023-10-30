@@ -1,0 +1,98 @@
+71294
+
+ROLL-AWAY COMPUTER
+ A roll-away computer is an idea introduced as part of a series by Toshiba in 2000, which aimed to
+predict the trends in personal computing five years into the future.  Since its announcement, the
+roll-away computer has remained a theoretical device.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Rolling Operations
+
+ROLL-OFF
+Roll-off is the steepness of a transfer function with frequency, particularly in electrical network
+analysis, and most especially in connection with filter circuits in the transition between a
+passband and a stopband.  It is most typically applied to the insertion loss of the network, but
+can, in principle, be applied to any relevant function of frequency, and any technology, not just
+electronics.
+[score: 0.581] 
+
+ROLLBACK (DATA MANAGEMENT)
+In database technologies, a rollback is an operation which returns the database to some previous
+state.  Rollbacks are important for database integrity, because they mean that the database can be
+restored to a clean copy even after erroneous operations are performed.
+[score: 0.561] 
+
+ROLLOUT (BACKGAMMON)
+A rollout is an analysis technique for backgammon positions and moves.  A rollout consists of
+playing the same position many times (with different dice rolls) and recording the results.
+[score: 0.531] 
+
+ROLL-IN
+A Roll-in is an advertisement or promotion that precedes core video or audio content presented in
+the same packaging as the core content.  Roll-ins are being used increasingly as a method for
+getting advertising revenue from embeddable online content such as news and entertainment.
+[score: 0.515] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Computers.
+
+THINKPAD T SERIES
+ The ThinkPad T series is a line of laptop computers.  Originally developed by IBM, and introduced
+in 2000, the brand was sold along with the rest of IBM's consumer computer division to  Chinese
+technology company Lenovo in 2005, who have continued to produce and market succeeding models.
+[semantic similarity: 0.571] 
+
+NEXT INTRODUCTION
+ The NeXT Introduction, sub-titled "the Introduction to the NeXT Generation of Computers for
+Education", was a lavish, invitation-only gala launch eventThe Best of NeXT Computers: NeXT Timeline
+for the NeXT Computer (also called the NeXT Computer System). It was described as a multimedia
+extravaganza.
+[semantic similarity: 0.570] 
+
+BINAC
+ BINAC (Binary Automatic Computer) was an early electronic computer designed for Northrop Aircraft
+Company by the Eckert-Mauchly Computer Corporation (EMCC) in 1949.  Eckert and Mauchly, though they
+had started the design of EDVAC at the University of Pennsylvania, chose to leave and start EMCC,
+the first computer company.
+[semantic similarity: 0.556] 
+
+THE MACHINE (COMPUTER ARCHITECTURE)
+ The Machine is the name of an experimental computer made by Hewlett Packard Enterprise.  It was
+created as part of a research project to develop a new type of computer architecture for servers.
+[semantic similarity: 0.552] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+CENTRAL COMPUTER AND TELECOMMUNICATIONS AGENCY
+ The Central Computer and Telecommunications Agency (CCTA) was a UK government agency providing
+computer and telecoms support to government departments.
+[score: 0.562] 
+
+QUANTUM VOLUME
+ Quantum volume is a metric that measures the capabilities and error rates of a quantum computer.
+It expresses the maximum size of square quantum circuits that can be implemented successfully by the
+computer.
+[score: 0.554] 
+
+VACUUM-TUBE COMPUTER
+ A vacuum-tube computer, now termed a first-generation computer, is a computer that uses vacuum
+tubes for logic circuitry.  Although superseded by second-generation transistorized computers,
+vacuum-tube computers continued to be built into the 1960s.
+[score: 0.552] 
+
+ALLEN-BABCOCK
+ Allen-Babcock Computing was founded in Los Angeles in 1964 by James D. Babcock and Michael Jane
+Allen Babcock to take advantage of the fast-growing market for computer time-sharing services.
+[score: 0.552] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 29.5 sec
+>>>> Time taken (D2V): 2.5 sec

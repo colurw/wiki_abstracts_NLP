@@ -1,0 +1,98 @@
+52766
+
+WHITE-BOX TESTING
+ White-box testing (also known as clear box testing, glass box testing, transparent box testing, and
+structural testing) is a method of software testing that tests internal structures or workings of an
+application, as opposed to its functionality (i.e.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Software Testing Techniques.
+
+GRAY-BOX TESTING
+Gray-box testing (International English spelling: grey-box testing) is a combination of white-box
+testing and black-box testing.  The aim of this testing is to search for the defects, if any, due to
+improper structure or improper usage of applications.
+[score: 0.737] 
+
+BLACK-BOX TESTING
+Black-box testing is a method of software testing that examines the functionality of an application
+without peering into its internal structures or workings.  This method of test can be applied
+virtually to every level of software testing: unit, integration, system and acceptance.
+[score: 0.685] 
+
+WHITE TEST
+In statistics, the White test is a statistical test that establishes whether the variance of the
+errors in a regression model is constant: that is for  homoskedasticity.
+[score: 0.617] 
+
+IN-CIRCUIT TESTING
+In-circuit testing (ICT) is an example of white box testing where an electrical probe tests a
+populated printed circuit board (PCB), checking for shorts, opens, resistance, capacitance, and
+other basic quantities which will show whether the assembly was correctly fabricated.  It may be
+performed with a "bed of nails" test fixture and specialist test equipment, or with a fixtureless
+in-circuit test setup.
+[score: 0.594] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Testing methods.
+
+BLACK-BOX TESTING
+ Black-box testing is a method of software testing that examines the functionality of an application
+without peering into its internal structures or workings.  This method of test can be applied
+virtually to every level of software testing: unit, integration, system and acceptance.
+[semantic similarity: 0.790] 
+
+GRAY-BOX TESTING
+ Gray-box testing (International English spelling: grey-box testing) is a combination of white-box
+testing and black-box testing.  The aim of this testing is to search for the defects, if any, due to
+improper structure or improper usage of applications.
+[semantic similarity: 0.706] 
+
+MODEL-BASED TESTING
+ Model-based testing is an application of model-based design for designing and optionally also
+executing artifacts to perform software testing or system testing.  Models can be used to represent
+the desired behavior of a system under test (SUT), or to represent testing strategies and a test
+environment.
+[semantic similarity: 0.705] 
+
+KEYWORD-DRIVEN TESTING
+ Keyword-driven testing, also known as action word based testing (not to be confused with action
+driven testing), is a software testing methodology suitable for both manual and automated testing.
+This method separates the documentation of test casesincluding both the data and functionality to
+usefrom the prescription of the way the test cases are executed.
+[semantic similarity: 0.705] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+MICHAEL STREICHER
+ Michael A. Streicher (September 6, 1921 - February 14, 2006) was an American metallurgist and
+engineer who became internationally recognized for his work on the testing and development of
+corrosion-resistant stainless steel alloys.
+[score: 0.780] 
+
+THE TURING TEST (NOVEL)
+ The Turing Test is a BBC Books original novel written by Paul Leonard and based on the long-running
+British science fiction television series Doctor Who.  It features the Eighth Doctor.
+[score: 0.765] 
+
+THE BOX (RANDY TRAVIS SONG)
+ "The Box" is a song co-written and recorded by American country music artist Randy Travis.  It was
+released in February 1995 as the fourth and final single from his album This Is Me.
+[score: 0.756] 
+
+PRASOPHYLLUM CONCINNUM
+ Prasophyllum concinnum, commonly known as the trim leek orchid, is a species of orchid endemic to
+Tasmania.  It has a single tubular leaf and green or yellowish-green flowers with brown markings.
+[score: 0.754] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 29.0 sec
+>>>> Time taken (D2V): 1.5 sec

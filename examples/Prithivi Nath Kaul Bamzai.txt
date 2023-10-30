@@ -1,0 +1,97 @@
+77631
+
+PRITHIVI NATH KAUL BAMZAI
+ Prithivi Nath Kaul Bamzai (1910-2007) was a Kashmiri scholar and historian who wrote several books
+on the history of Kashmir and Central Asia.WorldCat author listing
+
+>>>> SpaCy Entity Recognition:   LOC - Non-GPE locations, mountain ranges, bodies of water
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Kashmir History.
+
+TARIKH-I-KASHMIR
+The Tarikh-i-Kashmir (History of Kashmir) refers to several history books of Kashmir's Sultanate
+period, some of them lost and partially used as sources for the others.Encyclopaedic Historiography
+of the Muslim World - Page 530 NK Singh, Nagendra Kr.
+[score: 0.689] 
+
+PRAJNA BHATTA
+Prajna Bhatta was a historian who wrote Rajvalipataka.  It gives a historical account of Kashmir
+from the time of Zayn al-Abidin to the time of its incorporation in the dominions of the Mughal
+emperor Akbar in 1586.
+[score: 0.641] 
+
+IN SEARCH OF A FUTURE
+In Search of a Future: The Story of Kashmir is a book written by Indian journalist and author David
+Devadas, first published in 2007 by Viking Penguin.  The book discusses the history of Kashmir,
+starting with the revolt of the Muslim majority populace against their ruler, and traces the roots
+of the insurgency in the state of Jammu and Kashmir.
+[score: 0.623] 
+
+BIBLIOGRAPHY OF ABDUL MAJID DARYABADI
+This bibliography of Abdul Majid Daryabadi is a selected list of generally available scholarly
+resources related to Abdul Majid Daryabadi, an Islamic scholar, philosopher, writer, critic,
+researcher, journalist and exegete of the Quran in Indian subcontinent in 20th century.  He wrote an
+autobiography in Urdu titled Aap Biti, published in 1978.
+[score: 0.611] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Indian Historians.
+
+P. T. SRINIVASA IYENGAR
+ Pillaipundagudi Thiruvengadattaiyangar Srinivasa Iyengar (1863-1931) was an Indian historian,
+linguist and educationist who wrote books on the history of South India.
+[semantic similarity: 0.669] 
+
+PURATANA PRABANDHA SANGRAHA
+ The Puratana Prabandha Sangraha ("Collection of Old Prabandhas") is a collection of Sanskrit-
+language legendary biographies and anecdotes written by multiple Jain authors of India.  It was
+edited by the Jain monk Jinvijay from several manuscripts, and published by the Adhisthata Singhi
+Jain Jnanapith (Calcutta) in 1936.
+[semantic similarity: 0.669] 
+
+HAJI MOHI-UD-DIN MISKIN
+ Haji Mohi-ud-Din Miskin (died in Srinagar, 1921) also Ghulam Mohiuddin was a Kashmiri poet who also
+wrote a history of Kashmir, Tarikh-i-Kabir (completed 1892, published 1900).Sisir Kumar Das A
+History of Indian Literature: 1800-1910 1991 - Page 535 "Haji Mohiuddin Miskin (d.
+[semantic similarity: 0.665] 
+
+JONARAJA
+ Jonaraja  (died AD 1459) was a Kashmiri historian and Sanskrit poet.  His  is a continuation of
+Kalhana's  and brings the chronicle of the kings of Kashmir down to the time of the author's patron
+Zain-ul-Abidin (r.
+[semantic similarity: 0.655] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+FRIEDRICH GRAF VON WALDERSEE
+ Friedrich Gustav Graf von Waldersee (born 21 July 1795 in Dessau, died 15 January 1864 in Potsdam)
+was a Prussian Lieutenant General and military author.
+[score: 0.686] 
+
+CENTRAL EUROPEAN HISTORY
+ Central European History is a quarterly peer-reviewed academic journal on history published by
+Cambridge University Press on behalf of the Central European History Society, an affiliate of the
+American Historical Association.  It covers all aspects of central European history from the Middle
+Ages to the present day.
+[score: 0.678] 
+
+AJAY GUPTA
+ Ajay Gupta is an Indian politician and the MLA representing the Amritsar Central Assembly
+constituency in the Punjab Legislative Assembly.  He is a member of the Aam Aadmi Party.
+[score: 0.673] 
+
+RAJENDRA BANHATTI
+ Rajendra Banhatti (Devanagari: raajendr bnhttttii) is a Marathi writer from Maharashtra, India.  He
+is the son of famous Marathi writer and biographer Shrinivas Narayan Banhatti.
+[score: 0.672] 
+
+
+>>>> Time taken (SBERT): 6.8 sec
+>>>> Time taken (USE): 50.5 sec
+>>>> Time taken (D2V): 7.4 sec

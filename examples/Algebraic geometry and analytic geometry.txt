@@ -1,0 +1,102 @@
+46079
+
+ALGEBRAIC GEOMETRY AND ANALYTIC GEOMETRY
+ In mathematics, algebraic geometry and analytic geometry are two closely related subjects.  While
+algebraic geometry studies algebraic varieties, analytic geometry deals with complex manifolds and
+the more general analytic spaces defined locally by the vanishing of analytic functions of several
+complex variables.
+
+>>>> SpaCy Entity Recognition:   CARDINAL - Numerals that do not fall under another type
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Geometry
+
+COMPLEX GEOMETRY
+In mathematics, complex geometry is the study of geometric structures and constructions arising out
+of, or described by, the complex numbers.  In particular, complex geometry is concerned with the
+study of spaces such as complex manifolds and complex algebraic varieties, functions of several
+complex variables, and holomorphic constructions such as holomorphic vector bundles and coherent
+sheaves.
+[score: 0.764] 
+
+ANALYTIC GEOMETRY
+In mathematics, analytic geometry, also known as coordinate geometry or Cartesian geometry, is the
+study of geometry using a coordinate system.  This contrasts with synthetic geometry.
+[score: 0.743] 
+
+COMPLEX ANALYTIC VARIETY
+In mathematics, and in particular differential geometry and complex geometry, a complex analytic
+variety Complex analytic variety (or just variety) is sometimes required to be irreducible
+[score: 0.721] 
+
+ALGEBRAIC GEOMETRY
+Algebraic geometry is a branch of mathematics which classically studies zeros of multivariate
+polynomials.  Modern algebraic geometry is based on the use of abstract algebraic techniques, mainly
+from commutative algebra, for solving geometrical problems about these sets of zeros.
+[score: 0.715] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Complex Geometry.
+
+COMPLEX ANALYTIC VARIETY
+ In mathematics, and in particular differential geometry and complex geometry, a complex analytic
+variety Complex analytic variety (or just variety) is sometimes required to be irreducible
+[semantic similarity: 0.823] 
+
+COMPLEX GEOMETRY
+ In mathematics, complex geometry is the study of geometric structures and constructions arising out
+of, or described by, the complex numbers.  In particular, complex geometry is concerned with the
+study of spaces such as complex manifolds and complex algebraic varieties, functions of several
+complex variables, and holomorphic constructions such as holomorphic vector bundles and coherent
+sheaves.
+[semantic similarity: 0.801] 
+
+DOLBEAULT COHOMOLOGY
+ In mathematics, in particular in algebraic geometry and differential geometry, Dolbeault cohomology
+(named after Pierre Dolbeault) is an analog of de Rham cohomology for complex manifolds.  Let M be a
+complex manifold.
+[semantic similarity: 0.786] 
+
+RIEMANN-ROCH THEOREM
+ The Riemann-Roch theorem is an important theorem in mathematics, specifically in complex analysis
+and algebraic geometry, for the computation of the dimension of the space of meromorphic functions
+with prescribed zeros and allowed poles.  It relates the complex analysis of a connected compact
+Riemann surface with the surface's purely topological genus g, in a way that can be carried over
+into purely algebraic settings.
+[semantic similarity: 0.781] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+INDONESIA-LEBANON RELATIONS
+ Indonesia-Lebanon relations were officially established in 1950. Indonesia has an embassy in Beirut
+and a consulate general in Tripoli, while Lebanon has an embassy in Jakarta.
+[score: 0.854] 
+
+CYPRUS-ISRAEL RELATIONS
+ Cyprus-Israel relations refer to the bilateral relations between Cyprus and Israel.  Israel has an
+embassy in Nicosia, while Cyprus has an embassy in Tel Aviv.
+[score: 0.852] 
+
+TSWAING LOCAL MUNICIPALITY ELECTIONS
+ The Tswaing Local Municipality council consists of twenty-eight members elected by mixed-member
+proportional representation.  Fourteen councillors are elected by first-past-the-post voting in
+fourteen wards, while the remaining fourteen are chosen from party lists so that the total number of
+party representatives is proportional to the number of votes received.
+[score: 0.850] 
+
+PTERYGOPLICHTHYS DISJUNCTIVUS
+ Pterygoplichthys disjunctivus, commonly known as the vermiculated sailfin catfish, is a species of
+catfish in the family Loricariidae.  It is native to South America, where it occurs in the Madeira
+River basin in Bolivia and Brazil, although it has subsequently been introduced to various
+countries.
+[score: 0.846] 
+
+
+>>>> Time taken (SBERT): 3.0 sec
+>>>> Time taken (USE): 31.7 sec
+>>>> Time taken (D2V): 1.4 sec

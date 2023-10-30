@@ -1,0 +1,99 @@
+32258
+
+COMPETENCY EVALUATION (LANGUAGE)
+ In applied linguistics and educational psychology, competency evaluation is a means for teachers to
+determine the ability of their students in other ways besides the standardized test.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:   ['competency', 'assessment', 'educational', 'learning', 'evaluation']
+>>>> H-Cluster Keywords:   ['evaluation preferable', 'equally unambiguous', 'unambiguous terms']
+>>>> Hierarchical Cluster Size:   10
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Competency assessment.
+
+COMPETENCY EVALUATION (LAW)
+In the United States criminal justice system, a competency evaluation is an assessment of the
+ability of a defendant to understand and rationally participate in a court process.
+[score: 0.799] 
+
+COMPETENCY-BASED LEARNING
+Competency-based learning or competency-based education is a framework for teaching and assessment
+of learning.  It is also described as a type of education based on predetermined "competencies,"
+which focuses on outcomes and real-world performance.
+[score: 0.691] 
+
+SKILL ASSESSMENT
+Competence assessment is a process in which evidence is gathered by the assessor and evaluated
+against agreed criteria in order to make a judgement of competence.  Skill assessment is the
+comparison of actual performance of a skill with the specified standard for performance of that
+skill under the circumstances specified by the standard, and evaluation of whether the performance
+meets or exceed the requirements.
+[score: 0.683] 
+
+COMPETENCY ARCHITECTURE
+A competency architecture is a framework or model of predetermined skills or "competencies" used in
+an educational setting.  Competency architectures are a core component of competency-based learning.
+[score: 0.594] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Assessment and Evaluation.
+
+PSYCHOLOGICAL EVALUATION
+ Psychological evaluation is a method to assess an individual's behavior, personality, cognitive
+abilities, and several other domains.  An article on the APA website titled, "Understanding
+psychological testing and assessment", explains: "Psychological evaluations serve the same purpose
+[as medical tests].
+[semantic similarity: 0.639] 
+
+FORMATIVE ASSESSMENT
+ Formative assessment, formative evaluation, formative feedback, or assessment for learning,
+including diagnostic testing, is a range of formal and informal assessment procedures conducted by
+teachers during the learning process in order to modify teaching and learning activities to improve
+student attainment.  The goal of a formative assessment is to monitor student learning to provide
+ongoing feedback that can help students identify their strengths and weaknesses and target areas
+that need work.
+[semantic similarity: 0.618] 
+
+LANGUAGE PROFICIENCY ASSESSMENT FOR TEACHERS
+ The Language Proficiency Assessment for Teachers (LPAT ; ) is an assessment examination for the
+language proficiency of teachers in Hong Kong.  According to regulations, any teachers teaching
+English language or Putonghua (a.
+[semantic similarity: 0.603] 
+
+EDUCATIONAL MEASUREMENT
+ Educational measurement refers to the use of educational assessments and the analysis of data such
+as scores obtained from educational assessments to infer the abilities and proficiencies of
+students.  The approaches overlap with those in psychometrics.
+[semantic similarity: 0.600] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+SOLLAS GLACIER
+ Sollas Glacier is a glacier between Marr and Hughes Glaciers, flowing from the Kukri Hills toward
+the east end of Lake Bonney in Taylor Valley, Victoria Land.  Charted and named by the British
+Antarctic Expedition under Scott, 1910-13, for William J.
+[score: 0.809] 
+
+INSPIRASIA FOUNDATION
+ Inspirasia Foundation is a non-profit organisation that funds and supports projects in health and
+education for marginalised communities and persons with disabilities.
+[score: 0.806] 
+
+EXCITATORY AMINO ACID RECEPTOR LIGAND
+ Excitatory amino acid receptor ligands are ligands of excitatory amino acid receptors (EAARs), also
+known as glutamate receptors.  They include excitatory amino acid receptor agonists and excitatory
+amino acid receptor antagonists.
+[score: 0.800] 
+
+WINDMILLS OF YOUR MIND (ALBUM)
+ Windmills of Your Mind is an album by the saxophonist Bud Shank recorded in 1969 for the Pacific
+Jazz label.Pacific Jazz Records Catalog: 1800/21800/21900 series.
+[score: 0.799] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 38.6 sec
+>>>> Time taken (D2V): 1.5 sec

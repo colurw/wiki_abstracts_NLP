@@ -1,0 +1,102 @@
+16640
+
+SEDIMENTOLOGY
+ Sedimentology encompasses the study of modern sediments such as sand,Raymond Siever, Sand,
+Scientific American Library, New York (1988), . silt, and clay,Georges Millot, translated [from the
+French] by W.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['sediment', 'sediments', 'sedimentary', 'deposition', 'water']
+>>>> H-Cluster Keywords:   ['sedimentary rocks', 'rocks added', 'material broken']
+>>>> Hierarchical Cluster Size:   14
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Sedimentary Articles.
+
+SEDIMENT
+Sediment is a naturally occurring material that is broken down by processes of weathering and
+erosion, and is subsequently transported by the action of wind, water, or ice or by the force of
+gravity acting on the particles.  For example, sand and silt can be carried in suspension in river
+water and on reaching the sea bed deposited by sedimentation; if buried, they may eventually become
+sandstone and siltstone (sedimentary rocks) through lithification.
+[score: 0.703] 
+
+SEDIMENTATION
+Sedimentation is the deposition of sediments.  It takes place when particles in suspension settle
+out of the fluid in which they are entrained and come to rest against a barrier.
+[score: 0.631] 
+
+LEGACY SEDIMENT
+Legacy sediment (LS) is depositional bodies of sediment inherited from the increase of human
+activities since the Neolithic.  These include a broad range of land use and land cover changes,
+such as agricultural clearance, lumbering and clearance of native vegetation, mining,{{Cite journal
+[score: 0.605] 
+
+SEDIMENTARY GEOLOGY (JOURNAL)
+Sedimentary Geology is a peer-reviewed scientific journal about sediments in a geological context
+published by Elsevier.  About its scope the journal states it ranges "from techniques of sediment
+analysis to geodynamical aspects of sedimentary-basin evolution.
+[score: 0.603] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Geology journals.
+
+TONGEREN FORMATION
+ The Tongeren Formation (; abbreviation: TO) is a geologic formation in the subsurface of the
+Netherlands.  The formation consists of shallow marine, epicontinental and continental sediments,
+predominantly clay and sand from the late Eocene and early Oligocene epochs (between 37 and 30
+million years old).
+[semantic similarity: 0.548] 
+
+MARINE GEOLOGY (JOURNAL)
+ Marine Geology is a peer-reviewed scientific journal about marine geology published by Elsevier.
+About its scope the journal states "We accept papers on subjects as diverse as seafloor hydrothermal
+systems, beach dynamics, early diagenesis, microbiological studies in sediments, palaeoclimate
+studies and geophysical studies of the seabed.
+[semantic similarity: 0.547] 
+
+SEDIMENTARY GEOLOGY (JOURNAL)
+ Sedimentary Geology is a peer-reviewed scientific journal about sediments in a geological context
+published by Elsevier.  About its scope the journal states it ranges "from techniques of sediment
+analysis to geodynamical aspects of sedimentary-basin evolution.
+[semantic similarity: 0.546] 
+
+REVUE INDEPENDANTE
+ Revue independante is a French symbolist journal.  The journal was founded in 1841 by George Sand,
+Pierre Leroux, and Louis Viardot, and is notable for having published such novels as Les Lauriers
+sont coupes (1887) by Edouard Dujardin, En rade (1886-1887) by Joris-Karl Huysmans, and Consuelo
+(1842-1843) by George Sand.
+[semantic similarity: 0.545] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+WASUNGEN-AMT SAND
+ Wasungen-Amt Sand is a Verwaltungsgemeinschaft ("collective municipality") in the district
+Schmalkalden-Meiningen, in Thuringia, Germany.  The seat of the Verwaltungsgemeinschaft is in
+Wasungen.
+[score: 0.423] 
+
+MISHA KILMER
+ Misha Elena Kilmer is an American applied mathematician known for her work in numerical linear
+algebra and scientific computing.  She is William Walker Professor of Mathematics at Tufts
+University.
+[score: 0.418] 
+
+GEORGES APPERT
+ Georges Appert (1850-1934) was a French historian, academic, writer and Japanologist.National Diet
+Library (NDL),  Appert, Georges 1850-1934; retrieved 2013-4-2.
+[score: 0.410] 
+
+REVUE INDEPENDANTE
+ Revue independante is a French symbolist journal.  The journal was founded in 1841 by George Sand,
+Pierre Leroux, and Louis Viardot, and is notable for having published such novels as Les Lauriers
+sont coupes (1887) by Edouard Dujardin, En rade (1886-1887) by Joris-Karl Huysmans, and Consuelo
+(1842-1843) by George Sand.
+[score: 0.403] 
+
+
+>>>> Time taken (SBERT): 9.3 sec
+>>>> Time taken (USE): 27.2 sec
+>>>> Time taken (D2V): 1.6 sec

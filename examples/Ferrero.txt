@@ -1,0 +1,93 @@
+30928
+
+FERRERO
+ Ferrero (Italian: , Spanish: ) is a surname of Italian (from Piedmont) and Spanish origin that
+means 'smith', the person who works with iron, in parallel with surnames like Ferraro, Ferrari and
+Smith.
+
+>>>> SpaCy Entity Recognition:   GPE - Countries, cities, states
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Italian Names
+
+LORENZO FERRERO
+Lorenzo Ferrero (; born 1951) is an Italian composer, librettist, author, and book editor.  He
+started composing at an early age and has written over a hundred compositions thus far, including
+twelve operas, three ballets, and numerous orchestral, chamber music, solo instrumental, and vocal
+works.
+[score: 0.655] 
+
+FERRARO
+Ferraro is an occupational surname of Italian origin meaning blacksmith in Italian (from "ferro",
+the Italian word for iron). Notable people with this surname include:
+[score: 0.624] 
+
+CATALANO
+Catalano is an Italian surname, originally an adjective or derived substantive indicating something
+or someone Catalan or from Catalonia, can refer to the following persons:
+[score: 0.623] 
+
+BONIFACI FERRER
+Boniface FerrerThere are variations to Ferrer's first name - in Valencian it is "Bonifaci", while in
+Spanish it is "Bonifacio") (1350-1417) was a Carthusian monk, brother of Saint Vincent Ferrer, and
+translator of the first Bible into Valencian (Valencian Bible 1488).
+[score: 0.618] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Italian Surnames
+
+FERRARO
+ Ferraro is an occupational surname of Italian origin meaning blacksmith in Italian (from "ferro",
+the Italian word for iron). Notable people with this surname include:
+[semantic similarity: 0.743] 
+
+CARPENA
+ Carpena, Carpena or Carpena is a Spanish surname of Italian origin.  It is the hispanicised version
+of the Italian family name Carpegna, brought to Spain by Italian settlers, which is a habitational
+surname for people from the village of Carpegna in the Marche region.
+[semantic similarity: 0.710] 
+
+MANCUSO
+ Mancuso is an Italian surname derived from a Sicilian noun, related to the Italian mancino, which
+means "left-handed". An alternate form can be Mancusi.
+[semantic similarity: 0.693] 
+
+VISCUSO
+ Viscuso is a surname of Italian origin.  It is an Italian surname derived from the Sicilian word
+"viscusu", which literately means "tough" or "the one who is tenacious".
+[semantic similarity: 0.692] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+FERRARO
+ Ferraro is an occupational surname of Italian origin meaning blacksmith in Italian (from "ferro",
+the Italian word for iron). Notable people with this surname include:
+[score: 0.671] 
+
+EISENMANN
+ Eisenmann (also transliterated Eisenman or Eiseman) is a German- or Yiddish-language surname from
+the German Eisen.  The name refers to one who works with iron.
+[score: 0.644] 
+
+DEMIRDJIAN
+ Demirdjian (Armenian: ), Demirdjyan (Temirchyan), is a common surname in Armenia originating from
+the Turkish word 'Demir', meaning iron.  In Turkish demirci (demir with the suffix -ci) means one
+who works with iron, therefore it can translate to the equivalent English surname 'Smith'.
+[score: 0.625] 
+
+FARROW (SURNAME)
+ Farrow is a  hypercorrected form of Ferror (Farrar), an occupational surname for a blacksmith or an
+ironworker, an old name of early Medieval English and French origin.  The name derives from the
+Middle English and Old French terms "ferrer, ferreor, ferrur, ferour" (meaning "smith"),
+derivatives of "fer" (meaning "iron" in French), from the Latin "ferrum".
+[score: 0.616] 
+
+
+>>>> Time taken (SBERT): 4.8 sec
+>>>> Time taken (USE): 59.5 sec
+>>>> Time taken (D2V): 5.7 sec

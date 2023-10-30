@@ -1,0 +1,104 @@
+14155
+
+HISTORY OF TYROL
+ The history of Tyrol, a historical region in the middle alpine area of Central Europe, dates back
+to early human settlements at the end of the last glacier period, around 12,000 BC. Sedentary
+settlements of farmers and herders can be traced back to 5000 BC.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['tyrol', 'bolzano', 'adige', 'south', 'unterland']
+>>>> H-Cluster Keywords:   ['end glacier', 'glacier period', 'traced 5000']
+>>>> Hierarchical Cluster Size:   12
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Tyrol Region Category
+
+HISTORY OF SOUTH TYROL
+Modern-day South Tyrol, an autonomous Italian province created in 1948, was part of the Austro-
+Hungarian County of Tyrol until 1918 (then known as Deutschsudtirol and occasionally
+MitteltirolEuregio Tirolo-Alto Adige-Trentino
+[score: 0.645] 
+
+GERMAN TYROL
+German Tyrol (; ) is a historical region in the Alps now divided between Austria and Italy.  It
+includes largely ethnic German areas of historical County of Tyrol: the Austrian state of Tyrol
+(consisting of North Tyrol and East Tyrol) and the province of South Tyrol but not the largely
+Italian-speaking province of Trentino (formerly Welschtirol).
+[score: 0.634] 
+
+VALLEYS OF SOUTH TYROL
+This is a partial list of valleys of South Tyrol, a mountainous province in northern Italy,
+bordering Austria and Switzerland.  Most valleys have two names, a German and an Italian one.
+[score: 0.626] 
+
+TYROL VALLEY
+Tyrol Valley is a high ice-free valley lying east of Mount Baldr in the Asgard Range, Victoria Land.
+The valley was named by Austrian biologist Heinz Janetschek, a participant in the United States
+Antarctic Research Program (USARP) program in this area in 1961-62, after his native Tirol (Tyrol).
+[score: 0.585] 
+
+
+>>>> ChatGPT-USE Cluster Label:  History of Regions
+
+HISTORY OF THE CENTRAL AFRICAN REPUBLIC
+ The  history of the Central African Republic is roughly composed of four distinct periods.  The
+earliest period of settlement began around 10,000 years ago when nomadic people first began to
+settle, farm and fish in the region.
+[semantic similarity: 0.655] 
+
+HISTORY OF LATVIA
+ The history of Latvia began around 9000 BC with the end of the last glacial period in northern
+Europe.  Ancient Baltic peoples arrived in the area during the second millennium BC, and four
+distinct tribal realms in Latvia's territory were identifiable towards the end of the first
+millennium AD.
+[semantic similarity: 0.619] 
+
+HISTORY OF THE FOREST IN CENTRAL EUROPE
+ The history of the forest in Central Europe is characterised by thousands of years of exploitation
+by people.  Thus a distinction needs to be made between the botanical natural history of the forest
+in pre- and proto-historical times--which falls mainly into the fields of natural history and
+Paleobotany--and the onset of the period of sedentary settlement which began at the latest in the
+Neolithic era in Central Europe - and thus the use of the forest by people, which is covered by the
+disciplines of history, archaeology, cultural studies and ecology.
+[semantic similarity: 0.614] 
+
+FRITZENS-SANZENO CULTURE
+ The Fritzens-Sanzeno culture is an archaeological culture attested in the late Iron Age, from ca.
+500 BC until the end of the first century BC, in the Alpine region of Trentino and South Tyrol; in
+the period of maximum expansion it also reached the Engadin region to the west and East Tyrol.
+[semantic similarity: 0.606] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+HIMANTOGLOSSUM CAPRINUM
+ Himantoglossum caprinum is a species of orchid native to southeastern Europe and the Middle
+East.Kew World Checklist of Selected Plant Families, Himantoglossum caprinumKew World Checklist of
+Selected Plant Families, Himantoglossum caprinum subsp.
+[score: 0.694] 
+
+MIDDLE TENNESSEE BLUE RAIDERS MEN'S BASKETBALL STATISTICAL LEADERS
+ The Middle Tennessee Blue Raiders men's basketball statistical leaders are individual statistical
+leaders of the Middle Tennessee Blue Raiders men's basketball program in various categories,
+including points, rebounds, assists, steals, and blocks.  Within those areas, the lists identify
+single-game, single-season, and career leaders.
+[score: 0.680] 
+
+MIDDLE TENNESSEE BLUE RAIDERS FOOTBALL STATISTICAL LEADERS
+ The Middle Tennessee Blue Raiders football statistical leaders are individual statistical leaders
+of the Middle Tennessee Blue Raiders football program in various categories, including passing,
+rushing, receiving, total offense, defensive stats, and kicking.  Within those areas, the lists
+identify single-game, single-season, and career leaders.
+[score: 0.659] 
+
+KINSEY RIDGE
+ Kinsey Ridge is a flat-topped, partly ice-covered ridge in the middle of Strauss Glacier, near the
+coast of Marie Byrd Land, Antarctica.  It was mapped by the United States Geological Survey from
+surveys and U.
+[score: 0.658] 
+
+
+>>>> Time taken (SBERT): 3.1 sec
+>>>> Time taken (USE): 25.8 sec
+>>>> Time taken (D2V): 1.5 sec

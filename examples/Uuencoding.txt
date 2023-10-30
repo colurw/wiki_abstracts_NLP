@@ -1,0 +1,99 @@
+29013
+
+UUENCODING
+ uuencoding is a form of binary-to-text encoding that originated in the Unix programs uuencode and
+uudecode written by Mary Ann Horton at the University of California, Berkeley in 1980, for encoding
+binary data for transmission in email systems.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Encoding
+
+XXENCODING
+xxencode is a binary-to-text encoding similar to uuencode which uses only the alphanumeric
+characters, and the plus and minus signs.  It was invented as a means to transfer files in a format
+which would survive character set translation, particularly that between ASCII and the EBCDIC
+encoding used on IBM mainframes.
+[semantic similarity: 0.662] 
+
+BINHEX
+BinHex, originally short for "binary-to-hexadecimal", is a binary-to-text encoding system that was
+used on the classic Mac OS for sending binary files through e-mail.  Originally a hexadecimal
+encoding, subsequent versions of BinHex are more similar to uuencode, but combined both "forks" of
+the Mac file system together along with extended file information.
+[semantic similarity: 0.598] 
+
+EBCDIC
+Extended Binary Coded Decimal Interchange Code (EBCDIC; ) is an eight-bit character encoding used
+mainly on IBM mainframe and IBM midrange computer operating systems.  It descended from the code
+used with punched cards and the corresponding six-bit binary-coded decimal code used with most of
+IBM's computer peripherals of the late 1950s and early 1960s.
+[semantic similarity: 0.554] 
+
+TRUNCATED BINARY ENCODING
+Truncated binary encoding is an entropy encoding typically used for uniform probability
+distributions with a finite alphabet.  It is parameterized by an alphabet with total size of number
+n.
+[semantic similarity: 0.551] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Unix Systems
+
+B NEWS
+ B News was a Usenet news server developed at the University of California, Berkeley by Matt
+Glickman and Mary Ann Horton as a replacement for A News.  It was used on Unix systems from 1981
+into the 1990s and is the reference implementation for the de facto Usenet standard described in
+and .
+[semantic similarity: 0.622] 
+
+MPACK (UNIX)
+ mpack and munpack are utilities used to encode and decode binaries for use in mail messages
+following the MIME standard.  It was originally written by John Gardiner Myers of Carnegie Mellon
+University in 1993, and has been ported to the classic Mac OS and Windows.
+[semantic similarity: 0.596] 
+
+ADDAMAX
+ Addamax was an American software company that developed Trusted operating systems based on UNIX
+System V and Berkeley Software Distribution (BSD) variants of UNIX.  The company was founded in 1986
+in Champaign, Illinois by Dr.
+[semantic similarity: 0.589] 
+
+BERKELEY TIMESHARING SYSTEM
+ The Berkeley Timesharing System was a pioneering time-sharing operating system implemented between
+1964 and 1967 at the University of California, Berkeley.  It was designed as part of Project Genie
+and marketed by Scientific Data Systems for the SDS 940 computer system.
+[semantic similarity: 0.582] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+PUNCTELIA NOVOZELANDICA
+ Punctelia novozelandica is a species of foliose lichen in the family Parmeliaceae.  Found in New
+Zealand, it was formally described as a new species in 1988 by John Alan Elix and Jen Johnston.
+[semantic similarity: 0.721] 
+
+JET (VIDEO GAME)
+ Jet is a combat flight simulator video game originally published in 1985 by Sublogic.  The game was
+released in 1985 for MS-DOS and the Commodore 64, 1986 for the Apple II, 1988 for the Atari ST and
+Amiga, and 1989 for the Macintosh and NEC PC-9801.
+[semantic similarity: 0.715] 
+
+SAHURA MALLICK
+ Sahura Mallick was an Indian politician belonging to the Indian National Congress.  He was elected
+as a member of Orissa Legislative Assembly in 1974, 1980, and 1995.
+[semantic similarity: 0.711] 
+
+RITA REIF
+ Rita Anne Reif (nee Murphy; June 12, 1929 - June 16, 2023) was an American newspaper columnist and
+author.  She wrote the Antiques column for The New York Times from 1972 to 1997.
+[semantic similarity: 0.711] 
+
+
+>>>> Time taken (SBERT): 7.2 sec
+>>>> Time taken (USE): 49.7 sec
+>>>> Time taken (D2V): 6.6 sec

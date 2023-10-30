@@ -1,0 +1,103 @@
+76325
+
+CURRENT HISTORY
+ Current History is the oldest extant United States-based publication devoted exclusively to
+contemporary world affairs.  The magazine was founded in 1914 by George Washington Ochs Oakes,
+brother of The New York Times publisher Adolph Ochs, in order to provide detailed coverage of World
+War I.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  History Journals
+
+THE JOURNAL OF MODERN HISTORY
+The Journal of Modern History is a quarterly peer-reviewed academic journal covering European
+intellectual, political, and cultural history, published by the University of Chicago Press.
+Established in 1929, the journal covers events from approximately 1500 to the present, with a
+geographical scope extending from the United Kingdom through the European continent, including
+Russia and the Balkans.
+[score: 0.659] 
+
+A HISTORY OF THE MODERN WORLD
+A History of the Modern World is a work initially published by the distinguished American historian
+at Princeton and Yale universities Robert Roswell Palmer in 1950. The work has since been extended
+by Joel Colton (from its second edition, 1956)The preface for the first Swedish edition 1960, by
+Torvald Hojer and Lloyd S.
+[score: 0.629] 
+
+MAGAZINE OF WESTERN HISTORY
+The Magazine of Western History, in its last three years The National Magazine, was published from
+1884 to 1894. According to the Encyclopedia of Cleveland History, among Cleveland publications it
+was "the only journal possibly ranked by literary and artistic excellence, although only a small
+portion was devoted to poetry and fiction.
+[score: 0.604] 
+
+JOURNAL OF GLOBAL HISTORY
+The Journal of Global History is a triannual peer-reviewed academic history journal covering the
+study of comparative, world, and global history.  It was established in 2006 and is published by
+Cambridge University Press.
+[score: 0.585] 
+
+
+>>>> ChatGPT-USE Cluster Label:  History Journals
+
+THE AMERICAN HISTORICAL REVIEW
+ The American Historical Review is a quarterly academic history journal published by Oxford
+University Press on behalf of the American Historical Association, for which it is its official
+publication.  It targets readers interested in all periods and facets of history and has often been
+described as the premier journal of American history in the world.
+[semantic similarity: 0.644] 
+
+PURNELL'S HISTORY OF THE SECOND WORLD WAR
+ Purnell's History of the Second World War was a hugely successful weekly anthology or 'partwork'
+publication covering all aspects of World War II that was distributed throughout the English-
+speaking world.  Produced shortly before the similarly accomplished 8-volume series on WW1, it was
+first published in 1966, being reprinted several times during the 1970s.
+[semantic similarity: 0.622] 
+
+GUERRES MONDIALES ET CONFLITS CONTEMPORAINS
+ Guerres mondiales et conflits contemporains (French, literally "World Wars and Contemporary
+Conflicts") is a quarterly peer-reviewed academic journal covering the history of modern conflicts,
+until 1987 with a particular focus on World War II. It is published by the Presses Universitaires de
+France.
+[semantic similarity: 0.608] 
+
+VANITY FAIR (BRITISH MAGAZINE)
+ Vanity Fair was a British weekly magazine that was published from 1868 to 1914. Founded by Thomas
+Gibson Bowles in London, the magazine included articles on fashion, theatre, current events as well
+as word games and serial fiction.
+[semantic similarity: 0.606] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+WEST TYRONE (UK PARLIAMENT CONSTITUENCY)
+ West Tyrone is a parliamentary constituency in the United Kingdom House of Commons.  The current MP
+for the constituency is Orfhlaith Begley of Sinn Fein.
+[score: 0.648] 
+
+LET GO (BROTHER PHELPS SONG)
+ "Let Go" is a song written by Dickie Brown and recorded by American country music duo Brother
+Phelps.  It was released in June 1993 as the first single and title track from their debut album Let
+Go.
+[score: 0.603] 
+
+STEFAN EINHORN
+ Stefan Einhorn (born October 26, 1955, in Stockholm) is a Swedish doctor, professor and writer.  He
+is the son of Jerzy and Nina Einhorn, as well as the brother of Lena Einhorn.
+[score: 0.597] 
+
+JAN SNEVA
+ Jan J. Sneva (born August 17, 1953 in Spokane, Washington) is a former race car driver, and the
+brother of Jerry Sneva, as well as Indianapolis 500 winner Tom Sneva.
+[score: 0.596] 
+
+
+>>>> Time taken (SBERT): 5.8 sec
+>>>> Time taken (USE): 40.1 sec
+>>>> Time taken (D2V): 1.3 sec

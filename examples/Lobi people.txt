@@ -1,0 +1,90 @@
+51237
+
+LOBI PEOPLE
+ The Lobi belong to an ethnic group that originated in what is today Ghana.  Starting around 1770,
+many Lobi peoples migrated into southern Burkina Faso and later into Cote d'Ivoire.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Ethnic groups of Vietnam.
+
+LO LO PEOPLE (VIETNAM)
+The Lo Lo is a Loloish ethnic group of Vietnam.  The Lo Lo ethnic group consists of 3,134 people in
+Ha Giang and Cao Bang, also including some in Muong Khuong District of Lao Cai Province.
+[score: 0.629] 
+
+BAOULE CATTLE
+The Baoule (also known as Lobi or Mere) is a breed of Savannah Shorthorn cattle found in north and
+central Ivory Coast and the southern tip of Mali.  They are found in pure form in Bouake, Bouna, and
+Dabakala.
+[score: 0.597] 
+
+LOBO (RACIAL CATEGORY)
+Lobo (fem.  Loba) (Spanish for "wolf") is a racial category for a mixed-race person used in Mexican
+paintings illustrating the caste (casta) system in 17th- and 18th-century Spanish America.
+[score: 0.592] 
+
+LOMWE PEOPLE
+The Lomwe people are one of the largest tribes in Mozambique and Malawi; in the latter, they are the
+second largest populace after the Chewa.The World Factbook Their language is commonly spoken
+throughout central Mozambique.
+[score: 0.579] 
+
+
+>>>> ChatGPT-USE Cluster Label:  West African ethnic groups.
+
+BIRIFOR PEOPLE
+ The Birifor people (also Birifo or Malba) are an ethnic group of about 200,000 in West Africa,
+primarily located in northern Ghana, southern Burkina Faso, and northern Cote d'Ivoire.
+[semantic similarity: 0.698] 
+
+MBOCHI PEOPLE
+ The Mbochi (or M'Boshi) are a Bantu ethnic group in Central Africa.  Their language originates from
+the regions of the African Great Lakes  where they began, after a long migration from the east to
+the centre, over the years, until 1850.
+[semantic similarity: 0.646] 
+
+KUSASI PEOPLE
+ The Kusasi, Kusaasi, or the Kusaal people, are an ethnic group in northern Ghana and southern
+Burkina Faso.  They speak the Kusaal language, which is a Gur language.
+[semantic similarity: 0.645] 
+
+GOUIN PEOPLE
+ The Gouin or Gwen (sometimes referred to as Ciraamba, Guin, Kirma, and Senufo) are an ethnic group
+found in Burkina Faso and the Ivory Coast.  They are part of the Gur people and speak the Cerma
+language.
+[semantic similarity: 0.645] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+HABERLANDIA LUSAMBOENSIS
+ Haberlandia lusamboensis is a moth in the family Cossidae.  It is found in Lusambo and Katakokombe
+in the Democratic Republic of the Congo into the south-eastern Republic of the Congo.
+[score: 0.750] 
+
+DIOPTIS CHARILA
+ Dioptis charila is a moth of the family Notodontidae first described by Herbert Druce in 1893. It
+is found across northern South America and south into the Amazon basin, at least as far as Loreto,
+Peru.
+[score: 0.722] 
+
+LARISSA SANSOUR
+ Larissa Sansour (Arabic: lrys snswr; born 1973) is a Palestinian artist who currently resides in
+London, England.  She is into photography, film, sculpture, and installation art.
+[score: 0.720] 
+
+INTO THE EAGLE'S NEST
+ Into the Eagle's Nest is a video game developed by Pandora  and published for Amiga, Amstrad CPC,
+Apple II, Atari 8-bit family, Atari ST, Commodore 64, IBM PC, and ZX Spectrum starting in 1987.
+[score: 0.715] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 32.9 sec
+>>>> Time taken (D2V): 1.7 sec

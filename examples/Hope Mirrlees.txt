@@ -1,0 +1,95 @@
+27877
+
+HOPE MIRRLEES
+ (Helen) Hope Mirrlees (8 April 1887 - 1 August 1978) was a British poet, novelist, and translator.
+She is best known for the 1926 Lud-in-the-Mist, an influential fantasy novel,David Langford and Mike
+Ashley,
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Novels and Writers
+
+LUD-IN-THE-MIST
+Lud-in-the-Mist (1926) is the third and final novel by the British writer Hope Mirrlees.  It
+continues the author's exploration of the themes of Life and Art, by a method already described in
+the preface of her first novel, Madeleine: One of Love's Jansenists (1919): "to turn from time to
+time upon the action the fantastic limelight of eternity, with a sudden effect of unreality and the
+hint of a world within a world".
+[score: 0.769] 
+
+THE COUNTERPLOT
+The Counterplot is the second novel by Hope Mirrlees.  Written in 1923, it was originally published
+in 1924, and is the only one of Mirrlees's  three novels to take place in then-contemporary
+settings, Madeleine: One of Love's Jansenists (1919) being a historical novel, while Lud-in-the-Mist
+(1926) is a fantasy.
+[score: 0.547] 
+
+ANNE OF GEIERSTEIN
+Anne of Geierstein, or The Maiden of the Mist (1829) is one of the Waverley novels by Sir Walter
+Scott.  It is set in Central Europe, mainly in Switzerland, shortly after the Yorkist victory at the
+Battle of Tewkesbury (1471).
+[score: 0.540] 
+
+HELEN WADDELL
+Helen Jane Waddell (31 May 1889 - 5 March 1965) was an Irish poet, scholar, theological novelist,
+translator, publisher's reader and playwright.  She was a recipient of the Benson Medal.
+[score: 0.507] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Writers and Poets.
+
+SMARANDA GHEORGHIU
+ Smaranda Gheorghiu (5 October 1857 - 26 January 1944) was a Romanian poet, novelist, essayist,
+playwright, educator, feminist and traveler.  She wrote under a number of pseudonyms and is perhaps
+best known under the moniker Maica Smara (Mother Smara), which was given to her by Veronica Micle.
+[semantic similarity: 0.686] 
+
+ANNE BEALE
+ Anne Beale (1816 - 17 April 1900) was a popular English novelist and poet based in Wales.  Her
+poetry, novels and stories appeared in print for over 50 years in her lifetime: "an unusually long
+career as an author".
+[semantic similarity: 0.673] 
+
+JAN SIEGEL
+ Jan Siegel is a pseudonym of Amanda Hemingway (born 1955 in London, UK). She is a British author of
+fantasy novels, best known for the Fern Capel series.
+[semantic similarity: 0.670] 
+
+LINDA KING
+ Linda King (born 1940) is an American sculptor, playwright and poet.  She is best known for having
+been the girlfriend of American writer Charles Bukowski for several years in the early 1970s.
+[semantic similarity: 0.663] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+LEONARD S. ECHOLS
+ Leonard Sidney Echols (October 30, 1871 - May 9, 1946) was an American politician who represented
+West Virginia in the United States House of Representatives from 1919 to 1923.
+[score: 0.782] 
+
+DAVID RITCHIE (CRICKETER)
+ David Mawdsley Ritchie (12 August 1892 - 10 September 1974) was an English cricketer active from
+1922 to 1926 who played for Lancashire.  He was born in Liverpool and died in Stevenage.
+[score: 0.782] 
+
+HARRY FARJEON
+ Harry Farjeon (6 May 1878 - 29 December 1948) was a British composer and an influential teacher of
+harmony and composition at the Royal Academy of Music for more than 45 years.
+[score: 0.779] 
+
+BRYAN DRAPER
+ Bryan Vincent Draper  (1916 - 28 February 1945) was a British flying ace of the Royal Air Force
+Volunteer Reserve (RAFVR) during the Second World War.  He was credited with at least six aerial
+victories.
+[score: 0.776] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 24.4 sec
+>>>> Time taken (D2V): 1.4 sec

@@ -1,0 +1,98 @@
+22013
+
+MALIKI SCHOOL
+ The Maliki school (; ) is one of the four major schools of Islamic jurisprudence within Sunni
+Islam.  It was founded by Malik ibn Anas in the 8th century.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Maliki Jurisprudence.
+
+ABD AL-RAHMAN IBN AL-QASIM
+Abd al-Rahman ibn al-Qasim al-Utaqi (;  was a prominent early jurist in the Maliki school from
+Egypt.  He was one of Malik's main companions and had a tremendous influence in recording the
+positions of the school.
+[score: 0.721] 
+
+QADI ABD AL-WAHHAB
+Qadi 'Abd al-Wahhab ibn Ali ibn Nasr ibn Ahmad ibn Hussein ibn Harun ibn Malik ibn Tawk al-Taghlibi
+() (973 - 1035CE) (362 AH - 422 AH ), also known as Qadi Abdul Wahhab and Qadi 'Abd al-Wahhab al-
+Maliki was an important Iraqi jurist in the Maliki school.  He was a seminal figure of the now
+extinct Iraqi School of the Maliki madhab.
+[score: 0.720] 
+
+SHAFI'I SCHOOL
+The Shafi'i school (, also spelled Shafei), or Madhhab al-Shafi'i, is one of the four major
+traditional schools of religious law (madhhab) in the Sunni branch of Islam.  It was founded by
+Muslim theologian Muhammad ibn Idris al-Shafi'i, "the father of Muslim jurisprudence", in the early
+9th century.
+[score: 0.684] 
+
+MALIKISM IN ALGERIA
+Malikism is considered as an essential part of the Fiqh jurisprudence practice within the Islam in
+Algeria.  Algeria has adopted Malikism because the principles of this jurisprudential rite are rules
+which take into account the changes observed within the Muslim  for centuries.
+[score: 0.664] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Sunni Islamic schools.
+
+AWZA'I SCHOOL
+ The Awza'i school () was one of the schools of Fiqh, the Islamic jurisprudence, or religious law
+within Sunni Islam in the 8th century.  Its Imam was Abd al-Rahman al-Awza'i.
+[semantic similarity: 0.835] 
+
+SHAFI'I SCHOOL
+ The Shafi'i school (, also spelled Shafei), or Madhhab al-Shafi'i, is one of the four major
+traditional schools of religious law (madhhab) in the Sunni branch of Islam.  It was founded by
+Muslim theologian Muhammad ibn Idris al-Shafi'i, "the father of Muslim jurisprudence", in the early
+9th century.
+[semantic similarity: 0.797] 
+
+KITAB AL-UMM
+ The Kitab al-Umm (Arabic: ktb l'm) is the first exhaustive compendium of Islamic code of law  that
+is used as an authoritative guide by the Shafi'i school of fiqh (Islamic jurisprudence) within the
+Sunni branch of Islam.  The work was composed by the founder of the Shafi'i school, Imam ash-Shafi'i
+(767-820 CE).
+[semantic similarity: 0.730] 
+
+HANAFI SCHOOL
+ The Hanafi school (; also called Hanafite in English), Hanafism, or the Hanafi fiqh, is the oldest
+and one of the four traditional major Sunni schools (Fiqh) of Islamic Law (madhhab). It is named
+after the 8th century Kufan scholar, Abu Hanifa, a Tabi'i whose legal views were preserved primarily
+by his two most important disciples, Imam Abu Yusuf and Muhammad al-Shaybani.
+[semantic similarity: 0.726] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ABDUL CADER SHAHUL HAMEED
+ Abdul Cader Shahul Hameed (10 April 1927  - 3 September 1999) was a Sri Lankan diplomat and
+prominent political figure.  He served as Minister of Foreign Affairs of Sri Lanka from 1977 to
+1989; and from 1993 to 1994.
+[score: 0.774] 
+
+RUGAJI PARISH
+ Rugaji Parish (; ) is an administrative unit of Balvi Municipality in the Latgale region of Latvia
+(Prior to the 2009 administrative reforms it was part of Balvi District).
+[score: 0.769] 
+
+RMIT SCHOOL OF AEROSPACE, MECHANICAL AND MANUFACTURING ENGINEERING
+ The RMIT School of Aerospace, Mechanical and Manufacturing Engineering (also known as SAMME) was an
+Australian tertiary education school within the College of Science Engineering of RMIT University.
+[score: 0.768] 
+
+WORSHIPFUL COMPANY OF ARMOURERS AND BRASIERS
+ The Worshipful Company of Armourers and Brasiers is one of the livery companies of the City of
+London.  The Armourers' Guild was established in 1322; it received a royal charter in 1453.
+[score: 0.766] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 38.0 sec
+>>>> Time taken (D2V): 1.4 sec

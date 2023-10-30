@@ -1,0 +1,95 @@
+24262
+
+ARCOSANTI
+ Arcosanti is a projected experimental town with a bronze bell casting business in Yavapai County,
+central Arizona, United States,  north of Phoenix, at an elevation of . Its arcology concept was
+proposed by Italian-American architect Paolo Soleri (1919-2013).
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Geography
+
+ARCINFO
+ArcInfo (formerly ARC/INFO) is a full-featured geographic information system produced by Esri, and
+is the highest level of licensing (and therefore functionality) in the ArcGIS Desktop product line.
+It was originally a command-line based system.
+[score: 0.485] 
+
+CALAMOVILFA ARCUATA
+Calamovilfa arcuata, commonly known as Cumberland sandreed, is a species of flowering plant in the
+grass family.  It is native to the southeastern United States, where it is found in river scour
+zones.
+[score: 0.477] 
+
+GEOGRAPHY OF ARIZONA
+Arizona is a landlocked state situated in the southwestern region of the United States of America.
+It has a vast and diverse geography famous for its deep canyons, high- and low-elevation deserts,
+numerous natural rock formations, and volcanic mountain ranges.
+[score: 0.475] 
+
+CATOCTIN, ARIZONA
+Catoctin in Yavapai County, Arizona, United States was a small gold mining camp.  The camp was
+established circa 1902 and received a post office on December 29 of the same year.
+[score: 0.470] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Arizona Locations
+
+TERAVALIS
+ Teravalis, formerly known as Douglas Ranch, is a proposed  community in Buckeye, Arizona, located
+west of Phoenix, Arizona, United States.  The project had been anticipated to break ground in 2012,
+but was delayed due to a housing crisis that overtook the Phoenix metropolitan area in 2008.
+[semantic similarity: 0.568] 
+
+CATALINA MOUNTAIN SCHOOL
+ The Catalina Mountain School, located at 14500 North Oracle Road, was a juvenile correctional
+school located north of Tucson, Arizona, operated by the Arizona Department of Juvenile Corrections.
+The facility opened on June 16, 1967 as the Arizona Youth Center,https://www.
+[semantic similarity: 0.552] 
+
+DESERT RIDGE MARKETPLACE
+ Desert Ridge Marketplace is a super-regional shopping mall located just off the Loop 101 and Tatum
+Boulevard in North Phoenix, Arizona.  It was built by Vestar Development Co.
+[semantic similarity: 0.550] 
+
+DIAMOND MOUNTAIN CENTER
+ Diamond Mountain is a retreat center located south of Bowie, Arizona in the Chihuahuan Desert.
+Inspired by the Gelugpa school, it was founded by Michael Roach in 2000 and opened to students in
+September 2004.
+[semantic similarity: 0.545] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+TIANXIN, LONGCHUAN
+ Tianxin is a small town of Longchuan County, Heyuan City, Guangdong Province, China.  It is located
+in east-central part of Longchuan County, upstream of the Han River, with Xingning Town and Huilong
+Town to its east, Shikeng Town and Tiechang Town to its south, and Chiguang Town to its north.
+[score: 0.474] 
+
+PETE ALVANOS
+ Pete Alvanos is an American high school sports administrator and  former college football coach.
+He is the athletic director at North County High School in Glen Burnie, Maryland.
+[score: 0.457] 
+
+SIHEUNG COUNTY
+ Siheung County, alternatively Shihung County was a county (gun) in Gyeonggi Province, South Korea.
+This county was abolished in 1989 as its one town(eub) of Sorae and two townships(myeon) of Gunja
+and Suam became Siheung City at the same time.
+[score: 0.446] 
+
+HWANGGAN STATION
+ Hwanggan station is a railway station on the Gyeongbu Line.  Hwangsan station opened its business
+on January 1, 1905, and it belongs to Yeongdong County, North Chungcheong Province, and has an
+average of 200 passengers per day.
+[score: 0.436] 
+
+
+>>>> Time taken (SBERT): 544.3 sec
+>>>> Time taken (USE): 16.9 sec
+>>>> Time taken (D2V): 1.3 sec

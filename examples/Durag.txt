@@ -1,0 +1,107 @@
+78970
+
+DURAG
+ A durag (alternate spellings)  is a close-fitting cloth tied around the top of the head to protect
+the hair; similarly a wave cap is a close-fitting cap for the same purpose.  Durags may be worn to
+accelerate the development of long curly/kinky hair, waves or locks in the hair; to maintain natural
+oils in hair (similar to a bonnet); to stop hair breakage; to manage hair in general; or to keep
+hair, wave patterns and braids from shifting while sleeping.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:   ['hair', 'comb', 'wig', 'hairpin', 'hairstyle']
+>>>> H-Cluster Keywords:   ['head hair', 'small valley', 'word left']
+>>>> Hierarchical Cluster Size:   25
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Hairstyles.
+
+CZUPRYNA
+The czupryna (), also known as the Polish halfshaven head, is a traditional Polish noble haircut,
+associated mainly with Sarmatism, but worn by Poles in the Middle Ages too.  It is marked by shaving
+hair above the ears and on the neck at the same height, with longer hair on the top of the head.
+[score: 0.520] 
+
+HAIR TIE
+A hair tie (also called a ponytail holder, hair band, hair elastic, wrap around, gogo, or bobble) is
+an item used to fasten hair, particularly long hair, away from areas such as the face.  This is
+usually done as part of a hairstyle such as pigtails, bunches, or ponytails for straight, wavy, and
+loosely curled hair, and referred to as afro puffs, bunny tails, and "pineapples" for highly curled
+and highly textured natural hair.
+[score: 0.511] 
+
+HAIR CRIMPING
+Hair crimping is a method of styling usually straight, long hair so that it becomes wavy, often in a
+sawtooth / zig-zag fashion.  In the Southern United States, it is usually referred to as crimping,
+but also can be called crinkles or deep waves.
+[score: 0.502] 
+
+LOCK OF HAIR
+A lock of hair is a piece or pieces of hair that has been cut from, or remains singly on, a human
+head, most commonly bunched or tied together in some way.  A standard dictionary definition defines
+a lock as a tress, curl, or ringlet of hair.
+[score: 0.498] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Hair Styling Techniques
+
+BOX BRAIDS
+ Box braids are a type of hair-braiding style that is predominantly popular among African people and
+the African diaspora.  This type of hairstyle is a "protective style" (a style which can be worn for
+a long period of time to let natural hair grow and protect the ends of the hair) and is "boxy",
+consisting of square-shaped hair divisions.
+[semantic similarity: 0.657] 
+
+HAIRPIN
+ A hairpin or hair pin is a long device used to hold a person's hair in place.  It may be used
+simply to secure long hair out of the way for convenience or as part of an elaborate hairstyle or
+coiffure.
+[semantic similarity: 0.656] 
+
+SHOWER CAP
+ A shower cap (also known as a bath cap) is a hat worn while showering or bathing to protect hair
+from becoming wet.  Alternatively, shower caps for children can be crowns with wide brims that
+prevent water and shampoo from getting in the eyes while allowing the hair to be washed.
+[semantic similarity: 0.631] 
+
+BACKCOMBING
+ Backcombing (also known as teasing or ratting) is a way of combing hair which is used to create
+volume as well as to create certain hairstyles.  Backcombing is done by repeatedly combing the hair
+towards the scalp, causing the hair to tangle and knot up.
+[semantic similarity: 0.624] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+HAIR CONDITIONER
+ Hair conditioner is a hair care cosmetic product used to improve the feel, texture, appearance and
+manageability of hair.  Its main purpose is to reduce friction between strands of hair to allow
+smoother brushing or combing, which might otherwise cause damage to the scalp.
+[score: 0.511] 
+
+MUNICIPAL CASTINGS
+ Municipal castings refers to many products, including: access hatches; ballast screens; benches
+(iron or steel); bollards; cast bases; cast iron hinged hatches, square and rectangular; cast iron
+riser rings; catch basin inlet; cleanout/monument boxes; construction covers and frames; curb and
+corner guards; curb openings; detectable warning plates; downspout shoes (boot, inlet); drainage
+grates, frames and curb inlets; inlets; junction boxes; lampposts; manhole covers, rings and frames,
+risers; meter boxes; service boxes; steel hinged hatches, square and rectangular; steel riser rings;
+trash receptacles; tree grates; tree guards; trench grates; and valve boxes, covers and risers.
+[score: 0.492] 
+
+PLICA NEUROPATHICA
+ Plica neuropathica, also known as felted hair, is a curling, looping, intertwisting, and felting or
+matting of the hair in localized areas of the scalp.James, William; Berger, Timothy; Elston, Dirk
+(2005).
+[score: 0.490] 
+
+FOOTWEAR
+ Footwear refers to garments worn on the feet, which typically serve the purpose of protection
+against adversities of the environment such as wear from rough ground; stability on slippery ground;
+and temperature.
+[score: 0.474] 
+
+
+>>>> Time taken (SBERT): 5.9 sec
+>>>> Time taken (USE): 31.5 sec
+>>>> Time taken (D2V): 1.5 sec

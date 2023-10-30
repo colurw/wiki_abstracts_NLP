@@ -1,0 +1,93 @@
+39648
+
+YING CHEN
+ Ying Chen (; born February 20, 1961) is a Chinese Canadian author.  She writes mostly in French and
+also translates her own works into Chinese and English.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Writers & Artists
+
+LIU YING (WRITER)
+Liu Ying (; born February 1974) is a Chinese writer of novels and short stories.  Her work revolves
+around the exploration of women life in modern China in light of historical, political and economic
+changes.
+[score: 0.782] 
+
+HUANG YAN (ARTIST)
+Huang Yan (born 1966 in Jilin province, China) is a multimedia artist, Taoist, and businessman based
+in Beijing.  He graduated from the Changchun Normal Academy in 1987, and is currently a lecturer at
+Changchun University.
+[score: 0.732] 
+
+CHEN CHEN
+Chen Chen (born March 9, 1989) is a Chinese-American poet.  His book, When I Grow Up I Want to Be a
+List of Further Possibilities, was longlisted for the 2017 National Book Award for Poetry.
+[score: 0.729] 
+
+CHEN CUN
+Chen Cun (), pseudonym of Yang Yihua () (Shanghai, 1954), is a Hui Chinese novelist known for his
+stories about the zhiqing experience during the Cultural Revolution.  He is also one of the pioneers
+of electronic literature in China.
+[score: 0.724] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Chinese Artists
+
+HE JIANGUO
+ He Jianguo (Chinese: He Jian Guo  born 1951) is a contemporary Chinese idiosyncratic and self-
+taught calligraphy artist.Bio of Jianguo (Chinese) Art Today, retrieved February 27, 2011 He Jianguo
+is regarded as a twentieth-century artist who is continuing the literati tradition.
+[semantic similarity: 0.707] 
+
+CHEN QI (ARTIST)
+ Chen Qi (; born as }} in 1956) is a Chinese artist and co-founder of the Amphibism Art movement in
+early 1990s.  Chen was born in Shenyang, China, in the midst of Great Leap Forward.
+[semantic similarity: 0.692] 
+
+MARIE HOLZMAN
+ Marie Holzman (born 4 January 1952) is a French sinologist, university professor of Chinese,
+writer, journalist and translator.  Her research focuses on contemporary China and Chinese
+dissidents.
+[semantic similarity: 0.691] 
+
+JIANYING ZHA
+ Jianying Zha or Zha Jianying (; born 1959) is a Chinese American journalist and non-fiction writer.
+She writes and publishes in both English and Chinese.
+[semantic similarity: 0.672] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+JIANYING ZHA
+ Jianying Zha or Zha Jianying (; born 1959) is a Chinese American journalist and non-fiction writer.
+She writes and publishes in both English and Chinese.
+[score: 0.730] 
+
+CLAVOMPHALIA
+ Clavomphalia is a genus of fungi in the family Tricholomataceae.  It is a monotypic genus,
+containing only Clavomphalia yunnanensis, a Chinese species first described by German mycologist
+Egon Horak in 1987.
+[score: 0.704] 
+
+WANG JING (CANOEIST)
+ Wang Jing (, born December 22, 1971) is a Chinese sprint canoeist who competed in the early 1990s.
+She won a bronze medal in the K-4 500 m event at the 1991 ICF Canoe Sprint World Championships in
+Paris.
+[score: 0.703] 
+
+CHINESE FIGURE SKATING CHAMPIONSHIPS
+ The Chinese Figure Skating Championships () is a senior-level figure skating national championship
+held by the Chinese Figure Skating Association to determine the Chinese national champions.  Skaters
+compete in the disciplines of men's singles, ladies' singles, pair skating, and ice dancing.
+[score: 0.689] 
+
+
+>>>> Time taken (SBERT): 3.5 sec
+>>>> Time taken (USE): 30.7 sec
+>>>> Time taken (D2V): 1.4 sec

@@ -1,0 +1,97 @@
+48008
+
+DRU DRURY
+ Dru Drury (4 February 1724 - 15 December 1803) was a British collector of natural history specimens
+and an entomologist.  He received specimens collected from across the world through a network of
+ship's officers and collectors including Henry Smeathman.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Drury Family.
+
+THOMAS DRURY SMEATON
+Thomas Drury Smeaton (c.  1831 - 18 February 1908) trained in England as an engineer, emigrated to
+the British colony of South Australia, where he was known as a banker and amateur scientist.
+[score: 0.626] 
+
+HEBER DRURY
+Colonel Heber Drury (4 March 1819 - 30 October 1905) was a British army officer who worked in India
+and contributed to botany in his spare time.  He published two books and several articles on botany
+and is commemorated in the name of the only peninsular Indian species of slipper orchid in the genus
+Paphiopedilum, P.
+[score: 0.606] 
+
+WILLIAM DRURY (MP FOR SUFFOLK)
+Sir William Drury (8 March 1550 - 1589) was an English landowner and member of parliament.  He was
+the father of Sir Robert Drury, patron of the poet John Donne.
+[score: 0.591] 
+
+MICHAEL DRURY (PHYSICIAN)
+Sir Victor William Michael Drury OBE (5 August 1926 - 11 June 2014) was a British medical doctor who
+was professor of General Practice at the University of Birmingham, and in 1985 was elected president
+of the Royal College of General Practitioners.  RCP Museum
+[score: 0.542] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Collectors of specimens
+
+CHARLES STUART GREGSON
+ Charles Stuart Gregson (29 May 1817 - 31 January 1899) was an English entomological collector who
+worked as a ship painter.  He was considered a very industrious collector of specimens and named
+several species of moth.
+[semantic similarity: 0.678] 
+
+SAMUEL FENICHEL
+ Samuel Fenichel (25 August 1868 - 12 March 1893) was a Hungarian naturalist, collector, and
+explorer who died after a very brief period of 14 months in Papua New Guinea.  His main collections
+were insect specimens and several species have been named after him.
+[semantic similarity: 0.651] 
+
+RICHARD BOWDLER SHARPE
+ Richard Bowdler Sharpe (22 November 1847 - 25 December 1909) was an English zoologist and
+ornithologist who worked as curator of the bird collection at the British Museum of natural history.
+In the course of his career he published several monographs on bird groups and produced a multi-
+volume catalogue of the specimens in the collection of the museum.
+[semantic similarity: 0.650] 
+
+GEORGE KRUCK CHERRIE
+ George Kruck Cherrie (August 22, 1865 - January 20, 1948) was an American naturalist and explorer.
+He collected numerous specimens on nearly forty expeditions that he joined for museums and several
+species have been named after him.
+[semantic similarity: 0.641] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+HMAS KYBRA
+ HMAS Kybra was a support and training ship from World War II, serving with the Royal Australian
+Navy from 1940 to 1945. The name means "little ship" in Noongar.
+[score: 0.472] 
+
+FALSE NETWORK CATFISH
+ The false network catfish  (Corydoras sodalis) is a tropical freshwater fish belonging to the
+subfamily Corydoradinae of the family Callichthyidae.  It originates in inland waters in South
+America, and is found in the Amazon River in Loreto, Peru, and Amazonas, Brazil.
+[score: 0.462] 
+
+FRANCIS SPAIGHT
+ Francis Spaight was a transport ship in the 19th century, owned by an Irish merchant from Limerick,
+Ireland.  The ship was engaged in trade with North America, such as transporting Irish emigrants to
+North America and transporting timber on the return trip.
+[score: 0.461] 
+
+JADE-AMICOL NETWORK
+ The Jade-Amicol network (French: Reseau Jade-Amicol) was a French resistance network led by Claude
+Arnould and British officer Captain Philip Keun, created under the auspices of the British Secret
+Intelligence Service, commonly known as MI6. It operated from 1940 to 1944.
+[score: 0.459] 
+
+
+>>>> Time taken (SBERT): 3.4 sec
+>>>> Time taken (USE): 37.9 sec
+>>>> Time taken (D2V): 1.6 sec

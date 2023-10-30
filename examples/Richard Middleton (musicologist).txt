@@ -1,0 +1,93 @@
+73616
+
+RICHARD MIDDLETON (MUSICOLOGIST)
+ Richard Middleton FBA is Emeritus Professor of Music at Newcastle University in Newcastle upon
+Tyne.  He is also the founder and co-ordinating editor of the journal Popular Music.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['fba', 'professor', 'oxford', 'university', 'cambridge']
+>>>> H-Cluster Keywords:   ['henry bradley', 'excessively concerned', 'appearance clothes']
+>>>> Hierarchical Cluster Size:   38
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Musicology Professors
+
+JULIAN JOHNSON (ACADEMIC)
+Julian Michael Johnson FBA (born 1 July 1963) is a musicologist, specialising in music history and
+the aesthetics of modern music.  Since 2013, he has been Regius Professor of Music at Royal
+Holloway, University of London.
+[score: 0.738] 
+
+RICHARD WIDDESS
+David Richard Widdess, FBA (born 8 June 1951) is a musicologist and academic.  Since 2005, he has
+been Professor of Musicology at the School of Oriental and African Studies, University of London.
+[score: 0.712] 
+
+REINHARD STROHM
+Professor Reinhard Strohm FBA (born 4 August 1942, Munich) is a German  musicologist based largely
+in the United Kingdom, with an interest in 14th to 18th-century music.
+[score: 0.689] 
+
+SUSAN RANKIN
+Susan Kathleen Rankin, FBA, FSA, is a musicologist.  Since 2006, she has been Professor of Medieval
+Music at the University of Cambridge; she has also been a Fellow of Emmanuel College, Cambridge,
+since 1981 (having previously been a research fellow there for three years).
+[score: 0.655] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Musicians and scholars
+
+ROBERT QUINNEY
+ Robert Quinney (born 1976 in Nottingham, England) is Director of the Choir of New College, Oxford,
+and was formerly Sub-Organist at Westminster Abbey and Director of Music at Peterborough Cathedral.
+In addition to his work at New College, he has a busy freelance career as soloist, ensemble player,
+and writer on music.
+[semantic similarity: 0.627] 
+
+J. MICHAEL CLARKE
+ Professor John Michael Clarke is Director of the Electroacoustic Music Studio at the University of
+Huddersfield.  He graduated from St Chad's College, Durham.
+[semantic similarity: 0.602] 
+
+ANDREW CHUBB
+ Andrew Chubb (born 1975 in Sydney, Australia) is a Newcastle, New South Wales based pianist,
+composer, teacher, and lecturer.  Since 1999, he has taught and lectured at the Newcastle
+Conservatorium of Music, University of Newcastle, Australia.
+[semantic similarity: 0.597] 
+
+IAN BENT
+ Ian David Bent (born 1 January 1938) is a British-born music scholar.  He is now Professor
+Emeritus, after retiring from Full Professor of Music, at Columbia University and Honorary Professor
+in the History of Music Theory at the University of Cambridge.
+[semantic similarity: 0.593] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+W. S. ROCKSTRO
+ William Smith Rockstro (5 January 1823 - 1 July 1895) was an English musicologist, teacher, pianist
+and composer.  He is best remembered for his books, including music textbooks, music history and
+biographies of famous musicians.
+[score: 0.837] 
+
+LESLIE BASSETT
+ Leslie Raymond Bassett (22 January 1923 -  4 February 2016) was an American composer of classical
+music.  Bassett received the 1966 Pulitzer Prize in Music.
+[score: 0.829] 
+
+CHRIS EGAN (MUSICIAN)
+ Chris Egan is a British composer, orchestrator, conductor and musical director who has worked
+extensively on film, television and theatre music, as well as live concerts.
+[score: 0.828] 
+
+MUSIC OF THRACE
+ Music of Thrace is the music of Thrace, a region in Southeastern Europe spread over southern
+Bulgaria (Northern Thrace), northeastern Greece (Western Thrace), and European Turkey (Eastern
+Thrace).
+[score: 0.828] 
+
+
+>>>> Time taken (SBERT): 3.2 sec
+>>>> Time taken (USE): 24.9 sec
+>>>> Time taken (D2V): 1.7 sec

@@ -1,0 +1,101 @@
+21381
+
+CRISTINA BAZAN
+ Cristina Bazan is the name of a 1978 and 2016 (The Very End for Cristina Bazan), Puerto Rican
+telenovela starring Puerto Rican actress and singer Johanna Rosaly, and the Venezuelan singer/idol
+Jose Luis Rodriguez El Puma.  The soap opera, was co-produced in Puerto Rico by Radio Caracas
+Television of Venezuela and Telemundo Puerto Rico.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Actresses from the Americas.
+
+FERNANDA VILLELI
+Maria Ofelia Villenave Garza, known as Fernanda Villeli, (14 May 1921 - 1 February 2009) was a
+Mexican writer and activist, who was one of the major writers of telenovelas in Mexico.  She wrote
+for series such as Aprendiendo a amar (1980), Extranos caminos del amor (1981), El maleficio (1983),
+La traicion (1984) (with Carmen Daniels), Lo blanco y lo negro (1989), Al filo de la muerte (1991)
+(with Marcia Yance) and El diario de Daniela (1998/99) (with Marcela Fuentes Berain) .
+[score: 0.588] 
+
+ALICIA LAGANO
+Alicia Lagano is an American actress.  She is perhaps best known for her role as Cristina Castelli
+on the NBC Saturday morning series All About Us (2001) and Selena on the Lifetime television drama
+The Client List (2012-13).
+[score: 0.576] 
+
+MARIA-CHRISTINA OLIVERAS
+Maria-Christina Oliveras is an American television, stage and film actor, singer and voice-over
+artist.  She has performed extensively on Broadway, Off-Broadway, regionally, and in various films
+and television series, and is known for her versatility and transformational character work in a
+number of world premieres.
+[score: 0.549] 
+
+LINA SALOME
+Luz de Pena Matos Estevez, commonly known by her stage name Lina Salome, is a Cuban-born Mexican
+dancer and actress."Maria Argelia Vizcaino - Lina Salome", Retrieved December 11, 2010.
+[score: 0.549] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Puerto Rican actors.
+
+LUIS OLIVA (PUERTO RICAN ACTOR)
+ Luis Manuel Oliva Rodriguez (born November 24, 1951), better known as Luis Oliva, is a Puerto Rican
+mime, actor and comedian.  Born in Rio Piedras, San Juan, Puerto Rico, Oliva is considered by the
+Puerto Rican National Institute for Popular Culture as "one of the great Latin American mimes".
+[semantic similarity: 0.755] 
+
+MILLIE AVILES
+ Milagros "Millie" Aviles (alternatively known as Milly Aviles; born November 20, 1964, in Santurce,
+Puerto Rico) is a Puerto Rican actress and singer.  She is better known as a telenovela actress from
+the golden era of telenovelas in Puerto Rico, which spanned from the late 1950s to the early 1990s.
+[semantic similarity: 0.727] 
+
+MARISELA BUITRAGO
+ Marisela Buitrago Mora (born June 18, 1958) is a Venezuelan actress and beauty queen.  She is
+perhaps better known internationally for her participation in the 1982 Puerto Rican-Venezuelan film
+co-production Menudo: La Pelicula, alongside Puerto Rican boy band Menudo (where she played Rene
+Farrait's love interest) but she is also known in Venezuela for her various participations in
+telenovelas there, including the major television hit show, Leonela.
+[semantic similarity: 0.714] 
+
+KEYLLA HERNANDEZ
+ Keylla Ivonne Hernandez Ramos (May 10, 1973, Mayaguez, Puerto Rico - December 31, 2018, San Juan,
+Puerto Rico), better known as Keylla Hernandez, was a Puerto Rican television reporter.  She worked
+for WAPA-TV.
+[semantic similarity: 0.713] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ITALIAN SUBMARINE GIANFRANCO GAZZANA PRIAROGGIA
+ Gianfranco Gazzana Priaroggia  was the name of at least two ships of the Italian Navy named in
+honour of Gianfranco Gazzana-Priaroggia and may refer to:
+[score: 0.611] 
+
+TU TROUVERAS
+ "Tu trouveras" (English translation: "You Will Find") is the name of a 2002 song recorded by the
+Canadian singer Natasha St-Pier, composed by Pascal Obispo and written by Lionel Florence.
+[score: 0.603] 
+
+LAGERSTROEMIA CALYCULATA
+ Lagerstroemia calyculata known as the "Guava Crape Myrtle" (Vietnamese name : Bang Lang Oi, Bang
+Lang Cuom;  tabaek; Cambodian name: Srolao "toemsrlau"); the name is derived from its very
+characteristic mottled flaky bark.  It is a species of flowering plant in the family Lythraceae and
+found in Southeast Asia and Oceania.
+[score: 0.603] 
+
+PUNCTELIA INVOLUTA
+ Punctelia involuta is a species of foliose lichen in the family Parmeliaceae.  Found in Brazil, it
+was described as a new species in 2010 by Luciana Canez and Marcelli Marcelo.
+[score: 0.601] 
+
+
+>>>> Time taken (SBERT): 3.5 sec
+>>>> Time taken (USE): 23.7 sec
+>>>> Time taken (D2V): 1.3 sec

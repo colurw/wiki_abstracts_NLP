@@ -1,0 +1,104 @@
+26991
+
+BLAIRISM
+ In British politics, Blairism is the political ideology of Tony Blair, the former leader of the
+Labour Party and Prime Minister between 1997 and 2007, and those that support him, known as
+Blairites.  It entered the New Penguin English Dictionary in 2000.
+
+>>>> SpaCy Entity Recognition:   NORP - Nationalities or religious or political groups
+
+>>>> H-Cluster Keywords:   ['thatcher', 'margaret', 'prime', 'minister', 'conservative']
+>>>> H-Cluster Keywords:   ['margaret thatcher', 'prime minister', 'policies personal']
+>>>> Hierarchical Cluster Size:   11
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  British political ideologies.
+
+ELECTORAL HISTORY OF TONY BLAIR
+This is a summary of the electoral history of Tony Blair, who served as Prime Minister of the United
+Kingdom from 1997 to 2007 and Leader of the Labour Party from 1994 to 2007. He was the Member of
+Parliament (MP) for Sedgefield from 1983 to 2007.
+[score: 0.669] 
+
+BLATCHERISM
+Blatcherism is a term formed as a portmanteau of the names of two British politicians, Tony Blair
+(Labour Party) and Margaret Thatcher (Conservative Party). It has been used by critics of monetarism
+and economic liberalism to refer to the thesis that a policy model of the Thatcher government,
+distinct from one-nation conservatism, was resurrected when Blair came to power.
+[score: 0.654] 
+
+BROWNISM
+In British politics, Brownism is the political ideology of the former Prime Minister and leader of
+the Labour Party Gordon Brown and those that follow him.  Proponents of Brownism are referred to as
+Brownites.
+[score: 0.640] 
+
+LIBERTARIANISM IN THE UNITED KINGDOM
+Libertarianism in the United Kingdom can either refer to a political movement synonymous with
+anarchism, left-libertarianism and libertarian socialism, or to a political movement concerned with
+the pursuit of propertarian right-libertarian ideals in the United Kingdom which emerged and became
+more prominent in British politics after the 1980s neoliberalism and the economic liberalism of the
+premiership of Margaret Thatcher, albeit not as prominent as libertarianism in the United States in
+the 1970s and the presidency of Republican Ronald Reagan during the 1980s.
+[score: 0.619] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Labour Politics.
+
+BROWNISM
+ In British politics, Brownism is the political ideology of the former Prime Minister and leader of
+the Labour Party Gordon Brown and those that follow him.  Proponents of Brownism are referred to as
+Brownites.
+[semantic similarity: 0.752] 
+
+A JOURNEY
+ A Journey is a memoir by Tony Blair of his tenure as Prime Minister of the United Kingdom.
+Published in the UK on 1 September 2010, it covers events from when he became leader of the Labour
+Party in 1994 and transformed it into "New Labour", holding power for a party record three
+successive terms, to his resignation and replacement as prime minister by his Chancellor of the
+Exchequer, Gordon Brown.
+[semantic similarity: 0.715] 
+
+BERET BRATEN
+ Beret Braten (born 27 February 1965) is a Norwegian sociologist, political scientist and Labour
+Party politician.  She was deputy leader of the Labour Party's youth wing, the Workers' Youth League
+(1992-1994), and was a political adviser in the Prime Minister's Office and a close confidant of
+prime minister Thorbjorn Jagland during his tenure from 1996 to 1997.
+[semantic similarity: 0.714] 
+
+NEW LABOUR
+ New Labour was a period in the history of the British Labour Party from the mid to late 1990s until
+2010 under the leadership of Tony Blair and Gordon Brown.  The name dates from a conference slogan
+first used by the party in 1994, later seen in a draft manifesto which was published in 1996 and
+titled New Labour, New Life for Britain.
+[semantic similarity: 0.711] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+JOSE MIGUEL CORRALES BOLANOS
+ Jose Miguel Corrales Bolanos  (born 29 September 1938) is a Costa Rican politician.  he was the
+National Liberation Party candidate in the 1998 presidential election, and the New Motherland Party
+candidate in the 2014 presidential election.
+[score: 0.668] 
+
+PARMOTREMA ANCHIETANUM
+ Parmotrema anchietanum is a species of saxicolous lichen in the family Parmeliaceae.  Found in
+South America, it was described as new to science in 2008.
+[score: 0.654] 
+
+JOSE CHICO VEGA
+ Jose Chico Vega is a Puerto Rican politician affiliated with the New Progressive Party (PNP). He
+was a member of the Puerto Rico House of Representatives from 2000 to 2013.
+[score: 0.649] 
+
+OFA SWANN
+ Ofakilomaloma Swann, also known as Ofa Duncan,  is a Fijian lawyer, academic, and former
+politician.  She served in the House of Representatives of Fiji from 1999 to 2006, and was leader of
+the New Labour Unity Party.
+[score: 0.639] 
+
+
+>>>> Time taken (SBERT): 6.0 sec
+>>>> Time taken (USE): 66.3 sec
+>>>> Time taken (D2V): 5.7 sec

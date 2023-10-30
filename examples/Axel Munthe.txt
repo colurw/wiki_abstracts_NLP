@@ -1,0 +1,103 @@
+13436
+
+AXEL MUNTHE
+ Axel Martin Fredrik Munthe (31 October 1857 - 11 February 1949) was a Swedish-born physician and
+psychiatrist, best known as the author of The Story of San Michele, an autobiographical account of
+his life and work.  He spoke several languages (Swedish, English, French, Italian fluently, and
+German at least passably), grew up in Sweden, attended medical school there, then studied medicine
+in Paris and opened his first practice in France.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Medical History
+
+THE STORY OF SAN MICHELE
+The Story of San Michele is a book of memoirs by Swedish physician Axel Munthe (October 31, 1857 -
+February 11, 1949) first published in 1929 by British publisher John Murray.  Written in English, it
+was a bestseller in numerous languages and has been republished constantly in the nine decades since
+its original release.
+[score: 0.825] 
+
+JOHN SANNESS
+John Christian Munthe Sanness (24 May 1913 - 6 November 1984) was a Norwegian historian and
+politician for the Labour Party.  He is known as the director of the Norwegian Institute of
+International Affairs from 1960 to 1983, professor at the University of Oslo from 1966 to 1983 and
+chair of the Norwegian Nobel Committee from 1979 to 1981.
+[score: 0.562] 
+
+AUGUSTO MURRI
+Augusto Murri (8 September 1841, Fermo - 11 November 1932, Bologna) was an Italian physician.
+Appointed to the Chair of Clinical Medicine at the University of Bologna in 1875, he was regarded as
+one of the most illustrious clinical doctors and innovators of his times (in Pathological Anatomy,
+Histology, Microbiology and Experimental Physiopathology).
+[score: 0.558] 
+
+GENNADY MURAVIN
+Gennady L'vovich Muravin (Gennadii L'vovich Muravin; 14 May 1931 - 8 November 2021) was a Russian
+translator, journalist and artist, who lived and worked mostly in Estonia and Finland.
+[score: 0.549] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Historical Figures
+
+HIPPOLYTE BERNHEIM
+ Hippolyte Bernheim (17 April 1840, in Mulhouse - 2 February 1919, in Paris) was a French physician
+and neurologist.  He is chiefly known for his theory of suggestibility in relation to hypnotism.
+[semantic similarity: 0.643] 
+
+CLARA NORDSTROM
+ Clara Nordstrom, maiden name and pseudonym for Clara Elisabet von Vegesack, (January 18, 1886 in
+Karlskrona, Sweden - February 7, 1962 in Mindelheim, West Germany) was a German writer and
+translator of Swedish descent.  With the themes of her writing and her Swedish maiden name she
+profited from the German interest for Scandinavian writers.
+[semantic similarity: 0.632] 
+
+GINA LOMBROSO
+ Gina Elena Zefora Lombroso (5 October 1872 in Pavia - 27 March 1944 in Geneva) was an Italian
+physician, writer, psychiatrist, and criminologist, best remembered for her uncredited writings on
+the subjects of criminology and psychiatry co-authored with her father Cesare Lombroso, her
+individual writings on the female condition and industrialisation.  She was the wife of Italian
+historian and writer Guglielmo Ferrero (1871-1942) and hence adopted the surname Ferrero-Lombroso.
+[semantic similarity: 0.629] 
+
+JEAN BORLIN
+ Jean Borlin was a Swedish dancer and choreographer, who was born in Harnosand on March 13, 1893 and
+who died in New York on December 6, 1930. He worked with Michel Fokine, who was his teacher in
+Stockholm.
+[semantic similarity: 0.626] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ASTRID AHNFELT
+ Astrid Ahnfelt (1876-1962) was a Swedish author, translator, foreign correspondent, and journal
+editor who wrote short stories and novels in both Swedish and Italian.  She is remembered
+principally for fostering cultural exchanges between Sweden and Italy.
+[score: 0.669] 
+
+SLOTTSSKOGENS DJURPARK
+ Slottskogens djurpark is a Swedish zoo in the park Slottsskogen, located in the town Gothenburg in
+Sweden.  It is a member of the European Association of Zoos and Aquaria (EAZA).
+[score: 0.666] 
+
+AXEL DANIELSSON
+ Axel Danielsson (15 December 1863, Varmland - 30 December 1899, Elsterberg, Germany) was a Swedish
+socialist agitator, journalist and writer.  He was a prominent leader of the early Swedish Social
+Democratic Party.
+[score: 0.663] 
+
+LOTTEN RONQUIST
+ Charlotta (Lotten) Sofia Ronquist (1864-1912) was a Swedish painter who was active in the late 19th
+and early 20th centuries.  After attending the Swedish Academy, she completed her studies in France
+and Italy.
+[score: 0.660] 
+
+
+>>>> Time taken (SBERT): 3.3 sec
+>>>> Time taken (USE): 28.9 sec
+>>>> Time taken (D2V): 1.6 sec

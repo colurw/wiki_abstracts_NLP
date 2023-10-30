@@ -1,0 +1,95 @@
+45017
+
+PTOLEMY XI ALEXANDER II
+ Ptolemy XI Alexander II (, Ptolemaios Alexandros) was a member of the Ptolemaic dynasty who ruled
+Egypt for a few days in 80 BC. He was a son of Ptolemy X Alexander I and Cleopatra Selene.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['bc', 'ptolemy', 'alexander', 'son', 'ptolemaic']
+>>>> H-Cluster Keywords:   ['514 bc', 'ptolemy brother', 'son ptolemy']
+>>>> Hierarchical Cluster Size:   24
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Greek Ptolemy lineage.
+
+PTOLEMY (GENERAL)
+Ptolemaeus () or Ptolemy (died 309 BC) was a nephew and general of Antigonus I Monophthalmus, one of
+the Successors of Alexander the Great.  His father was also called Ptolemy and was a brother of
+Antigonus.
+[score: 0.757] 
+
+PTOLEMY II OF TELMESSOS
+Ptolemy II of Telmessos (, flourished second half of 3rd century BC & first half of 2nd century BC)
+who is also known as Ptolemy II.Ptolemaic Genealogy: Ptolemy "the Son", Footnote 12Billows, Kings
+and colonists: aspects of Macedonian imperialism, p.
+[score: 0.756] 
+
+PTOLEMY PHILADELPHUS (SON OF CLEOPATRA)
+Ptolemy Philadelphus (, Ptolemaios Philadelphos, "Ptolemy the brother-loving", August/September 36
+BC - 29 BC) was a Ptolemaic prince and was the youngest and fourthThe Life of Rome's First Emperor:
+Augustus, Anthony Everitt, p.  157 child of Greek Ptolemaic Queen Cleopatra VII of Egypt, and her
+third with Roman Triumvir Mark Antony.
+[score: 0.739] 
+
+PTOLEMY OF THEBES
+In Greek mythology, Ptolemy or Ptolomeus (;Ancient Greek: Ptolemaios) was an ancestral ruler of
+Thebes, in ancient Greece living in the 12th century BCE. His father was Damasichthon; his son,
+Xanthus.
+[score: 0.721] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Ptolemaic Dynasty.
+
+BERENICE IV
+ Berenice IV Epiphaneia (; 77-55 BC, born and died in Alexandria, Egypt) was a Greek princess and
+Queen of the Ptolemaic dynasty.  From 58 to 55 BC, Berenice IV ruled Egypt during the political
+exile of her father Ptolemy XII Auletes to Rome.
+[semantic similarity: 0.741] 
+
+ANTIOCHUS VI DIONYSUS
+ Antiochus VI Dionysus (c.  148-142/1 BC), king of the Hellenistic Seleucid kingdom, was the son of
+Alexander Balas and Cleopatra Thea, daughter of Ptolemy VI of Egypt.
+[semantic similarity: 0.718] 
+
+EARLY LIFE OF CLEOPATRA
+ The early life of Cleopatra VII of Ptolemaic Egypt covers the period from her birth in early 69 BC
+to her accession to the throne during or before March 51 BC. Cleopatra was the daughter of reigning
+pharaoh Ptolemy XII Auletes; the identity of her mother is disputed and is presumed to have been
+Cleopatra V or Cleopatra VI, who may have been the same person.
+[semantic similarity: 0.715] 
+
+PTOLEMY PHILADELPHUS (SON OF CLEOPATRA)
+ Ptolemy Philadelphus (, Ptolemaios Philadelphos, "Ptolemy the brother-loving", August/September 36
+BC - 29 BC) was a Ptolemaic prince and was the youngest and fourthThe Life of Rome's First Emperor:
+Augustus, Anthony Everitt, p.  157 child of Greek Ptolemaic Queen Cleopatra VII of Egypt, and her
+third with Roman Triumvir Mark Antony.
+[semantic similarity: 0.710] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+DEOXYRIBONUCLEASE X
+ Deoxyribonuclease X (, Escherichia coli endodeoxyribonuclease, Escherichia coli
+endodeoxyribonuclease X) is an enzyme.  This enzyme catalyses the following chemical reaction
+[score: 0.748] 
+
+PEETER TULVISTE
+ Peeter Tulviste (28 October 1945 in Tallinn - 11 March 2017) was an Estonian psychologist, educator
+and politician.  He was a member of X and XI Riigikogu.
+[score: 0.747] 
+
+RETINOID X RECEPTOR BETA
+ Retinoid X receptor beta (RXR-beta), also known as NR2B2 (nuclear receptor subfamily 2, group B,
+member 2) is a nuclear receptor that in humans is encoded by the RXRB gene.
+[score: 0.743] 
+
+RETINOID X RECEPTOR ALPHA
+ Retinoid X receptor alpha (RXR-alpha), also known as NR2B1 (nuclear receptor subfamily 2, group B,
+member 1) is a nuclear receptor that in humans is encoded by the RXRA gene.
+[score: 0.738] 
+
+
+>>>> Time taken (SBERT): 7.4 sec
+>>>> Time taken (USE): 56.5 sec
+>>>> Time taken (D2V): 6.2 sec

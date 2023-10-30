@@ -1,0 +1,98 @@
+29350
+
+HOLLYWOOD STOCK EXCHANGE
+ The Hollywood Stock Exchange, or HSX, is a web-based, multiplayer game in which players use
+simulated money to buy and sell "shares" of actors, directors, upcoming films, and film-related
+options.  The game uses Virtual Specialist technology invented by HSX co-founders and  creators Max
+Keiser and Michael R.
+
+>>>> SpaCy Entity Recognition:   ORG - Companies, agencies, institutions, etc.
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Financial exchanges.
+
+WBX
+World Bet Exchange (WBX) was a person-to-person betting exchange based in Notting Hill Gate, London
+in the United Kingdom, and licensed and regulated by the UK Gambling Commission.  WBX.
+[score: 0.555] 
+
+CHINA BEIJING EQUITY EXCHANGE
+China Beijing Equity Exchange (CBEX; ) is an equity transaction bourse and platform run by the
+government of Beijing for mergers, acquisitions and restructuring of state-owned enterprises.
+[score: 0.550] 
+
+HOLLYWOOD HIJINX
+Hollywood Hijinx is an interactive fiction video game written by Dave Anderson and Liz Cyr-Jones and
+published by Infocom in 1986. The game was released for the  Apple II, Atari 8-bit family, Atari ST,
+Amstrad CPC, Amstrad PCW, Commodore 64, Amiga, TI-99/4A, and DOS.
+[score: 0.533] 
+
+HSBC INVESTDIRECT
+HSBC InvestDirect is the retail electronic trading platform by HSBC Securities, for DIY Investors.
+HSBC InvestDirect is intended for those who understand the loss of capital investment risks involved
+in trading in the capital markets, since no portfolio management advice is provided as part of the
+service.
+[score: 0.525] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Simulation Games.
+
+MARKSTRAT
+ Markstrat is a simulation video game developed by Jean-Claude Larreche and Professor Hubert
+Gatignon, in which players take control of a virtual corporation.  Players make a number of
+decisions in marketing, finance, research and development, and other areas in order to achieve a
+better performance than competing players, who also take control of their own companies.
+[semantic similarity: 0.594] 
+
+VIRTONOMICS
+ Virtonomics is a massively multiplayer business simulation video game developed by Cyprus indie
+developer Gamerflot.  It allows the players to be in charge of fictional start-ups in several
+industries.
+[semantic similarity: 0.572] 
+
+BEHAVIOR AUTHORING
+ Behavior authoring is a technique that is widely used in crowd simulations and in simulations and
+computer games that involve multiple autonomous or non-player characters (NPCs). There has been
+growing academic and industry interest in the behavioral animation of autonomous actors in virtual
+worlds.
+[semantic similarity: 0.545] 
+
+THE SIMEXCHANGE
+ The simExchange is a web-based prediction market in which players use virtual money to buy and sell
+stocks and futures contracts in upcoming video game properties.  The main purpose of the web site is
+to predict trends in the video game industry, particularly how upcoming products will sell and how
+they will be received by the critics.
+[semantic similarity: 0.537] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+LEE VS. MEADE
+ Lee vs.  Meade, subtitled "The Battle of Gettysburg", is a board wargame published by Rand Game
+Associates (RGA) in 1974 that simulates the Battle of Gettysburg during the American Civil War.
+[score: 0.684] 
+
+SPELLBREAKER
+ Spellbreaker is an interactive fiction computer game written by Dave Lebling and published by
+Infocom in 1985, the third and final game in the "Enchanter Trilogy."  It was released for the
+Amiga, Amstrad CPC, Apple II, Atari 8-bit family, Atari ST, Commodore 64, Macintosh, and DOS.
+[score: 0.681] 
+
+DUNGEON LORDS (BOARD GAME)
+ Dungeon Lords is a fantasy-themed euro-style board game with focus on resource management for 2-4
+players, released in 2009. It was designed by Vlaada Chvatil.
+[score: 0.681] 
+
+BHANDARKAR
+ Bhandarkar is common surname found amongst the Konkani people and Maharashtrians, Karnataka,
+kerala, Goa  in India.  Notable people with the surname include:
+[score: 0.680] 
+
+
+>>>> Time taken (SBERT): 3.1 sec
+>>>> Time taken (USE): 30.0 sec
+>>>> Time taken (D2V): 1.5 sec

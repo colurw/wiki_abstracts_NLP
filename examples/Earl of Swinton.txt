@@ -1,0 +1,89 @@
+35748
+
+EARL OF SWINTON
+ Earl of Swinton is a title in the Peerage of the United Kingdom.  It was created in 1955 for the
+prominent Conservative politician Philip Cunliffe-Lister, 1st Viscount Swinton.
+
+>>>> SpaCy Entity Recognition:   PERSON - People, including fictional
+
+>>>> H-Cluster Keywords:   ['peerage', 'title', 'baron', 'created', 'earl']
+>>>> H-Cluster Keywords:   ['title peerage', 'peerage united', 'kingdom created']
+>>>> Hierarchical Cluster Size:   383
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Earls in UK.
+
+EARL OF DURHAM
+Earl of Durham is a title in the Peerage of the United Kingdom.  It was created in 1833 for the Whig
+politician and colonial official John Lambton, 1st Baron Durham.
+[score: 0.689] 
+
+JOHN SWINTON (THEOLOGIAN)
+John Swinton,  (born 1957) is a Scottish theologian, academic, and Presbyterian minister.  He is the
+Chair in Divinity and Religious Studies at the School of Divinity, History, and Philosophy,
+University of Aberdeen.
+[score: 0.640] 
+
+EARL OF SHAFTESBURY
+Earl of Shaftesbury is a title in the Peerage of England.  It was created in 1672 for Anthony
+Ashley-Cooper, 1st Baron Ashley, a prominent politician in the Cabal then dominating the policies of
+King Charles II.
+[score: 0.636] 
+
+EARL OF CRANBROOK
+Earl of Cranbrook is a title in the Peerage of the United Kingdom, created in 1892 for Gathorne
+Gathorne-Hardy, Viscount Cranbrook.  The title is named after Cranbrook in the county of Kent.
+[score: 0.635] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Noble Titles.
+
+EARL OF WOOLTON
+ Earl of Woolton is a title in the Peerage of the United Kingdom.  It was created on 9 January 1956
+for the businessman and Conservative politician Frederick Marquis, 1st Viscount Woolton.
+[semantic similarity: 0.800] 
+
+EARL OF KIMBERLEY
+ Earl of Kimberley, of Kimberley in the County of Norfolk, is a title in the Peerage of the United
+Kingdom.  It was created in 1866 for the prominent Liberal politician John Wodehouse, 3rd Baron
+Wodehouse.
+[semantic similarity: 0.776] 
+
+EARL OF HARDWICKE
+ Earl of Hardwicke is a title in the Peerage of Great Britain.  It was created in 1754 for Philip
+Yorke, 1st Baron Hardwicke, Lord High Chancellor of Great Britain from 1737 to 1756.
+[semantic similarity: 0.764] 
+
+PONSONBY BARONETS
+ The Ponsonby baronetcy, of Wootton in the County of Oxford, is a title in the Baronetage of the
+United Kingdom.  It was created on 27 January 1956 for the Conservative politician Charles Ponsonby.
+[semantic similarity: 0.745] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+ZIHNI ABAZ KANINA
+ Zihni Abas Kanina Hamzaraj (18 January 1885 in Kanina, Ottoman Empire - 1959 in Tirana, Albania)
+was a prominent Albanian diplomat and politician.  He was one of the signatories of Albanian
+Declaration of Independence.
+[score: 0.785] 
+
+JOHN HUTTON (ARTIST)
+ John Hutton (Clyde, New Zealand 8 August 1906 - 1978) was a New Zealand prominent glass engraving
+artist, who spent most of his career in the United Kingdom.
+[score: 0.782] 
+
+RAUZA ISLANOVA
+ Rauza Muhamedzhanovna Islanova (; born February 8, 1948, in Moscow, Russian SFSR, Soviet Union) is
+a prominent Russian tennis coach and former tennis player.
+[score: 0.781] 
+
+MUHAMMAD ABDULLAH DRAZ
+ Muhammad Abdullah Draz (Arabic: mHmd `bd llh drz) (1958-1894) was a prominent Egyptian Quran
+scholar and Professor of Islamic studies at Al-Azhar University.
+[score: 0.777] 
+
+
+>>>> Time taken (SBERT): 6.4 sec
+>>>> Time taken (USE): 38.5 sec
+>>>> Time taken (D2V): 6.3 sec

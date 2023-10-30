@@ -1,0 +1,98 @@
+69927
+
+PROSPECTIVE SHORT-CIRCUIT CURRENT
+ The prospective short-circuit current (PSCC), available fault current, or short-circuit making
+current is the highest electric current which can exist in a particular electrical system under
+short-circuit conditions.  It is determined by the voltage and impedance of the supply system.
+
+>>>> SpaCy Entity Recognition:   [---] - No category found
+
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> H-Cluster Keywords:    Niche article - no cluster found
+>>>> Hierarchical Cluster Size:   n/a
+
+
+>>>> ChatGPT-SentenceBERT Cluster Label:  Electrical Circuit Faults
+
+SHORT CIRCUIT
+A short circuit (sometimes abbreviated to short or s/c) is an electrical circuit that allows a
+current to travel along an unintended path with no or very low electrical impedance.  This results
+in an excessive current flowing through the circuit.
+[score: 0.693] 
+
+CONDITIONAL SHORT-CIRCUIT CURRENT
+Conditional short-circuit current is the value of the alternating current component of a prospective
+current, which a switch without integral short-circuit protection, but protected by a suitable short
+circuit protective device (SCPD) in series, can withstand for the operating time of the current
+under specified test conditions.  It may be understood to be the RMS value of the maximum
+permissible current over a specified time interval (t0,t1) and operating conditions.
+[score: 0.688] 
+
+ELECTRICAL FAULT
+In an electric power system, a fault  or fault current is any abnormal electric current.  For
+example, a short circuit is a fault in which a live wire touches a neutral or ground wire.
+[score: 0.573] 
+
+PASSIVE SIGN CONVENTION
+In electrical engineering, the passive sign convention (PSC) is a sign convention or arbitrary
+standard rule adopted universally by the electrical engineering community for defining the sign of
+electric power in an electric circuit.   The convention defines electric power flowing out of the
+circuit into an electrical component as positive, and power flowing into the circuit out of a
+component as negative.
+[score: 0.543] 
+
+
+>>>> ChatGPT-USE Cluster Label:  Power factors
+
+POWER FACTOR
+ In electrical engineering, the power factor of an AC power system is defined as the ratio of the
+real power absorbed by the load to the apparent power flowing in the circuit.  Real power is the
+average of the instantaneous product of voltage and current and represents the capacity of the
+electricity for performing work.
+[semantic similarity: 0.637] 
+
+HOLDING CURRENT (ELECTRONICS)
+ The holding current (hypostatic) for electrical, electromagnetic, and electronic devices is the
+minimum current which must pass through a circuit in order for it to remain in the 'ON' state.  The
+term can be applied to a single switch or to an entire device.
+[semantic similarity: 0.635] 
+
+LEADING AND LAGGING CURRENT
+ Leading and lagging current are phenomena that occur as a result of alternating current.  In a
+circuit with alternating current, the value of voltage and current vary sinusoidally.
+[semantic similarity: 0.629] 
+
+VOLTAGE SYMMETRIZATION SYSTEM
+ Voltage Symmetrization System (VSS) was developed especially for electric power networks with great
+phase voltage unbalance.  It is a three-phase system which enables earth-fault current and charging
+current elimination.
+[semantic similarity: 0.628] 
+
+
+ >>>> Semantically Similar Articles (Doc2Vec): 
+
+LIGA FUTEBOL AMADORA PRIMEIRA DIVISAO
+ Liga Futebol Amadora Primeira Divisao (often referred to as the LFA Primeira Divisao) is the
+highest division of the Liga Futebol Amadora and the highest overall in the Timorense football
+league system.
+[score: 0.583] 
+
+DESCENDING GENICULAR ARTERY
+ The descending genicular artery (also known as the highest genicular artery) arises from the
+femoral artery just before its passage through the adductor hiatus.
+[score: 0.576] 
+
+DABHOSA WATERFALLS
+ Dabhosa Waterfall is a waterfall situated in the village of Dabhosa in Jawhar Tehsil, Palghar
+district, Maharashtra, India.  This is one of the highest waterfalls situated near Mumbai.
+[score: 0.569] 
+
+RAVIVASRIYA HINDUSTAN
+ Ravivasriya Hindustan is an Indian weekly newspapers which is the highest circulated weekly
+newspaper in India.  It is owned by Hindustan Media Ventures.
+[score: 0.566] 
+
+
+>>>> Time taken (SBERT): 3.6 sec
+>>>> Time taken (USE): 19.1 sec
+>>>> Time taken (D2V): 1.7 sec

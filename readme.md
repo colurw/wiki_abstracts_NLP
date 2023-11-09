@@ -68,7 +68,7 @@ The difference may be due to the optimised 'cosine similarity' search function
 included with the SBERT library compared to my implemention of it in Tensorflow, or due to the time complexity of running the 
 search on a 384 dimension embedding, compared to one with 512 dimensions.  
 
-SpaCy appears to mediocre at topic labelling, but would very likely have been improved by choosing to use a larger language model.
+SpaCy appears to mediocre at entity recognition, but would very likely have been improved by choosing to download and use a larger language model.
 
 Chat-GPT performs exceptionally well, after some basic prompt engineering.  TF-IDF, despite its more rudimentary nature, also provides 
 useful, if less precise, results.

@@ -63,8 +63,10 @@ These text files can be found in the /examples folder.
 Doc2Vec performs the worst at finding semantically similar articles, although this perhaps
 isn't surprising given the relatively small training corpus in this case.  The pre-trained transformer
 models do much better at the task, with USE taking a significantly longer time than SBERT, 
-whilst producing mostly similar results.  The difference seems to be due to the optimised 'cosine similarity' search function
-included with the SBERT library, compared to my implemention of it in Tensorflow, to do the same search in the USE embedding.
+whilst producing mostly similar results.  
+The difference may be due to the optimised 'cosine similarity' search function
+included with the SBERT library compared to my implemention of it in Tensorflow, or due to the time complexity of running the 
+search on a 384 dimension embedding, compared to one with 512 dimensions.  
 
 SpaCy appears to mediocre at topic labelling, but would very likely have been improved by choosing to use a larger language model.
 

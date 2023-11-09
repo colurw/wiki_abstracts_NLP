@@ -32,12 +32,15 @@ abstract, helping it to distinguish, say, Apple [ORG] from Apple [PRODUCT].
 ## 4_H-cluster_keywords.py  
 
 Applies a Text Frequency-Inverse Document Frequency (TF-IDF)
-calculation on words found per cluster of semantically-similar articles.  
-The clusters are generated using a non-linear dimensionality reduction method (UMAP) 
-followed by a hierachical clustering method (HBDSCAN) - in the hopes of preserving 
-as much higher dimension structure as possible, and avoiding the downsides of 
-k-means clustering, such as forcing outliers into clusters, and having to guess the 
-total number of clusters beforehand.  
+calculation on words found per cluster of semantically-similar articles in the SBERT embedding.  
+
+The clusters are found using a non-linear dimensionality reduction method (UMAP) 
+followed by a hierachical clustering method (HDBSCAN).  The first step is necessary to limit the 
+quadratic time complexity of the second step.
+
+Using HDBSCAN avoids the downsides of k-means clustering, such as forcing outliers into clusters, 
+and having to guess the total number of clusters beforehand.  It also able to preserve more of
+the higher dimension structure of the data by 'compressing' empty regions in the embedding-space.
 
 Words and phrases found by the TF-IDF method can be considered as keywords (or 
 rarely, descriptors) of a topic - rather than true topic labels.
@@ -60,10 +63,12 @@ These text files can be found in the /examples folder.
 Doc2Vec performs the worst at finding semantically similar articles, although this perhaps
 isn't surprising given the relatively small training corpus in this case.  The pre-trained transformer
 models do much better at the task, with USE taking a significantly longer time than SBERT, 
-whilst producing typically similar results.
+whilst producing mostly similar results.  The difference seems to be due to the optimised 'cosine similarity' search function
+included with the SBERT library, compared to my implemention of it in Tensorflow, to do the same search in the USE embedding.
 
-SpaCy does OK at topic labelling, whilst Chat-GPT performs exceptionally well, after some 
-basic prompt engineering.  TF-IDF, despite its more rudimentary nature, also provides 
+SpaCy appears to mediocre at topic labelling, but would very likely have been improved by choosing to use a larger language model.
+
+Chat-GPT performs exceptionally well, after some basic prompt engineering.  TF-IDF, despite its more rudimentary nature, also provides 
 useful, if less precise, results.
 
 

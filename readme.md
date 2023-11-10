@@ -14,7 +14,7 @@ paragraph of an article) from wikipedia.org and creates a CSV file containing
 List articles, recurrent events, and articles with abstracts shorter than 150 
 characters are excluded.
 
-## 2x_[model]_train/embed/etc.py 
+## 2x_[model]_tokenize_train_embed.py 
 
 Creates document-level embeddings of each article.  
 Three models and their libraries are compared: Sentence_Transformers' Sentence-BERT, 

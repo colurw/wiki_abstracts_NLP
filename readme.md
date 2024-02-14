@@ -73,6 +73,9 @@ Chat-GPT performs exceptionally well, after some basic prompt engineering.  TF-I
 useful, if less precise, results.
 
 
+## More
+
+Attempts at applying these techniques to the latent space of a Large Language Model can be found [here](https://github.com/colurw/pandora_NLP).
 
 
 
